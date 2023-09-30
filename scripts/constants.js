@@ -24,66 +24,24 @@ const warriors = {
 			],
 			'Stage': "Battle of Cheng Du",
 			'Requirement': "Defeat Liu Xun's three sub-generals then defeat Liu Xun himself, and capture Luo Castle."
-		}, {
-			'Game': "SW",
-			'Name': "Rakan",
-			'Rank': 6,
-			'Base': 57,
-			'Element': "Fire",
-			'Stats': [
-				"Life: 50",
-				"Attack: 65",
-				"Horse Attack: 67",
-				"Musou Charge: 65"
-			],
-			'Stage': "Battle of Yamazaki",
-			'Requirement': "Complete the first mission, stop Keiji before he reaches Mount Tennō and proceed to defeat Hanbei Takenaka and Kazumasu Takigawa without ally casualties. Then defeat Hideyoshi before he enters the main camp. Supply units will appear to the north-western entry and head south."
-		}, {
-			'Game': "SW2",
-			'Name': "Dragon's Tail",
-			'Rank': 4,
-			'Base': 45,
-			'Element': "Fire",
-			'Stats': [
-				"Life: 19",
-				"Attack: 35",
-				"Defense: 38",
-				"Musou Charge: 32",
-				"Ride: 18"
-			],
-			'Stage': "Osaka Castle",
-			'Requirement': "Prevent the enemy from infiltrating the castle. Stop the cannons from firing and make sure that Masamune and Ina do not enter the main keep."
-		}, {
-			'Game': "SW2",
-			'Name': "Tiger's Blood",
-			'Rank': 5,
-			'Base': 45,
-			'Element': "Lightning",
-			'Stats': [
-				"Musou: 35",
-				"Attack: 36",
-				"Defense: 34",
-				"Ride: 35"
-			],
-			'Stage': "Ueda Castle",
-			'Requirement': "Quickly escort Mino Kaneko to the flood gate. Defeat all three Hanzō clones on the map within three minutes."
 		}
 	],
-	'Keiji': [
+	'Guan Yu': [
 		{
-			'Game': "SW",
-			'Name': "Izanagi",
-			'Rank': 5,
-			'Base': 50,
-			'Element': "Lightning",
+			'Game': "DW5",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 38,
+			'Element': "Light",
 			'Stats': [
-				"Life: 50",
-				"Attack: 46",
-				"Horse Attack: 44",
-				"Musou Charge: 25"
+				"Life: 18",
+				"Attack: 18",
+				"Defense: 17",
+				"Horse: 16",
+				"Charge: 16"
 			],
-			'Stage': "Challenge of Kawanakajima",
-			'Requirement': "Defeat all the enemy officers and sub-officers by yourself. (note: if one of the sub-officers withdraws or any of the officers is defeated by one of your allies, the item is lost). The supply team will appear in the south-east and head north."
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "Defeat Niu Jin and Yue Jin before the water attack is triggered."
 		}, {
 			'Game': "SW",
 			'Name': "Ni-Oh Pike",
