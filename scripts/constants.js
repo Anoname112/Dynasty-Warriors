@@ -42,48 +42,6 @@ const warriors = {
 			],
 			'Stage': "Battle of Fan Castle",
 			'Requirement': "Defeat Niu Jin and Yue Jin before the water attack is triggered."
-		}, {
-			'Game': "SW",
-			'Name': "Ni-Oh Pike",
-			'Rank': 6,
-			'Base': 60,
-			'Element': "Lightning",
-			'Stats': [
-				"Life: 50",
-				"Musou: 30",
-				"Attack: 75",
-				"Defense: 56"
-			],
-			'Stage': "Dance of Kyoto",
-			'Requirement': "Defeat 2000 enemies."
-		}, {
-			'Game': "SW2",
-			'Name': "Divine Mandible",
-			'Rank': 4,
-			'Base': 50,
-			'Element': "Lightning",
-			'Stats': [
-				"Life: 18",
-				"Attack: 53",
-				"Musou Charge: 49",
-				"Ride: 19"
-			],
-			'Stage': "Battle of Hasedo",
-			'Requirement': "Defeat 1000 enemies."
-		}, {
-			'Game': "SW2",
-			'Name': "Winged Serpent",
-			'Rank': 5,
-			'Base': 50,
-			'Element': "Fire",
-			'Stats': [
-				"Musou: 40",
-				"Dexterity: 32",
-				"Musou Charge: 36",
-				"Range: 35"
-			],
-			'Stage': "Tournament of Champions (Dream)",
-			'Requirement': "Keep Yukimura and Kanetsugu alive. Within 10 minutes from start, defeat Hanzō, Musashi, Kojirō, Yoshihiro, and Masamune. Kojirō and Musashi spawns at south town area, Yoshihiro and Masamune spawns when you defeat Musashi and Kojirō."
 		}
 	],
 	'Nobunaga': [
