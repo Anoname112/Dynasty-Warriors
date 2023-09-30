@@ -88,5 +88,5 @@ const warriors = {
 	'Pang Tong': [],
 	'Yue Ying': [],
 	'Jiang Wei': [],
-	'Xingcai': []
+	'Xing Cai': []
 };
