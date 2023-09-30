@@ -80,7 +80,24 @@ const warriors = {
 			'Requirement': "Defeat Xiahou Mao and receive Nan An Castle; also defeat Cui Liang and receive An Ding Castle. Wait for Jiang Wei's 'I must return to Tian Shui Castle' message, and defeat him before he gets to Tian Shui Castle."
 		}
 	],
-	'Liu Bei': [],
+	'Liu Bei': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
 	'Ma Chao': [],
 	'Huang Zhong': [],
 	'Wei Yan': [],
