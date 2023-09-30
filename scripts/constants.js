@@ -79,5 +79,14 @@ const warriors = {
 			'Stage': "Battle of Tian Shui (Shu)",
 			'Requirement': "Defeat Xiahou Mao and receive Nan An Castle; also defeat Cui Liang and receive An Ding Castle. Wait for Jiang Wei's 'I must return to Tian Shui Castle' message, and defeat him before he gets to Tian Shui Castle."
 		}
-	]
+	],
+	'Liu Bei': [],
+	'Ma Chao': [],
+	'Huang Zhong': [],
+	'Wei Yan': [],
+	'Guan Ping': [],
+	'Pang Tong': [],
+	'Yue Ying': [],
+	'Jiang Wei': [],
+	'Xingcai': []
 };
