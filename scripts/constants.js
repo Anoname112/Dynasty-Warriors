@@ -119,19 +119,19 @@ const warriors = {
 	'Huang Zhong': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Oracle Sword",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 36,
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
+				"Fill: 18",
 				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
+				"Bow: 20",
+				"Def: 15",
 				"Musou: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Mt. Ding Jun (Shu)",
+			'Requirement': "Defeat Xiahou Yuan and Zhang He within 5 minutes before Cao Cao appears."
 		}
 	],
 	'Wei Yan': [
