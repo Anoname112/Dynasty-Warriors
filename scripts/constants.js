@@ -173,19 +173,19 @@ const warriors = {
 	'Pang Tong': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Tornado Staff",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 32,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Defense: 17",
+				"Life: 15",
+				"Fill: 18",
+				"Bow: 16",
+				"Luck: 15",
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Conquest of Nan Zhong (Shu)",
+			'Requirement': "Succeed in the strategies against the poison swamps, wild animals, and armored troops."
 		}
 	],
 	'Yue Ying': [
