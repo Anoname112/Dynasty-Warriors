@@ -245,19 +245,19 @@ const warriors = {
 	'Xiahou Dun': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Kirin Fang",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Horse: 16",
+				"Defense: 17",
+				"Attack: 17",
+				"Musou: 16",
+				"Charge: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Fan Castle (Wei)",
+			'Requirement': "Defeat Guan Ping before the water attack."
 		}
 	],
 	'Dian Wei': [
