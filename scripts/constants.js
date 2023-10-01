@@ -317,19 +317,19 @@ const warriors = {
 	'Xu Zhu': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Stone Crusher",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 38,
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Fill: 17",
+				"Bow: 19",
+				"Life: 20",
+				"Luck: 15",
+				"Defense: 19"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Tong Gate (Wei)",
+			'Requirement': "Defeat Pang De and Ma Chao."
 		}
 	],
 	'Xiahou Yuan': [
