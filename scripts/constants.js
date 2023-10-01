@@ -209,19 +209,19 @@ const warriors = {
 	'Jiang Wei': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Blink",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Luck: 15",
+				"Speed: 15",
+				"Attack: 16",
+				"Musou: 18",
+				"Life: 17",
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Tian Shui (Wei)",
+			'Requirement': "Defeat the reinforcement general, Gao Xiong."
 		}
 	],
 	'Xing Cai': [
