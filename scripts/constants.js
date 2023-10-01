@@ -263,19 +263,19 @@ const warriors = {
 	'Dian Wei': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Mad Bull",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 36,
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Charge: 15",
+				"Fill: 15",
+				"Attack: 18",
+				"Musou: 17",
+				"Life: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Wan Castle (Wei)",
+			'Requirement': "Rendezvous with Cao Cao, lead him to the escape gates, defeating enemy officers along the way. Once Cao Cao leaves the castle, do not let a single enemy pass the gate until a message that Cao Cao's escape is starting appears."
 		}
 	],
 	'Zhang Liao': [
