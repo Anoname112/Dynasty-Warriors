@@ -191,19 +191,19 @@ const warriors = {
 	'Yue Ying': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Oblivion",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
+				"Life: 16",
+				"Defense: 17",
+				"Charge: 15",
 				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Bow: 16"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Wu Zhang Plains (Shu)",
+			'Requirement': "Eliminate Deng Ai before he sets up the catapults."
 		}
 	],
 	'Jiang Wei': [
