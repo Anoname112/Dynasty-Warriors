@@ -101,19 +101,19 @@ const warriors = {
 	'Ma Chao': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Stallion Fury",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 38,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Horse: 20",
+				"Defense: 16",
+				"Life: 15",
+				"Speed: 15",
+				"Attack: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Tong Gate (Ma Chao's Forces)",
+			'Requirement': "Knock Cao Cao off his horse before he crosses the Yellow River."
 		}
 	],
 	'Huang Zhong': [
