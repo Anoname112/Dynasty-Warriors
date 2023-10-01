@@ -98,12 +98,642 @@ const warriors = {
 			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
 		}
 	],
-	'Ma Chao': [],
-	'Huang Zhong': [],
-	'Wei Yan': [],
-	'Guan Ping': [],
-	'Pang Tong': [],
-	'Yue Ying': [],
-	'Jiang Wei': [],
-	'Xing Cai': []
+	'Ma Chao': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Huang Zhong': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Wei Yan': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Guan Ping': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Pang Tong': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Yue Ying': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Jiang Wei': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Xing Cai': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Xiahou Dun': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Dian Wei': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Zhang Liao': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Cao Cao': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Xu Zhu': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Xiahou Yuan': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Xu Huang': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Zhang He': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Cao Ren': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Cao Pi': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Zhen Ji': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Pang De': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Zhou Yu': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Lu Xun': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Sun Shang Xiang': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Gan Ning': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Sun Jian': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Taishi Ci': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Lu Meng': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Huang Gai': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Zhou Tai': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Ling Tong': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Sun Ce': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Sun Quan': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Xiao Qiao': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Da Qiao': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Sima Yi': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Diao Chan': [],
+	'Lu Bu': [],
+	'Dong Zhuo': [],
+	'Yuan Shao': [],
+	'Zhang Jiao': [],
+	'Meng Huo': [],
+	'Zhu Rong': [],
+	'Zuo Ci': []
 };
