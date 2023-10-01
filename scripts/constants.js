@@ -281,19 +281,19 @@ const warriors = {
 	'Zhang Liao': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Gold Wyvern",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Life: 17",
+				"Attack: 17",
+				"Fill: 15",
+				"Horse: 18",
+				"Luck: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of He Fei (Wei)",
+			'Requirement': "Defeat nine Generals/Sub-Generals or defeat 700 people. Every few enemies the enemy soldiers will comment: you get the valuable item report when Sun Quan comments that 'One man struck fear in my entire army by himself!'. This must be done before Cao Ren arrives."
 		}
 	],
 	'Cao Cao': [
