@@ -155,19 +155,19 @@ const warriors = {
 	'Guan Ping': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Young Dragon",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 36,
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Charge: 16",
+				"Luck: 15",
+				"Bow: 15",
+				"Attack: 17",
+				"Life: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Escape from Chi Bi (Shu)",
+			'Requirement': "Defeat all generals, not including sub-generals."
 		}
 	],
 	'Pang Tong': [
