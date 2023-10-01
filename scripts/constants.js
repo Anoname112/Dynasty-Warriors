@@ -227,19 +227,19 @@ const warriors = {
 	'Xing Cai': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Ambition",
 			'Rank': 4,
 			'Base': 34,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
 				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Speed: 16",
+				"Defense: 17",
+				"Musou: 17",
+				"Life: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Bai Di Castle (Shu)",
+			'Requirement': "Successfully save the peasants, and have Liu Shan come out to meet you and lead him back to the castle."
 		}
 	],
 	'Xiahou Dun': [
