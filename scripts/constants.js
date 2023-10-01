@@ -299,19 +299,19 @@ const warriors = {
 	'Cao Cao': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Wrath of Heaven",
 			'Rank': 4,
 			'Base': 34,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Charge: 17",
+				"Bow: 15",
+				"Life: 17",
+				"Horse: 17",
+				"Attack: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Xia Pi (Wei)",
+			'Requirement': "Right after when Gao Shun begins to defend the watergate, defeat him and Zhang Liao."
 		}
 	],
 	'Xu Zhu': [
