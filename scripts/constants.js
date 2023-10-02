@@ -353,19 +353,19 @@ const warriors = {
 	'Xu Huang': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Marauder",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 36,
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Attack: 17",
+				"Life: 18",
+				"Speed: 15",
+				"Fill: 15",
+				"Luck: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Chang Ban (Wei)",
+			'Requirement': "Defeat Guan Yu and Zhang Fei once the final wave of reinforcements appears."
 		}
 	],
 	'Zhang He': [
