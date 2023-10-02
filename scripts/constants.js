@@ -371,19 +371,19 @@ const warriors = {
 	'Zhang He': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Phoenix Talon",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Fill: 15",
+				"Speed: 19",
+				"Attack: 16",
+				"Musou: 18",
+				"Charge: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Jie Ting (Wei)",
+			'Requirement': "Surround Ma Su, and defeat Gao Xiong and Wang Ping, as well as the checkpoint near them. Later, take down all of Ma Su sub-officers. Once Ma Su starts retreating to the main camp, defeat him."
 		}
 	],
 	'Cao Ren': [
