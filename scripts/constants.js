@@ -389,19 +389,19 @@ const warriors = {
 	'Cao Ren': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Roc",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 32,
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
+				"Fill: 15",
+				"Bow: 15",
+				"Attack: 15",
 				"Defense: 18",
-				"Musou: 15"
+				"Life: 19"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Escape from Chi Bi (Wei)",
+			'Requirement': "Quickly kill all the enemy reinforcements except for Liu Bei and Guan Yu. Take out the leading general of each enemy ambush before the corresponding ally reinforcement offers to help. Defeat Sun Quan when he arrives."
 		}
 	],
 	'Cao Pi': [
