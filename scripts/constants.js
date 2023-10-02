@@ -335,19 +335,19 @@ const warriors = {
 	'Xiahou Yuan': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Enforcer Rod",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Charge: 16",
+				"Attack: 16",
+				"Life: 17",
+				"Bow: 19",
+				"Musou: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Chi Bi (Wei)",
+			'Requirement': "Defeat Pang Tong as he defects, Zhuge Liang before he can successfully call the wind, and Huang Gai before he can burn the ships."
 		}
 	],
 	'Xu Huang': [
