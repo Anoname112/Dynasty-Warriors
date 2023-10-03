@@ -407,19 +407,19 @@ const warriors = {
 	'Cao Pi': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Chaos",
 			'Rank': 4,
 			'Base': 34,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Fill: 15",
+				"Speed: 19",
+				"Defense: 15",
+				"Attack: 15",
+				"Musou: 19"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Wu Zhang Plains (Wei)",
+			'Requirement': "After Zhuge Liang passes away, destroy each arbalest with Cao Ren still alive."
 		}
 	],
 	'Zhen Ji': [
