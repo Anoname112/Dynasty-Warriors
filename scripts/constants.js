@@ -443,19 +443,19 @@ const warriors = {
 	'Pang De': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Heavenly Halberd",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 36,
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Luck: 15",
+				"Horse: 17",
+				"Defense: 15",
+				"Attack: 16",
+				"Life: 18"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Mt. Ding Jun (Wei)",
+			'Requirement': "Defeat Zhao Yun, Guan Ping, Wei Yan, and Huang Zhong before Cao Cao arrives."
 		}
 	],
 	'Zhou Yu': [
