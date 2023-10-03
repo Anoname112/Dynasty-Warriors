@@ -731,19 +731,19 @@ const warriors = {
 	'Diao Chan': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Diva",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 32,
+			'Element': "Heavy",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Fill: 18",
+				"Luck: 18",
+				"Speed: 19",
+				"Defense: 16",
+				"Musou: 18"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Xia Pi",
+			'Requirement': "Defeat all generals and subgenerals before Cao Cao arrives. The player must also prevent their own generals from being killed. Defeat the subgenerals in the west and Xiahou Dun and Xiahou Yuan will charge, so defeat them. Then defeat Liu Bei, Zhang Fei, and Guan Yu. Eliminating the rest of the generals will trigger the Precious Item to appear in the southwest. Get the weapon and then defeat Cao Cao."
 		}
 	],
 	'Lu Bu': [
