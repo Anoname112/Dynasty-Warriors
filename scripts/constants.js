@@ -425,19 +425,19 @@ const warriors = {
 	'Zhen Ji': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Dark Moon Flute",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 32,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
+				"Fill: 20",
+				"Horse: 17",
+				"Bow: 18",
 				"Defense: 18",
-				"Musou: 15"
+				"Life: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of He Fei Castle (Wei)",
+			'Requirement': "Achieve a 300 K.O. count, and rendezvous with Cao Pi."
 		}
 	],
 	'Pang De': [
