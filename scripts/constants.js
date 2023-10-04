@@ -479,19 +479,19 @@ const warriors = {
 	'Lu Xun': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Falcon",
 			'Rank': 4,
 			'Base': 34,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Fill: 15",
+				"Luck: 18",
+				"Speed: 20",
+				"Attack: 15",
+				"Musou: 19"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Bai Di Castle (Wu)",
+			'Requirement': "Defeat Ma Chao and Jiang Wei before Yue Ying arrives."
 		}
 	],
 	'Sun Shang Xiang': [
