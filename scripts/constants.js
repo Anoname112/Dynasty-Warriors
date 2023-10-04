@@ -461,19 +461,19 @@ const warriors = {
 	'Zhou Yu': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Ancients Sword",
 			'Rank': 4,
 			'Base': 34,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Charge: 17",
+				"Defense: 15",
+				"Musou: 18",
+				"Bow: 16",
+				"Attack: 16"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of the Wu Territory (Wu)",
+			'Requirement': "Take over both of the enemy forts by defeating both Yan Baihu and Wang Lang."
 		}
 	],
 	'Lu Xun': [
