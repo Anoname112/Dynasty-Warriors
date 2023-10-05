@@ -623,19 +623,19 @@ const warriors = {
 	'Sun Ce': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Overlord",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
+				"Charge: 15",
+				"Attack: 18",
+				"Life: 15",
 				"Speed: 18",
-				"Defense: 18",
 				"Musou: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "The Trials of Sun Ce (Sun Ce's forces)",
+			'Requirement': "Defeat all of Yu Ji's phantoms, Sun Jian, and Da Qiao in less than 10 minutes."
 		}
 	],
 	'Da Qiao': [
