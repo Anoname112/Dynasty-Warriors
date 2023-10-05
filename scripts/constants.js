@@ -587,19 +587,19 @@ const warriors = {
 	'Gan Ning': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Sea Master",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 38,
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
+				"Charge: 15",
+				"Luck: 18",
+				"Speed: 15",
+				"Attack: 19",
 				"Musou: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Xia Kou (Huang Zu's forces)",
+			'Requirement': "Defeat Ling Tong and Ling Cao within 2 minutes of the stage starting."
 		}
 	],
 	'Huang Gai': [
