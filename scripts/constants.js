@@ -497,19 +497,19 @@ const warriors = {
 	'Taishi Ci': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Tiger Slayer",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 38,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
+				"Charge: 15",
 				"Horse: 15",
-				"Speed: 18",
+				"Bow: 15",
 				"Defense: 18",
-				"Musou: 15"
+				"Life: 18"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Wu Territory (Allied forces)",
+			'Requirement': "After Sun Quan is lured into the eastern fort, defeat him before Zhou Tai can rendezvous with him."
 		}
 	],
 	'Sun Shang Xiang': [
