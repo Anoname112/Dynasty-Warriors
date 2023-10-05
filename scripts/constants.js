@@ -695,19 +695,19 @@ const warriors = {
 	'Ling Tong': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Dragon Fury",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Charge: 16",
+				"Luck: 16",
+				"Speed: 19",
+				"Attack: 17",
+				"Life: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of He Fei (Wu)",
+			'Requirement': "Ling Tong must defeat Zhang Liao after each of his four appearances."
 		}
 	],
 	'Sima Yi': [
