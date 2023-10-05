@@ -533,19 +533,19 @@ const warriors = {
 	'Sun Jian': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Savage Tiger",
 			'Rank': 4,
 			'Base': 34,
-			'Element': "Medium",
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Fill: 18",
+				"Defense: 16",
+				"Horse: 16",
+				"Musou: 15",
+				"Life: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Si Shui Gate (Allied forces)",
+			'Requirement': "Defeat Lu Bu within 5 minutes of his appearance."
 		}
 	],
 	'Sun Quan': [
