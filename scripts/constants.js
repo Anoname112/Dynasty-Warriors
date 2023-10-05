@@ -515,19 +515,19 @@ const warriors = {
 	'Sun Shang Xiang': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Sol Chakram",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 32,
+			'Element': "Heavy",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Luck: 19",
+				"Bow: 15",
+				"Speed: 19",
+				"Life: 15",
+				"Defense: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Invasion of Nan Zhong",
+			'Requirement': "Don't kill any generals until the bridge collapses and go to Sun Quan for a scene, after the scene kill every general and sub general."
 		}
 	],
 	'Sun Jian': [
