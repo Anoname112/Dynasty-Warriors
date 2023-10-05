@@ -713,19 +713,19 @@ const warriors = {
 	'Sima Yi': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Dark Feather",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 32,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Charge: 15",
+				"Defense: 16",
+				"Musou: 19",
+				"Fill: 15",
+				"Attack: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Chen Cang (Wei)",
+			'Requirement': "Stop the siege machine lines by taking all three of the enemy defense bases along the south before any damage is done to your castle walls."
 		}
 	],
 	'Diao Chan': [
