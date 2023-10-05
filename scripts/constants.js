@@ -851,7 +851,7 @@ const warriors = {
 				"Musou: 18"
 			],
 			'Stage': "Invasion of Nan Zhong",
-			'Requirement': "Wait until the elephant troops charge the camp, you mustn't destroy the bridge beforehand. Then kill Gan Ning and Jiang Qin."
+			'Requirement': "Wait until the elephant troops charge the camp, you mustn't destroy the bridge beforehand. Then defeat Gan Ning and Jiang Qin."
 		}
 	],
 	'Zuo Ci': [
