@@ -134,6 +134,24 @@ const warriors = {
 			'Requirement': "Defeat Xiahou Yuan and Zhang He within 5 minutes before Cao Cao appears."
 		}
 	],
+	'Jiang Wei': [
+		{
+			'Game': "DW5",
+			'Name': "Blink",
+			'Rank': 4,
+			'Base': 36,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 15",
+				"Speed: 15",
+				"Attack: 16",
+				"Musou: 18",
+				"Life: 17",
+			],
+			'Stage': "Battle of Tian Shui (Wei)",
+			'Requirement': "Defeat the reinforcement general, Gao Xiong."
+		}
+	],
 	'Wei Yan': [
 		{
 			'Game': "DW5",
@@ -150,24 +168,6 @@ const warriors = {
 			],
 			'Stage': "Battle of Chen Cang (Shu)",
 			'Requirement': "Defeat the four Defense Captains guarding Chen Cang."
-		}
-	],
-	'Guan Ping': [
-		{
-			'Game': "DW5",
-			'Name': "Young Dragon",
-			'Rank': 4,
-			'Base': 36,
-			'Element': "Light",
-			'Stats': [
-				"Charge: 16",
-				"Luck: 15",
-				"Bow: 15",
-				"Attack: 17",
-				"Life: 15"
-			],
-			'Stage': "Escape from Chi Bi (Shu)",
-			'Requirement': "Defeat all generals, not including sub-generals."
 		}
 	],
 	'Pang Tong': [
@@ -206,22 +206,22 @@ const warriors = {
 			'Requirement': "Eliminate Deng Ai before he sets up the catapults."
 		}
 	],
-	'Jiang Wei': [
+	'Guan Ping': [
 		{
 			'Game': "DW5",
-			'Name': "Blink",
+			'Name': "Young Dragon",
 			'Rank': 4,
 			'Base': 36,
-			'Element': "Medium",
+			'Element': "Light",
 			'Stats': [
+				"Charge: 16",
 				"Luck: 15",
-				"Speed: 15",
-				"Attack: 16",
-				"Musou: 18",
-				"Life: 17",
+				"Bow: 15",
+				"Attack: 17",
+				"Life: 15"
 			],
-			'Stage': "Battle of Tian Shui (Wei)",
-			'Requirement': "Defeat the reinforcement general, Gao Xiong."
+			'Stage': "Escape from Chi Bi (Shu)",
+			'Requirement': "Defeat all generals, not including sub-generals."
 		}
 	],
 	'Xing Cai': [
@@ -278,22 +278,22 @@ const warriors = {
 			'Requirement': "Rendezvous with Cao Cao, lead him to the escape gates, defeating enemy officers along the way. Once Cao Cao leaves the castle, do not let a single enemy pass the gate until a message that Cao Cao's escape is starting appears."
 		}
 	],
-	'Zhang Liao': [
+	'Xu Zhu': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Wyvern",
+			'Name': "Stone Crusher",
 			'Rank': 4,
-			'Base': 36,
-			'Element': "Medium",
+			'Base': 38,
+			'Element': "Light",
 			'Stats': [
-				"Life: 17",
-				"Attack: 17",
-				"Fill: 15",
-				"Horse: 18",
-				"Luck: 15"
+				"Fill: 17",
+				"Bow: 19",
+				"Life: 20",
+				"Luck: 15",
+				"Defense: 19"
 			],
-			'Stage': "Battle of He Fei (Wei)",
-			'Requirement': "Defeat nine Generals/Sub-Generals or defeat 700 people. Every few enemies the enemy soldiers will comment: you get the valuable item report when Sun Quan comments that 'One man struck fear in my entire army by himself!'. This must be done before Cao Ren arrives."
+			'Stage': "Battle of Tong Gate (Wei)",
+			'Requirement': "Defeat Pang De and Ma Chao."
 		}
 	],
 	'Cao Cao': [
@@ -314,24 +314,6 @@ const warriors = {
 			'Requirement': "Right after when Gao Shun begins to defend the watergate, defeat him and Zhang Liao."
 		}
 	],
-	'Xu Zhu': [
-		{
-			'Game': "DW5",
-			'Name': "Stone Crusher",
-			'Rank': 4,
-			'Base': 38,
-			'Element': "Light",
-			'Stats': [
-				"Fill: 17",
-				"Bow: 19",
-				"Life: 20",
-				"Luck: 15",
-				"Defense: 19"
-			],
-			'Stage': "Battle of Tong Gate (Wei)",
-			'Requirement': "Defeat Pang De and Ma Chao."
-		}
-	],
 	'Xiahou Yuan': [
 		{
 			'Game': "DW5",
@@ -348,6 +330,24 @@ const warriors = {
 			],
 			'Stage': "Battle of Chi Bi (Wei)",
 			'Requirement': "Defeat Pang Tong as he defects, Zhuge Liang before he can successfully call the wind, and Huang Gai before he can burn the ships."
+		}
+	],
+	'Zhang Liao': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Wyvern",
+			'Rank': 4,
+			'Base': 36,
+			'Element': "Medium",
+			'Stats': [
+				"Life: 17",
+				"Attack: 17",
+				"Fill: 15",
+				"Horse: 18",
+				"Luck: 15"
+			],
+			'Stage': "Battle of He Fei (Wei)",
+			'Requirement': "Defeat nine Generals/Sub-Generals or defeat 700 people. Every few enemies the enemy soldiers will comment: you get the valuable item report when Sun Quan comments that 'One man struck fear in my entire army by himself!'. This must be done before Cao Ren arrives."
 		}
 	],
 	'Xu Huang': [
@@ -386,6 +386,24 @@ const warriors = {
 			'Requirement': "Surround Ma Su, and defeat Gao Xiong and Wang Ping, as well as the checkpoint near them. Later, take down all of Ma Su sub-officers. Once Ma Su starts retreating to the main camp, defeat him."
 		}
 	],
+	'Zhen Ji': [
+		{
+			'Game': "DW5",
+			'Name': "Dark Moon Flute",
+			'Rank': 4,
+			'Base': 32,
+			'Element': "Medium",
+			'Stats': [
+				"Fill: 20",
+				"Horse: 17",
+				"Bow: 18",
+				"Defense: 18",
+				"Life: 17"
+			],
+			'Stage': "Battle of He Fei Castle (Wei)",
+			'Requirement': "Achieve a 300 K.O. count, and rendezvous with Cao Pi."
+		}
+	],
 	'Cao Ren': [
 		{
 			'Game': "DW5",
@@ -420,24 +438,6 @@ const warriors = {
 			],
 			'Stage': "Battle of Wu Zhang Plains (Wei)",
 			'Requirement': "After Zhuge Liang passes away, destroy each arbalest with Cao Ren still alive."
-		}
-	],
-	'Zhen Ji': [
-		{
-			'Game': "DW5",
-			'Name': "Dark Moon Flute",
-			'Rank': 4,
-			'Base': 32,
-			'Element': "Medium",
-			'Stats': [
-				"Fill: 20",
-				"Horse: 17",
-				"Bow: 18",
-				"Defense: 18",
-				"Life: 17"
-			],
-			'Stage': "Battle of He Fei Castle (Wei)",
-			'Requirement': "Achieve a 300 K.O. count, and rendezvous with Cao Pi."
 		}
 	],
 	'Pang De': [
@@ -494,7 +494,7 @@ const warriors = {
 			'Requirement': "Defeat Ma Chao and Jiang Wei before Yue Ying arrives."
 		}
 	],
-	'Sun Shang Xiang': [
+	'Taishi Ci': [
 		{
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
@@ -512,7 +512,7 @@ const warriors = {
 			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
 		}
 	],
-	'Gan Ning': [
+	'Sun Shang Xiang': [
 		{
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
@@ -548,7 +548,7 @@ const warriors = {
 			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
 		}
 	],
-	'Taishi Ci': [
+	'Sun Quan': [
 		{
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
@@ -584,7 +584,79 @@ const warriors = {
 			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
 		}
 	],
+	'Gan Ning': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
 	'Huang Gai': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Sun Ce': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Da Qiao': [
+		{
+			'Game': "DW5",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 34,
+			'Element': "Medium",
+			'Stats': [
+				"Luck: 20",
+				"Horse: 15",
+				"Speed: 18",
+				"Defense: 18",
+				"Musou: 15"
+			],
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+		}
+	],
+	'Xiao Qiao': [
 		{
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
@@ -621,78 +693,6 @@ const warriors = {
 		}
 	],
 	'Ling Tong': [
-		{
-			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
-			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
-			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
-			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
-		}
-	],
-	'Sun Ce': [
-		{
-			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
-			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
-			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
-			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
-		}
-	],
-	'Sun Quan': [
-		{
-			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
-			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
-			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
-			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
-		}
-	],
-	'Xiao Qiao': [
-		{
-			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
-			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
-			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
-			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
-		}
-	],
-	'Da Qiao': [
 		{
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
