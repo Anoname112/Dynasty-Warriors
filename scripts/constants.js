@@ -749,19 +749,19 @@ const warriors = {
 	'Lu Bu': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Sky Scorcher",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 40,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Horse: 20",
+				"Defense: 20",
+				"Attack: 20",
+				"Musou: 19",
+				"Life: 19"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Chang Shan",
+			'Requirement': "Defeat 1000 enemies."
 		}
 	],
 	'Dong Zhuo': [
