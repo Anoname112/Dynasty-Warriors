@@ -551,19 +551,19 @@ const warriors = {
 	'Sun Quan': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Master Wolf",
 			'Rank': 4,
 			'Base': 34,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Fill: 15",
+				"Bow: 15",
+				"Attack: 16",
+				"Musou: 18",
+				"Charge: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Chi Bi (Allied forces)",
+			'Requirement': "Ensure that all parts of the plan succeed. Huang Gai must set Cao Cao's boats on fire, the bridges must be knocked down for Pang Tong, Zhuge Liang must successfully summon the southern wind, and Zhou Yu must not be defeated."
 		}
 	],
 	'Lu Meng': [
