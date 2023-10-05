@@ -785,19 +785,19 @@ const warriors = {
 	'Yuan Shao': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Sword of Kings",
 			'Rank': 4,
 			'Base': 34,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
+				"Fill: 15",
 				"Horse: 15",
-				"Speed: 18",
+				"Bow: 15",
 				"Defense: 18",
-				"Musou: 15"
+				"Musou: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Guan Du (Yuan Shao's forces)",
+			'Requirement': "Protect Yan Liang and Wen Chou, and demoralize Cao Cao's troops until they let you in the castle."
 		}
 	],
 	'Zhang Jiao': [
