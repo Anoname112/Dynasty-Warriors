@@ -659,19 +659,19 @@ const warriors = {
 	'Xiao Qiao': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Qiao Grace",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 32,
+			'Element': "Heavy",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Defense: 15",
+				"Musou: 15",
+				"Fill: 15",
+				"Charge: 17",
+				"Speed: 19"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Jing Province (Wu)",
+			'Requirement': "Defeat Cai Mao and Lu Gong before Sun Jian is ambushed."
 		}
 	],
 	'Zhou Tai': [
