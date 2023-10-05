@@ -839,19 +839,19 @@ const warriors = {
 	'Zhu Rong': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Inferno",
 			'Rank': 4,
 			'Base': 34,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Charge: 16",
+				"Fill: 17",
+				"Bow: 15",
+				"Defense: 15",
+				"Musou: 18"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Invasion of Nan Zhong",
+			'Requirement': "Wait until the elephant troops charge the camp, you mustn't destroy the bridge beforehand. Then kill Gan Ning and Jiang Qin."
 		}
 	],
 	'Zuo Ci': [
