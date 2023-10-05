@@ -419,7 +419,7 @@ const warriors = {
 				"Life: 19"
 			],
 			'Stage': "Escape from Chi Bi (Wei)",
-			'Requirement': "Quickly kill all the enemy reinforcements except for Liu Bei and Guan Yu. Take out the leading general of each enemy ambush before the corresponding ally reinforcement offers to help. Defeat Sun Quan when he arrives."
+			'Requirement': "Quickly defeat all the enemy reinforcements except for Liu Bei and Guan Yu. Take out the leading general of each enemy ambush before the corresponding ally reinforcement offers to help. Defeat Sun Quan when he arrives."
 		}
 	],
 	'Cao Pi': [
