@@ -677,19 +677,19 @@ const warriors = {
 	'Zhou Tai': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Dusk",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Fill: 16",
+				"Speed: 15",
+				"Attack: 17",
+				"Musou: 18",
+				"Life: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Yi Ling (Wu)",
+			'Requirement': "Zhou Tai must defeat Zhao Yun before the fire attack goes off. The fire attack must succeed."
 		}
 	],
 	'Ling Tong': [
