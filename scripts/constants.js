@@ -821,19 +821,19 @@ const warriors = {
 	'Meng Huo': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "King of Beasts",
 			'Rank': 4,
-			'Base': 34,
-			'Element': "Medium",
+			'Base': 36,
+			'Element': "Light",
 			'Stats': [
-				"Luck: 20",
+				"Charge: 15",
+				"Fill: 15",
 				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Attack: 18",
+				"Life: 19"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Nan Zhong",
+			'Requirement': "Defeat Yue Ying, Huang Zhong and Wei Yan."
 		}
 	],
 	'Zhu Rong': [
