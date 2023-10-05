@@ -832,7 +832,7 @@ const warriors = {
 				"Attack: 18",
 				"Life: 19"
 			],
-			'Stage': "Battle of Nan Zhong",
+			'Stage': "Conquest of Nan Zhong",
 			'Requirement': "Defeat Yue Ying, Huang Zhong and Wei Yan."
 		}
 	],
