@@ -767,19 +767,19 @@ const warriors = {
 	'Dong Zhuo': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Horror",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Luck: 17",
+				"Horse: 17",
+				"Defense: 15",
+				"Attack: 18",
+				"Life: 15"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Liang Zhou (Dong Zhuo's Forces)",
+			'Requirement': "After capturing all five of the enemy bases, defeat Ma Chao and Pang De."
 		}
 	],
 	'Yuan Shao': [
