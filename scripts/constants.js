@@ -803,19 +803,19 @@ const warriors = {
 	'Zhang Jiao': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "Volcano Staff",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 32,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Attack: 15",
+				"Musou: 17",
+				"Luck: 15",
+				"Fill: 9",
+				"Charge: 16"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Yellow Turban Rebellion (Yellow Turban Forces)",
+			'Requirement': "Rendezvous with Zhang Bao and Zhang Liang, brainwash Sun Jian and Cao Cao's armies, and successfully get Zhang Man Cheng to drop rocks on the enemy. No allies may be defeated."
 		}
 	],
 	'Meng Huo': [
