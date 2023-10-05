@@ -569,19 +569,19 @@ const warriors = {
 	'Lu Meng': [
 		{
 			'Game': "DW5",
-			'Name': "Gold Moon Dragon",
+			'Name': "White Tiger",
 			'Rank': 4,
-			'Base': 34,
+			'Base': 36,
 			'Element': "Medium",
 			'Stats': [
-				"Luck: 20",
-				"Horse: 15",
-				"Speed: 18",
-				"Defense: 18",
-				"Musou: 15"
+				"Charge: 15",
+				"Horse: 16",
+				"Bow: 15",
+				"Defense: 17",
+				"Life: 17"
 			],
-			'Stage': "Battle of Yi Ling",
-			'Requirement': "Defeat Ling Tong, Gan Ning, Lu Xun, and Sun Shang Xiang."
+			'Stage': "Battle of Fan Castle (Allied forces)",
+			'Requirement': "Defeat Zhang Bao and Zhang Fei."
 		}
 	],
 	'Gan Ning': [
