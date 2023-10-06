@@ -347,7 +347,7 @@ const warriors = {
 				"Luck: 15"
 			],
 			'Stage': "Battle of He Fei (Wei)",
-			'Requirement': "Defeat nine generals/sub-generals or defeat 700 enemies. Every few enemies the enemy soldiers will comment: you get the valuable item report when Sun Quan comments that 'One man struck fear in my entire army by himself!'. This must be done before Cao Ren arrives."
+			'Requirement': "Defeat nine generals/sub-generals within 10 minutes. And Sun Quan will comment that 'One man struck fear in my entire army by himself!'."
 		}
 	],
 	'Xu Huang': [
