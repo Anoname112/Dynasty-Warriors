@@ -311,7 +311,7 @@ const warriors = {
 				"Attack: 17"
 			],
 			'Stage': "Battle of Xia Pi (Wei)",
-			'Requirement': "Right after when Gao Shun begins to defend the watergate, defeat him and Zhang Liao."
+			'Requirement': "Right after Gao Shun begins to defend the water gate, defeat him and Zhang Liao."
 		}
 	],
 	'Xiahou Yuan': [
