@@ -527,7 +527,7 @@ const warriors = {
 				"Defense: 17"
 			],
 			'Stage': "Invasion of Nan Zhong",
-			'Requirement': "Don't defeat any generals until the bridge collapses and go to Sun Quan for a scene, after the scene defeat every general and sub-general."
+			'Requirement': "Don't defeat any generals until the bridge collapses and go to Sun Quan for a scene, after the scene defeat every general and sub-general, including reinforcements."
 		}
 	],
 	'Sun Jian': [
