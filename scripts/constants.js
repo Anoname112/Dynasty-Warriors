@@ -491,7 +491,7 @@ const warriors = {
 				"Musou: 19"
 			],
 			'Stage': "Battle of Bai Di Castle (Wu)",
-			'Requirement': "Defeat Ma Chao and Jiang Wei before Yue Ying arrives."
+			'Requirement': "Defeat Jiang Wei and Ma Chao before Yue Ying arrives, she arrives after you defeat Xing Cai or enter Liu Chan's base."
 		}
 	],
 	'Taishi Ci': [
