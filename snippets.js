@@ -1,4 +1,4 @@
-// Create an array of weapons with Base from DW5, then sort them from highest
+// Create an array of weapons with Base Attack from DW5, then sort them from highest
 var data = [];
 for (var i in warriors) {
     for (var j = 0; j < warriors[i].length; j++) {
