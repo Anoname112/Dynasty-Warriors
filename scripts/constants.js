@@ -77,7 +77,7 @@ const warriors = {
 				"Defense: 18"
 			],
 			'Stage': "Battle of Tian Shui (Shu)",
-			'Requirement': "Defeat Xiahou Mao and capture Nan An Castle; also defeat Cui Liang and capture An Ding Castle. Wait for Jiang Wei to return to Tian Shui Castle, and defeat him before he enter Tian Shui Castle."
+			'Requirement': "Defeat Xiahou Mao and capture Nan An Castle; also defeat Cui Liang and capture An Ding Castle. Wait for Jiang Wei to return to Tian Shui Castle, and defeat him before he enters Tian Shui Castle."
 		}
 	],
 	'Liu Bei': [
