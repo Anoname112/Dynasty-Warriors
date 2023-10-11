@@ -453,13 +453,13 @@ const warriors = {
 	'Xiahou Yuan': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Enforcer Rod",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 55,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Mt. Ding Jun",
+			'Requirement': "All you must do here is defeat Chen Shi before he can get back to the Shu army and defeat Huang Zhong before Cao Cao comes with reinforcements."
 		}, {
 			'Game': "DW5",
 			'Name': "Enforcer Rod",
