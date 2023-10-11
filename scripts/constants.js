@@ -1,6 +1,7 @@
 const sprt = '-';
 
 const headers = {
+	'DW4': ['Level', 'Stats', '4th', '5th'],
 	'DW5': ['Level', 'Stats', '4th']
 };
 
