@@ -10,6 +10,15 @@ const checkboxSvg = '<svg xmlns="http://www.w3.org/2000/svg" fill="#FFF" viewBox
 const warriors = {
 	'Zhao Yun': [
 		{
+			'Game': "DW4",
+			'Name': "Fierce Dragon",
+			'Rank': 4,
+			'Base': 55,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Bo Wan Po",
+			'Requirement': "First lead Xiahou Dun into the fire attack spot, then defeat Xiahou Dun. Next lead Han Hao into the ambush location, so when Guan Ping comes defeat Han Hao. Then lead Yu Jin into the next ambush spot, when Guan Yu's ambush arrives defeat Yu Jin. After Zhang Fei appears in the castle and burns the supply depot, lead Zhuge Liang into the castle and meets Cao Cao."
+		}, {
 			'Game': "DW5",
 			'Name': "Fierce Dragon",
 			'Rank': 4,
@@ -28,6 +37,15 @@ const warriors = {
 	],
 	'Guan Yu': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Blue Moon Dragon",
 			'Rank': 4,
@@ -46,6 +64,15 @@ const warriors = {
 	],
 	'Zhang Fei': [
 		{
+			'Game': "DW4",
+			'Name': "Viper Blade",
+			'Rank': 4,
+			'Base': 58,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Chang Ban",
+			'Requirement': "Defeat Xiahou Dun, Xiahou Yuan, Xiahou En, and Xiahou De. Once they are gone, head for Zhang He and eliminate him to do the bridge defense event. However, it may occur with Zhang He alive so keep trying to get it right. After the bridge event, head inside the fortress to find Liu Shan and rescue him while on a horse to trigger the cutscene."
+		}, {
 			'Game': "DW5",
 			'Name': "Viper Blade",
 			'Rank': 4,
@@ -64,6 +91,15 @@ const warriors = {
 	],
 	'Zhuge Liang': [
 		{
+			'Game': "DW4",
+			'Name': "Peacock Feather",
+			'Rank': 4,
+			'Base': 50,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Wu Zhang Plains",
+			'Requirement': "Must be done in Musou Mode; Battle of Jie Ting must be completed first so that the supply unit appears. Head for Zhang He's position and defeat him. Approach the castle to witness the cut scene. When the supply unit arrives in the west fortress, head there and defeat Xiahou Dun. After he is defeated, the supply team should reach the camp without any distraction."
+		}, {
 			'Game': "DW5",
 			'Name': "Peacock Feather",
 			'Rank': 4,
@@ -82,6 +118,15 @@ const warriors = {
 	],
 	'Liu Bei': [
 		{
+			'Game': "DW4",
+			'Name': "Gold Moon Dragon",
+			'Rank': 4,
+			'Base': 52,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Ru Nan",
+			'Requirement': "At the start of the battle, defeat Li Dian before you (Liu Bei) meet with Zhao Yun. Once that is done, meet with Zhang Fei next and wait until Xiahou Yuan appears, then eliminate him before Guan Yu arrives. Afterwards, defeat all of Cao Cao's generals in any order before Liu Pi arrives which is exactly in 10 minutes."
+		}, {
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
 			'Rank': 4,
@@ -100,6 +145,15 @@ const warriors = {
 	],
 	'Ma Chao': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Stallion Fury",
 			'Rank': 4,
@@ -118,6 +172,15 @@ const warriors = {
 	],
 	'Huang Zhong': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Oracle Sword",
 			'Rank': 4,
@@ -136,6 +199,15 @@ const warriors = {
 	],
 	'Jiang Wei': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Blink",
 			'Rank': 4,
@@ -154,6 +226,15 @@ const warriors = {
 	],
 	'Wei Yan': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Comet Strike",
 			'Rank': 4,
@@ -172,6 +253,15 @@ const warriors = {
 	],
 	'Pang Tong': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Tornado Staff",
 			'Rank': 4,
@@ -190,6 +280,15 @@ const warriors = {
 	],
 	'Yue Ying': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Oblivion",
 			'Rank': 4,
@@ -244,6 +343,15 @@ const warriors = {
 	],
 	'Xiahou Dun': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Kirin Fang",
 			'Rank': 4,
@@ -262,6 +370,15 @@ const warriors = {
 	],
 	'Dian Wei': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Mad Bull",
 			'Rank': 4,
@@ -280,6 +397,15 @@ const warriors = {
 	],
 	'Xu Zhu': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Stone Crusher",
 			'Rank': 4,
@@ -298,6 +424,15 @@ const warriors = {
 	],
 	'Cao Cao': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Wrath of Heaven",
 			'Rank': 4,
@@ -316,6 +451,15 @@ const warriors = {
 	],
 	'Xiahou Yuan': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Enforcer Rod",
 			'Rank': 4,
@@ -334,6 +478,15 @@ const warriors = {
 	],
 	'Zhang Liao': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Gold Wyvern",
 			'Rank': 4,
@@ -352,6 +505,15 @@ const warriors = {
 	],
 	'Xu Huang': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Marauder",
 			'Rank': 4,
@@ -370,6 +532,15 @@ const warriors = {
 	],
 	'Zhang He': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Phoenix Talon",
 			'Rank': 4,
@@ -388,6 +559,15 @@ const warriors = {
 	],
 	'Zhen Ji': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Dark Moon Flute",
 			'Rank': 4,
@@ -406,6 +586,15 @@ const warriors = {
 	],
 	'Cao Ren': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Roc",
 			'Rank': 4,
@@ -460,6 +649,15 @@ const warriors = {
 	],
 	'Zhou Yu': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Ancients Sword",
 			'Rank': 4,
@@ -478,6 +676,15 @@ const warriors = {
 	],
 	'Lu Xun': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Falcon",
 			'Rank': 4,
@@ -496,6 +703,15 @@ const warriors = {
 	],
 	'Taishi Ci': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Tiger Slayer",
 			'Rank': 4,
@@ -514,6 +730,15 @@ const warriors = {
 	],
 	'Sun Shang Xiang': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Sol Chakram",
 			'Rank': 4,
@@ -532,6 +757,15 @@ const warriors = {
 	],
 	'Sun Jian': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Savage Tiger",
 			'Rank': 4,
@@ -550,6 +784,15 @@ const warriors = {
 	],
 	'Sun Quan': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Master Wolf",
 			'Rank': 4,
@@ -568,6 +811,15 @@ const warriors = {
 	],
 	'Lu Meng': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "White Tiger",
 			'Rank': 4,
@@ -586,6 +838,15 @@ const warriors = {
 	],
 	'Gan Ning': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Sea Master",
 			'Rank': 4,
@@ -604,6 +865,15 @@ const warriors = {
 	],
 	'Huang Gai': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Dark Shadow",
 			'Rank': 4,
@@ -622,6 +892,15 @@ const warriors = {
 	],
 	'Sun Ce': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Overlord",
 			'Rank': 4,
@@ -640,6 +919,15 @@ const warriors = {
 	],
 	'Da Qiao': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Qiao Beauty",
 			'Rank': 4,
@@ -658,6 +946,15 @@ const warriors = {
 	],
 	'Xiao Qiao': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Qiao Grace",
 			'Rank': 4,
@@ -676,6 +973,15 @@ const warriors = {
 	],
 	'Zhou Tai': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Dusk",
 			'Rank': 4,
@@ -712,6 +1018,15 @@ const warriors = {
 	],
 	'Sima Yi': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Dark Feather",
 			'Rank': 4,
@@ -730,6 +1045,15 @@ const warriors = {
 	],
 	'Diao Chan': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Diva",
 			'Rank': 4,
@@ -748,6 +1072,15 @@ const warriors = {
 	],
 	'Lu Bu': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Sky Scorcher",
 			'Rank': 4,
@@ -766,6 +1099,15 @@ const warriors = {
 	],
 	'Dong Zhuo': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Horror",
 			'Rank': 4,
@@ -784,6 +1126,15 @@ const warriors = {
 	],
 	'Yuan Shao': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Sword of Kings",
 			'Rank': 4,
@@ -802,6 +1153,15 @@ const warriors = {
 	],
 	'Zhang Jiao': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Volcano Staff",
 			'Rank': 4,
@@ -820,6 +1180,15 @@ const warriors = {
 	],
 	'Meng Huo': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "King of Beasts",
 			'Rank': 4,
@@ -838,6 +1207,15 @@ const warriors = {
 	],
 	'Zhu Rong': [
 		{
+			'Game': "DW4",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 57,
+			'Element': "-",
+			'Stats': [],
+			'Stage': "Battle of Fan Castle",
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+		}, {
 			'Game': "DW5",
 			'Name': "Inferno",
 			'Rank': 4,
