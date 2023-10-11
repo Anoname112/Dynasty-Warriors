@@ -146,13 +146,13 @@ const warriors = {
 	'Ma Chao': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Stallion Fury",
 			'Rank': 4,
 			'Base': 57,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle for Cheng Du",
+			'Requirement': "Defeat Pang De and Ma Dai when they arrive as reinforcements; however, only defeat Ma Dai when he attacks the main camp."
 		}, {
 			'Game': "DW5",
 			'Name': "Stallion Fury",
