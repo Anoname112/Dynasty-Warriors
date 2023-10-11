@@ -282,13 +282,13 @@ const warriors = {
 	'Yue Ying': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Oblivion",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 53,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "The Nanman Campaign",
+			'Requirement': "Defeat Zhu Rong in a duel. Make Ahui Nan and Dong Tu defect by defeating Yong Kai and his officers. Trigger the fire attack against Wu Tugu. Defeat Meng Huo all six-to-seven times."
 		}, {
 			'Game': "DW5",
 			'Name': "Oblivion",
