@@ -678,13 +678,13 @@ const warriors = {
 	'Lu Xun': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Falcon",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 52,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Yi Ling",
+			'Requirement': "Keep Zhu Ran alive till the fire attack is successful, then enter and pass through the stone maze in under 3 minutes."
 		}, {
 			'Game': "DW5",
 			'Name': "Falcon",
