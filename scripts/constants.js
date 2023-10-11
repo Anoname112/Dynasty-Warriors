@@ -173,13 +173,13 @@ const warriors = {
 	'Huang Zhong': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Oracle Sword",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 54,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Jian Ye",
+			'Requirement': "Defeat Sun Ce, Sun Quan, and Sun Shang Xiang before they become commanders of the Wu Forces."
 		}, {
 			'Game': "DW5",
 			'Name': "Oracle Sword",
