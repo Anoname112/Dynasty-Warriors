@@ -705,13 +705,13 @@ const warriors = {
 	'Taishi Ci': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Tiger Slayer",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 56,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Campaign for Wu Territory",
+			'Requirement': "When Yu Mi retreats into the fortress, chase him down and defeat him. (Suggestion: Red Hare) After Yu Mi is defeated, eliminate Zhang Ying before he escapes."
 		}, {
 			'Game': "DW5",
 			'Name': "Tiger Slayer",
