@@ -588,13 +588,13 @@ const warriors = {
 	'Cao Ren': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Roc",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 56,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Siege of Fan Castle (Wei)",
+			'Requirement': "Defeat all four siege vehicles around the castle before either the castle falls or Lu Meng arrives. Defeat Lu Meng when he comes charging out from the Wu castle in the west. Do not defeat more than two generals near the castle or Lu Meng will appear and the 'all siege weapons destroyed' message will not appear."
 		}, {
 			'Game': "DW5",
 			'Name': "Roc",
