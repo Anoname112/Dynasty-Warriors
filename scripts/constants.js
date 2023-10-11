@@ -534,13 +534,13 @@ const warriors = {
 	'Zhang He': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Phoenix Talon",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 52,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Jie Ting",
+			'Requirement': "Surround Ma Su's camp by defeating all his officers and Ma Su. Once that is done, wait for Shu reinforcements then defeat all the officers and generals on the field."
 		}, {
 			'Game': "DW5",
 			'Name': "Phoenix Talon",
