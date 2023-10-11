@@ -426,13 +426,13 @@ const warriors = {
 	'Cao Cao': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Wrath of Heaven",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 56,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Chi Bi (Wei)",
+			'Requirement': "Uncover and foil the three plots of the allied forces while playing as Cao Cao. To do so, Pang Tong, Zhuge Liang, and Huang Gai must all be eliminated. In addition, Lu Meng and Gan Ning must be eliminated before Huang Gai's arrival."
 		}, {
 			'Game': "DW5",
 			'Name': "Wrath of Heaven",
