@@ -345,13 +345,13 @@ const warriors = {
 	'Xiahou Dun': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Kirin Fang",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 56,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Xia Pi (Wei)",
+			'Requirement': "Wait till the arrow cutscene happens, then defeat Diao Chan."
 		}, {
 			'Game': "DW5",
 			'Name': "Kirin Fang",
