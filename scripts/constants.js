@@ -507,13 +507,13 @@ const warriors = {
 	'Xu Huang': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Marauder",
 			'Rank': 4,
 			'Base': 57,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Guan Du",
+			'Requirement': "Allow Yuan Shao's rams to knock down the walls of Guan Du castle then see to it that Wu Chao is in flames."
 		}, {
 			'Game': "DW5",
 			'Name': "Marauder",
