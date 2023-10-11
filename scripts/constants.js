@@ -732,13 +732,13 @@ const warriors = {
 	'Sun Shang Xiang': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Sol Chakram",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 51,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Race for the Nan Territory",
+			'Requirement': "After Zhou Yu's cut scene, defeat Cao Ren when he comes charging out. (Note: The weapon can still be obtained after taking Xiang Yang and Jing Province first, just make sure to defeat Cao Ren before a Wu officer or Guan Yu can since they will be fighting Cao Ren as well and can steal your kill at the last second if Cao Ren is low on health and leaves himself wide open for one of them, especially Guan Yu, to finish off before you can. You will still get the weapon afterwards, just not the message saying you attained it in the message ticker as the battle is already over.)"
 		}, {
 			'Game': "DW5",
 			'Name': "Sol Chakram",
