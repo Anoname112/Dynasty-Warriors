@@ -372,13 +372,13 @@ const warriors = {
 	'Dian Wei': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Mad Bull",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 58,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Wan Castle",
+			'Requirement': "Defeat Huche'er first before meeting up with Cao Cao. Afterwards, deplete Zhang Xiu's health in half to make him retreat. Once the castle gate closes, clear a path of enemies for Cao Cao to advance. When Xu Zhu breaks down the door, Dian Wei will receive the weapon."
 		}, {
 			'Game': "DW5",
 			'Name': "Mad Bull",
