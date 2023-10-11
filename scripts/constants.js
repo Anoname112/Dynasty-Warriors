@@ -561,13 +561,13 @@ const warriors = {
 	'Zhen Ji': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Dark Moon Flute",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 51,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Chang Ban",
+			'Requirement': "Defeat Guan Yu and Zhuge Liang in battle. Defeat Zhao Yun and Zhang Fei in a duel."
 		}, {
 			'Game': "DW5",
 			'Name': "Dark Moon Flute",
