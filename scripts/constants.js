@@ -200,13 +200,13 @@ const warriors = {
 	'Jiang Wei': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Blink",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 55,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Tian Shui",
+			'Requirement': "Ignore Zhuge Liang's strategy, and open both the gates of Ji Castle and Tian Shui Castle to trigger the ambush parties (either from the outside or inside), then defeat both Yin Shang and Liang Xu. This can be done on both Free Mode and Musou Mode alike."
 		}, {
 			'Game': "DW5",
 			'Name': "Blink",
