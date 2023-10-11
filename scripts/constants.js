@@ -255,13 +255,13 @@ const warriors = {
 	'Pang Tong': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Tornado Staff",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 51,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Luo Castle",
+			'Requirement': "At the start of the battle as Pang Tong, head for the Valley where Pang Tong is supposed to die. After that happens, defeat all the generals on the east area of the land. After you arrive at the castle, make sure you come face to face with Zhang Ren. Refuse his challenge for a duel and head for the bridge in the south. After you and he crosses over, destroy the bridge and defeat him."
 		}, {
 			'Game': "DW5",
 			'Name': "Tornado Staff",
