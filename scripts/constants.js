@@ -480,13 +480,13 @@ const warriors = {
 	'Zhang Liao': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Gold Wyvern",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 56,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Hu Lao Gate",
+			'Requirement': "In Musou mode, at the battle of Si Shui Gate of Lu Bu's forces, defeat Liu Bei, Cao Cao, and Sun Jian. Then, at the battle of Hu Lao Gate, do not kill any generals till after the fire attack on the city. Once that occurs, eliminate Liu Bei, Cao Cao, and Sun Jian."
 		}, {
 			'Game': "DW5",
 			'Name': "Gold Wyvern",
