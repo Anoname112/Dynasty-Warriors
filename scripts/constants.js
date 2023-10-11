@@ -399,13 +399,13 @@ const warriors = {
 	'Xu Zhu': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Stone Crusher",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 59,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Tong Gate",
+			'Requirement': "Get Han Sui to defect to your side by defeating the four generals in the southeast land and beating his officers. Next, defeat Pang De then eliminate Ma Dai after that. Finally, eliminate Chen Yi."
 		}, {
 			'Game': "DW5",
 			'Name': "Stone Crusher",
