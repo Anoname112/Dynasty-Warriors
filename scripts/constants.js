@@ -651,13 +651,13 @@ const warriors = {
 	'Zhou Yu': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Ancients Sword",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 54,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Siege of Fan Castle",
+			'Requirement': "After 10 minutes have passed in the battle, a supply team for Cao Ren will appear in the northeast and move towards the east gate. Defeat the supply team before they get inside the castle; defeat the guard just in case."
 		}, {
 			'Game': "DW5",
 			'Name': "Ancients Sword",
