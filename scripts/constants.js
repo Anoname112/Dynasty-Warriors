@@ -45,7 +45,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu reinforcement troops."
 		}, {
 			'Game': "DW5",
 			'Name': "Blue Moon Dragon",
