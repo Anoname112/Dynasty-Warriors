@@ -975,13 +975,13 @@ const warriors = {
 	'Zhou Tai': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Dusk",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 55,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "The Nanman Campaign",
+			'Requirement': "Using Red Hare, quickly head towards Wu Tugu and defeat him. Then enter Meng Huo's base before Ahui Nan and Dong Tu Na defect to the Wu forces."
 		}, {
 			'Game': "DW5",
 			'Name': "Dusk",
