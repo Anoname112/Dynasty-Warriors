@@ -840,13 +840,13 @@ const warriors = {
 	'Gan Ning': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Sea Master",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 56,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Xia Kou",
+			'Requirement': "Defeat Su Fei & Chen Sheng / the enemy Gan Ning (it is best to ignore the rest of Huang Zu's generals first), then wait For Zhou Yu's message about the gunpower on Huang Zu's northern ship and destroy it once it is discovered (to light his ships on fire). Then defeat all the rest of Huang Zu's generals (Zhang Hu, Chen Jiu, Deng Long & Cai Mao) before both of his ships collide. Both Ling Cao & Ling Tong must still be alive."
 		}, {
 			'Game': "DW5",
 			'Name': "Sea Master",
