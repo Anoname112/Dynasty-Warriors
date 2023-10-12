@@ -948,13 +948,13 @@ const warriors = {
 	'Xiao Qiao': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Qiao Grace",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 50,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Cheng Du",
+			'Requirement': "Before Ma Chao appears as reinforcements in Luo Castle, defeat Guan Ping and Guan Yu."
 		}, {
 			'Game': "DW5",
 			'Name': "Qiao Grace",
