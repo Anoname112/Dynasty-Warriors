@@ -1101,13 +1101,13 @@ const warriors = {
 	'Dong Zhuo': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Horror",
 			'Rank': 4,
 			'Base': 57,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Lu Bu's Revolt",
+			'Requirement': "Defeat all enemy, except Lu Bu. That includes every single solider, gate keaper, officer and Lu Bu's bodyguards."
 		}, {
 			'Game': "DW5",
 			'Name': "Horror",
