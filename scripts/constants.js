@@ -1209,13 +1209,13 @@ const warriors = {
 	'Zhu Rong': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Inferno",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 53,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Xu Chang",
+			'Requirement': "The siege ramp must survive. Defeat Cao Zhang, Cao Hong, Man Chong, and Xiahou Dun."
 		}, {
 			'Game': "DW5",
 			'Name': "Inferno",
