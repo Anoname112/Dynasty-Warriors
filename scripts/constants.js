@@ -786,13 +786,13 @@ const warriors = {
 	'Sun Quan': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Master Wolf",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 53,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of He Fei",
+			'Requirement': "Defeat Xiahou Dun and Xiahou Yuan, then defeat Zhang Liao when he reappears near the Wu camp."
 		}, {
 			'Game': "DW5",
 			'Name': "Master Wolf",
