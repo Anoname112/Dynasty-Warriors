@@ -1182,13 +1182,13 @@ const warriors = {
 	'Meng Huo': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "King of Beasts",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 58,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Cheng Du",
+			'Requirement': "Defeat Zhao Yun, Zhuge Liang, Yue Ying, Jiang Wei, Ma Chao, and Guan Yu. Ma Chao will appear as back-up for Liu Bei if Ma Su is defeated in combat."
 		}, {
 			'Game': "DW5",
 			'Name': "King of Beasts",
