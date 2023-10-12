@@ -1155,13 +1155,13 @@ const warriors = {
 	'Zhang Jiao': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Volcano Staff",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 52,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Yellow Turban Rebellion",
+			'Requirement': "Defeat all the officers and generals, saving He Jin for last. When Dong Zhuo appears, defeat Hua Xiong and make sure Zhang Liang and Zhang Bao are alive till the end."
 		}, {
 			'Game': "DW5",
 			'Name': "Volcano Staff",
