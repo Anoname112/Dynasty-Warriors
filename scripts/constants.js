@@ -1074,13 +1074,13 @@ const warriors = {
 	'Lu Bu': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Sky Scorcher",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 60,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Lu Bu's Revolt (Lu Bu's Forces)",
+			'Requirement': "Clear the entire map of enemies excluding Dong Zhuo, which also includes any ambush units. If you have not received the message, be sure to search around the stage for any ambush units you've failed to trigger."
 		}, {
 			'Game': "DW5",
 			'Name': "Sky Scorcher",
