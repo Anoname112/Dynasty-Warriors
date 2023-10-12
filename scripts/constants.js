@@ -813,13 +813,13 @@ const warriors = {
 	'Lu Meng': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "White Tiger",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 54,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Mai Castle",
+			'Requirement': "Without letting Guan Yu retreat or escape, defeat all the generals and officers, including the ambushes and reinforcements."
 		}, {
 			'Game': "DW5",
 			'Name': "White Tiger",
