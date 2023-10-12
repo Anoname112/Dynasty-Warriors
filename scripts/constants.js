@@ -894,13 +894,13 @@ const warriors = {
 	'Sun Ce': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Overlord",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 54,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Unification of Jiang Dong",
+			'Requirement': "Wait for the north food supply depot to fall and Zhou Yu to be routed. Defeat Liang Gang to gain access into Wan/Huan Castle, and defeat Yuan Shu to open the rest of its gates. Once that's done give chase to Liu Xun and wait till he meets with Ji Ling (or enters Mt. Xi Sai first). Once Liu Xun starts to head for the supply depot, ride ahead of him and defeat the all the generals (Li Feng, Yue Jiu and Chen Li) at the supply depot along with the gate captains."
 		}, {
 			'Game': "DW5",
 			'Name': "Overlord",
