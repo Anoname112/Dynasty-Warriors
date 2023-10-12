@@ -921,13 +921,13 @@ const warriors = {
 	'Da Qiao': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Qiao Beauty",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 50,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Xu Chang",
+			'Requirement': "Defeat Dian Wei and his officers - Deng Ai and Hu Zhi."
 		}, {
 			'Game': "DW5",
 			'Name': "Qiao Beauty",
