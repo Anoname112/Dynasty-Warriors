@@ -1047,13 +1047,13 @@ const warriors = {
 	'Diao Chan': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Diva",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 51,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Si Shui Gate",
+			'Requirement': "Do not defeat any general until the messenger delivers the message of Hua Xiong being defeated. Then defeat two of the three officers - Cao Cao, Sun Jian, and Liu Bei."
 		}, {
 			'Game': "DW5",
 			'Name': "Diva",
