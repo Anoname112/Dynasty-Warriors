@@ -1128,13 +1128,13 @@ const warriors = {
 	'Yuan Shao': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Sword of Kings",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 53,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Guan Du",
+			'Requirement': "Head for the southern castle, and protect the battering ram until the castle wall falls."
 		}, {
 			'Game': "DW5",
 			'Name': "Sword of Kings",
