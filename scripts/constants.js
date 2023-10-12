@@ -867,13 +867,13 @@ const warriors = {
 	'Huang Gai': [
 		{
 			'Game': "DW4",
-			'Name': "Blue Moon Dragon",
+			'Name': "Dark Shadow",
 			'Rank': 4,
-			'Base': 57,
+			'Base': 56,
 			'Element': "-",
 			'Stats': [],
-			'Stage': "Battle of Fan Castle",
-			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu backup troops."
+			'Stage': "Battle of Chi Bi (Wu)",
+			'Requirement': "Eliminate all the gate captains before the fire attack, then defeat Cao Ren, Cao Hong, and Cao Pi."
 		}, {
 			'Game': "DW5",
 			'Name': "Dark Shadow",
