@@ -126,7 +126,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Battle of Ru Nan",
-			'Requirement': "At the start of the battle, defeat Li Dian before you (Liu Bei) meet with Zhao Yun. Once that is done, meet with Zhang Fei next and wait until Xiahou Yuan appears, then eliminate him before Guan Yu arrives. Afterwards, defeat all of Cao Cao's generals in any order before Liu Pi arrives which is exactly in 10 minutes."
+			'Requirement': "At the start of the battle, defeat Li Dian before you (Liu Bei) meet with Zhao Yun. Then meet with Zhang Fei and wait until Xiahou Yuan appears, then defeat him before Guan Yu arrives. Afterwards, defeat all of Cao Cao's generals in any order before Liu Pi arrives which is exactly in 10 minutes."
 		}, {
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
