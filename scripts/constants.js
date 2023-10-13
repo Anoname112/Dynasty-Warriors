@@ -261,7 +261,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Battle of Luo Castle",
-			'Requirement': "At the start of the battle as Pang Tong, head for the Valley where Pang Tong is supposed to die. After that happens, defeat all the generals on the east area of the land. After you arrive at the castle, make sure you come face to face with Zhang Ren. Refuse his challenge for a duel and head for the bridge in the south. After you and he crosses over, destroy the bridge and defeat him."
+			'Requirement': "Head for the valley where Pang Tong supposed to die. After that, defeat all the generals on the east area of the land. After you arrive at the castle, make sure you come face to face with Zhang Ren. Refuse his challenge for a duel and head for the bridge in the south. After you and he crosses over, destroy the bridge and defeat him."
 		}, {
 			'Game': "DW5",
 			'Name': "Tornado Staff",
