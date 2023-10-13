@@ -234,7 +234,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Battle of Jing Province",
-			'Requirement': "Defeat the ambush general Xing Dao Rong, next defeat Liu Du and Liu Xian, make sure you do not defeat Jin Xuan, defeat Yang Ling, a sub general for Han Xuan, now Huang Zhong should exit the castle, defeat him and wait for Wei Yan and Huang Zhong to defect."
+			'Requirement': "Defeat the ambush general Xing Dao Rong, next defeat Liu Du and Liu Xian, make sure you do not defeat Jin Xuan, defeat Yang Ling, a sub-general of Han Xuan, now Huang Zhong should exit the castle, defeat him and wait for Wei Yan and Huang Zhong to defect."
 		}, {
 			'Game': "DW5",
 			'Name': "Comet Strike",
