@@ -303,7 +303,7 @@ const warriors = {
 				"Bow: 16"
 			],
 			'Stage': "Battle of Wu Zhang Plains (Shu)",
-			'Requirement': "Eliminate Deng Ai before he sets up the catapults."
+			'Requirement': "Defeat Deng Ai before he sets up the catapults."
 		}
 	],
 	'Guan Ping': [
