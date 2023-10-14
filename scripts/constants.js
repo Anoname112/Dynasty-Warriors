@@ -20,6 +20,17 @@ const warriors = {
 			'Stage': "Battle of Bo Wan Po",
 			'Requirement': "First lead Xiahou Dun into the fire attack spot, then defeat Xiahou Dun. Next lead Han Hao into the ambush location, so when Guan Ping comes defeat Han Hao. Then lead Yu Jin into the next ambush spot, when Guan Yu's ambush arrives defeat Yu Jin. After Zhang Fei appears in the castle and burns the supply depot, lead Zhuge Liang into the castle to meet Cao Cao."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Fierce Dragon",
 			'Rank': 4,
@@ -46,6 +57,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Fan Castle",
 			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu reinforcement troops."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Blue Moon Dragon",
@@ -74,6 +96,17 @@ const warriors = {
 			'Stage': "Battle of Chang Ban",
 			'Requirement': "Defeat Xiahou Dun, Xiahou Yuan, Xiahou En, and Xiahou De. Then head for Zhang He and defeat him to get the bridge defense event. However, it may occur with Zhang He alive so keep trying to get it right. After the bridge event, head inside the fortress to find Liu Shan and rescue him while on a horse to trigger the cutscene."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Viper Blade",
 			'Rank': 4,
@@ -100,6 +133,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Wu Zhang Plains",
 			'Requirement': "Must be done in Musou Mode; Battle of Jie Ting must be completed first so that the supply unit appears. Head for Zhang He's position and defeat him. Approach the castle to witness the cut scene. When the supply unit arrives in the west fortress, head there and defeat Xiahou Dun. After he is defeated, the supply team should reach the camp without any distraction."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Peacock Feather",
@@ -128,6 +172,17 @@ const warriors = {
 			'Stage': "Battle of Ru Nan",
 			'Requirement': "At the start of the battle, defeat Li Dian before you (Liu Bei) meet with Zhao Yun. Then meet with Zhang Fei and wait until Xiahou Yuan appears, then defeat him before Guan Yu arrives. Afterwards, defeat all of Cao Cao's generals in any order before Liu Pi arrives which is exactly in 10 minutes."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
 			'Rank': 4,
@@ -154,6 +209,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle for Cheng Du",
 			'Requirement': "Defeat Pang De and Ma Dai when they arrive as reinforcements; however, only defeat Ma Dai when he attacks the main camp."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Stallion Fury",
@@ -182,6 +248,17 @@ const warriors = {
 			'Stage': "Battle of Jian Ye",
 			'Requirement': "Defeat Sun Ce, Sun Quan, and Sun Shang Xiang before they become commanders of the Wu Forces."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Oracle Sword",
 			'Rank': 4,
@@ -208,6 +285,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Tian Shui",
 			'Requirement': "Ignore Zhuge Liang's strategy, and open both the gates of Ji Castle and Tian Shui Castle to trigger the ambush parties (either from the outside or inside), then defeat both Yin Shang and Liang Xu."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Blink",
@@ -236,6 +324,17 @@ const warriors = {
 			'Stage': "Battle of Jing Province",
 			'Requirement': "Defeat the ambush general Xing Dao Rong, next defeat Liu Du and Liu Xian, make sure you do not defeat Jin Xuan, defeat Yang Ling, a sub-general of Han Xuan, now Huang Zhong should exit the castle, defeat him and wait for Wei Yan and Huang Zhong to defect."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Comet Strike",
 			'Rank': 4,
@@ -263,6 +362,17 @@ const warriors = {
 			'Stage': "Battle of Luo Castle",
 			'Requirement': "Head for the valley where Pang Tong supposed to die. After that, defeat all the generals on the east area of the land. After you arrive at the castle, make sure you come face to face with Zhang Ren. Refuse his challenge for a duel and head for the bridge in the south. After you and he crosses over, destroy the bridge and defeat him."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Tornado Staff",
 			'Rank': 4,
@@ -289,6 +399,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "The Nanman Campaign",
 			'Requirement': "Defeat Zhu Rong in a duel. Make Ahui Nan and Dong Tu defect by defeating Yong Kai and his officers. Trigger the fire attack against Wu Tugu. Defeat Meng Huo all six-to-seven times."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Oblivion",
@@ -353,6 +474,17 @@ const warriors = {
 			'Stage': "Battle of Xia Pi (Wei)",
 			'Requirement': "Wait till the arrow cutscene happens, then defeat Diao Chan."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Kirin Fang",
 			'Rank': 4,
@@ -379,6 +511,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Wan Castle",
 			'Requirement': "Defeat Huche'er first before meeting up with Cao Cao. Afterwards, deplete Zhang Xiu's health in half to make him retreat. Once the castle gate closes, clear a path of enemies for Cao Cao to advance. When Xu Zhu breaks down the door, Dian Wei will receive the weapon."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Mad Bull",
@@ -407,6 +550,17 @@ const warriors = {
 			'Stage': "Battle of Tong Gate",
 			'Requirement': "Get Han Sui to defect to your side by defeating the four generals in the southeast land and beating his officers. Next, defeat Pang De then eliminate Ma Dai after that. Finally, eliminate Chen Yi."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Stone Crusher",
 			'Rank': 4,
@@ -433,6 +587,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Chi Bi (Wei)",
 			'Requirement': "Uncover and foil the three plots of the allied forces while playing as Cao Cao. To do so, Pang Tong, Zhuge Liang, and Huang Gai must all be eliminated. In addition, Lu Meng and Gan Ning must be eliminated before Huang Gai's arrival."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Wrath of Heaven",
@@ -461,6 +626,17 @@ const warriors = {
 			'Stage': "Battle of Mt. Ding Jun",
 			'Requirement': "All you must do here is defeat Chen Shi before he can get back to the Shu army and defeat Huang Zhong before Cao Cao comes with reinforcements."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Enforcer Rod",
 			'Rank': 4,
@@ -487,6 +663,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Hu Lao Gate",
 			'Requirement': "In Musou mode, at the battle of Si Shui Gate of Lu Bu's forces, defeat Liu Bei, Cao Cao, and Sun Jian. Then, at the battle of Hu Lao Gate, do not kill any generals till after the fire attack on the city. Once that occurs, eliminate Liu Bei, Cao Cao, and Sun Jian."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Gold Wyvern",
@@ -515,6 +702,17 @@ const warriors = {
 			'Stage': "Battle of Guan Du",
 			'Requirement': "Allow Yuan Shao's rams to knock down the walls of Guan Du castle then see to it that Wu Chao is in flames."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Marauder",
 			'Rank': 4,
@@ -541,6 +739,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Jie Ting",
 			'Requirement': "Surround Ma Su's camp by defeating all his officers and Ma Su. Once that is done, wait for Shu reinforcements then defeat all the officers and generals on the field."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Phoenix Talon",
@@ -569,6 +778,17 @@ const warriors = {
 			'Stage': "Battle of Chang Ban",
 			'Requirement': "Defeat Guan Yu and Zhuge Liang in battle. Defeat Zhao Yun and Zhang Fei in a duel."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Dark Moon Flute",
 			'Rank': 4,
@@ -595,6 +815,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Siege of Fan Castle (Wei)",
 			'Requirement': "Defeat all four siege vehicles around the castle before either the castle falls or Lu Meng arrives. Defeat Lu Meng when he comes charging out from the Wu castle in the west. Do not defeat more than two generals near the castle or Lu Meng will appear and the 'all siege weapons destroyed' message will not appear."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Roc",
@@ -659,6 +890,17 @@ const warriors = {
 			'Stage': "Siege of Fan Castle",
 			'Requirement': "After 10 minutes have passed in the battle, a supply team for Cao Ren will appear in the northeast and move towards the east gate. Defeat the supply team before they get inside the castle; defeat the guard just in case."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Ancients Sword",
 			'Rank': 4,
@@ -685,6 +927,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Yi Ling",
 			'Requirement': "Keep Zhu Ran alive till the fire attack is successful, then enter and pass through the stone maze in under 3 minutes."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Falcon",
@@ -713,6 +966,17 @@ const warriors = {
 			'Stage': "Campaign for Wu Territory",
 			'Requirement': "When Yu Mi retreats into the fortress, chase him down and defeat him. (Suggestion: Red Hare) After Yu Mi is defeated, eliminate Zhang Ying before he escapes."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Tiger Slayer",
 			'Rank': 4,
@@ -739,6 +1003,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Race for the Nan Territory",
 			'Requirement': "Defeat Wang Lang and then go into the castle. After Zhou Yu gets hit by an arrow cutscene, defeat Cao Ren when he comes charging out."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Sol Chakram",
@@ -767,6 +1042,17 @@ const warriors = {
 			'Stage': "The Imperial Seal",
 			'Requirement': "Do not destroy more than 50 of the crates until Lu Bu appears, then defeat him once he appears. This means that Sun Jian will have to blow his cover and reveal his presence to Diao Chan, Li Jue, and Zhang Liao's scouts, forcing him to eliminate the officers themselves to cause Lu Bu to appear."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Savage Tiger",
 			'Rank': 4,
@@ -793,6 +1079,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of He Fei",
 			'Requirement': "Defeat Xiahou Dun and Xiahou Yuan, then defeat Zhang Liao when he reappears near the Wu camp."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Master Wolf",
@@ -821,6 +1118,17 @@ const warriors = {
 			'Stage': "Battle of Mai Castle",
 			'Requirement': "Without letting Guan Yu retreat or escape, defeat all the generals and officers, including the ambushes and reinforcements."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "White Tiger",
 			'Rank': 4,
@@ -847,6 +1155,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Xia Kou",
 			'Requirement': "Defeat Su Fei & Chen Sheng / the enemy Gan Ning (it is best to ignore the rest of Huang Zu's generals first), then wait For Zhou Yu's message about the gunpower on Huang Zu's northern ship and destroy it once it is discovered (to light his ships on fire). Then defeat all the rest of Huang Zu's generals (Zhang Hu, Chen Jiu, Deng Long & Cai Mao) before both of his ships collide. Both Ling Cao & Ling Tong must still be alive."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Sea Master",
@@ -875,6 +1194,17 @@ const warriors = {
 			'Stage': "Battle of Chi Bi (Wu)",
 			'Requirement': "Eliminate all the gate captains before the fire attack, then defeat Cao Ren, Cao Hong, and Cao Pi."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Dark Shadow",
 			'Rank': 4,
@@ -901,6 +1231,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Unification of Jiang Dong",
 			'Requirement': "Wait for the north food supply depot to fall and Zhou Yu to be routed. Defeat Liang Gang to gain access into Wan/Huan Castle, and defeat Yuan Shu to open the rest of its gates. Once that's done give chase to Liu Xun and wait till he meets with Ji Ling (or enters Mt. Xi Sai first). Once Liu Xun starts to head for the supply depot, ride ahead of him and defeat the all the generals (Li Feng, Yue Jiu and Chen Li) at the supply depot along with the gate captains."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Overlord",
@@ -929,6 +1270,17 @@ const warriors = {
 			'Stage': "Battle of Xu Chang",
 			'Requirement': "Defeat Dian Wei and his officers - Deng Ai and Hu Zhi."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Qiao Beauty",
 			'Rank': 4,
@@ -956,6 +1308,17 @@ const warriors = {
 			'Stage': "Battle of Cheng Du",
 			'Requirement': "Before Ma Chao appears as reinforcements in Luo Castle, defeat Guan Ping and Guan Yu."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Qiao Grace",
 			'Rank': 4,
@@ -982,6 +1345,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "The Nanman Campaign",
 			'Requirement': "Using Red Hare, quickly head towards Wu Tugu and defeat him. Then enter Meng Huo's base before Ahui Nan and Dong Tu Na defect to the Wu forces."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Dusk",
@@ -1028,6 +1402,17 @@ const warriors = {
 			'Stage': "Battle of Wu Zhang Plains",
 			'Requirement': "Defeat Ma Chao and Wei Yan."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Dark Feather",
 			'Rank': 4,
@@ -1054,6 +1439,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Si Shui Gate",
 			'Requirement': "Do not defeat any general until the messenger delivers the message of Hua Xiong being defeated. Then defeat two of the three officers - Cao Cao, Sun Jian, and Liu Bei."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Diva",
@@ -1082,6 +1478,17 @@ const warriors = {
 			'Stage': "Lu Bu's Revolt (Lu Bu's Forces)",
 			'Requirement': "Clear the entire map of enemies excluding Dong Zhuo, which also includes any ambush units. If you have not received the message, be sure to search around the stage for any ambush units you've failed to trigger."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Sky Scorcher",
 			'Rank': 4,
@@ -1108,6 +1515,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Lu Bu's Revolt",
 			'Requirement': "Defeat all enemy, except Lu Bu. That includes every single solider, gate keaper, officer and Lu Bu's bodyguards."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Horror",
@@ -1136,6 +1554,17 @@ const warriors = {
 			'Stage': "Battle of Guan Du",
 			'Requirement': "Head for the southern castle, and protect the battering ram until the castle wall falls."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "Sword of Kings",
 			'Rank': 4,
@@ -1162,6 +1591,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Yellow Turban Rebellion",
 			'Requirement': "Defeat all the officers and generals, saving He Jin for last. When Dong Zhuo appears, defeat Hua Xiong and make sure Zhang Liang and Zhang Bao are alive till the end."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Volcano Staff",
@@ -1190,6 +1630,17 @@ const warriors = {
 			'Stage': "Battle of Cheng Du",
 			'Requirement': "Defeat Zhao Yun, Zhuge Liang, Yue Ying, Jiang Wei, Ma Chao, and Guan Yu. Ma Chao will appear as back-up for Liu Bei if Ma Su is defeated in combat."
 		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW5",
 			'Name': "King of Beasts",
 			'Rank': 4,
@@ -1216,6 +1667,17 @@ const warriors = {
 			'Stats': [],
 			'Stage': "Battle of Xu Chang",
 			'Requirement': "The siege ramp must survive. Defeat Cao Zhang, Cao Hong, Man Chong, and Xiahou Dun."
+		}, {
+			'Game': "DW4",
+			'Name': "",
+			'Rank': 5,
+			'Base': 60,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
 		}, {
 			'Game': "DW5",
 			'Name': "Inferno",
