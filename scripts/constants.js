@@ -1488,15 +1488,18 @@ const warriors = {
 			'Requirement': "Clear the entire map of enemies excluding Dong Zhuo, which also includes any ambush units. If you have not received the message, be sure to search around the stage for any ambush units you've failed to trigger."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Maelstrom",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 20",
+				"Huang's Bow: 15",
+				"Horned Helm: 15",
+				"Herbal Remedy: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Carnage at Hu Lao Gate",
+			'Requirement': "Get 2000 KOs."
 		}, {
 			'Game': "DW5",
 			'Name': "Sky Scorcher",
