@@ -185,15 +185,18 @@ const warriors = {
 			'Requirement': "At the start of the battle, defeat Li Dian before you (Liu Bei) meet with Zhao Yun. Then meet with Zhang Fei and wait until Xiahou Yuan appears, then defeat him before Guan Yu arrives. Afterwards, defeat all of Cao Cao's generals in any order before Liu Pi arrives which is exactly in 10 minutes."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "King of Shu",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 19",
+				"Speed Scroll: 14",
+				"Horned Helm: 9",
+				"Seven Star Sash: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Skirmish at Cheng Du",
+			'Requirement': "Defeat all generals before they flee (missing one seems to be okay if one manages to flee), and kill fewer than 8 peasants (your bodyguards K.O.ing peasants doesn't count against the conditions)."
 		}, {
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
