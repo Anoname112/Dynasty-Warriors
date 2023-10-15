@@ -21,15 +21,18 @@ const warriors = {
 			'Requirement': "First lead Xiahou Dun into the fire attack spot, then defeat Xiahou Dun. Next lead Han Hao into the ambush location, so when Guan Ping comes defeat Han Hao. Then lead Yu Jin into the next ambush spot, when Guan Yu's ambush arrives defeat Yu Jin. After Zhang Fei appears in the castle and burns the supply depot, lead Zhuge Liang into the castle to meet Cao Cao."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Raging Dragon",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 18",
+				"Cavalry Armor: 14",
+				"Elixir: 20",
+				"Herbal Remedy: 13"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "The Chang Ban Run",
+			'Requirement': "The entire stage must be completely within 13 minutes with these conditions fulfilled: First find Liu Chan within 2 minutes. Defeat Xu Huang and Cao Ren to open the castle door. Afterwards, protect Liu Bei for the rest of the game by targeting Yue Jin, Yu Jin, Xu Zhu, Xiahou Dun, Xiahou Yuan, Cheng Yu and Xun Yu as they will charge after Liu Bei. Defeat 300 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Fierce Dragon",
