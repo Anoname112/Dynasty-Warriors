@@ -103,15 +103,18 @@ const warriors = {
 			'Requirement': "Defeat Xiahou Dun, Xiahou Yuan, Xiahou En, and Xiahou De. Then head for Zhang He and defeat him to get the bridge defense event. However, it may occur with Zhang He alive so keep trying to get it right. After the bridge event, head inside the fortress to find Liu Shan and rescue him while on a horse to trigger the cutscene."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Venom",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 20",
+				"Horned Helm: 13",
+				"Elixir: 18",
+				"Herbal Remedy: 17"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Defense of Chang Ban",
+			'Requirement': "Defeat all officers and Cao Cao before the stage ends on time out."
 		}, {
 			'Game': "DW5",
 			'Name': "Viper Blade",
