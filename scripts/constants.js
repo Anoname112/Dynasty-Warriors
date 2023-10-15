@@ -62,15 +62,18 @@ const warriors = {
 			'Requirement': "After every general besides Guan ping and Zhou Cang defect, defeat all the Wu reinforcement troops."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Divine Dragon",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Peacock Urn: 17",
+				"Speed Scroll: 17",
+				"Huang's Bow: 13",
+				"Horned Helm: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Defense of Xu",
+			'Requirement': "Defeat 200 or 300 enemies, and defeat Yue Jin, Yu Jin and Li Dian. The carriage must also not be in danger for more than 3 times."
 		}, {
 			'Game': "DW5",
 			'Name': "Blue Moon Dragon",
