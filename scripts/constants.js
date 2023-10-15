@@ -226,15 +226,18 @@ const warriors = {
 			'Requirement': "Defeat Pang De and Ma Dai when they arrive as reinforcements; however, only defeat Ma Dai when he attacks the main camp."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Last Stallion",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 12",
+				"Horned Helm: 20",
+				"Cavalry Armor: 20",
+				"Elixir: 15"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Jia Meng Gate",
+			'Requirement': "Get 500 KOs and be constantly ahead of the competition."
 		}, {
 			'Game': "DW5",
 			'Name': "Stallion Fury",
