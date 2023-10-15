@@ -144,15 +144,18 @@ const warriors = {
 			'Requirement': "Must be done in Musou Mode; Battle of Jie Ting must be completed first so that the supply unit appears. Head for Zhang He's position and defeat him. Approach the castle to witness the cut scene. When the supply unit arrives in the west fortress, head there and defeat Xiahou Dun. After he is defeated, the supply team should reach the camp without any distraction."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Divine Feather",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 11",
+				"Nanman Armor: 20",
+				"Cavalry Armor: 20",
+				"Seven Star Sash: 9"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Yue Ying, Woman Warrior",
+			'Requirement': "Defeat Yue Ying six times, all 'by a wide margin', and also defeat two of the three other officers."
 		}, {
 			'Game': "DW5",
 			'Name': "Peacock Feather",
