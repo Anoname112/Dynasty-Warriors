@@ -1589,15 +1589,18 @@ const warriors = {
 			'Requirement': "Defeat all enemy, except Lu Bu. That includes every single solider, gate keaper, officer and Lu Bu's bodyguards."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Pandemonium",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 17",
+				"Wing Boots: 14",
+				"Horned Helm: 20",
+				"Cavalry Armor: 16"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "The Ten Eunuchs",
+			'Requirement': "Defeat the Ten Eunuchs with Yuan Shao alive. Achieve a 100 KO count."
 		}, {
 			'Game': "DW5",
 			'Name': "Horror",
