@@ -847,7 +847,7 @@ const warriors = {
 				"Seven Star Sash: 20"
 			],
 			'Stage': "Encounter at Yi Province",
-			'Requirement': "Go outside the castle into Cao Pi's army and Zhen Ji will defect to Cao Pi's army. Then, defeat all enemy generals and sub-generals except Yuan Xi, and achieve an 150 K.O. count. Or, do the opposite and stay inside the castle with Yuan Xi, and defeat every general and sub-general save for Cao Pi, and achieve an 150 K.O. count."
+			'Requirement': "Go outside the castle into Cao Pi's army and Zhen Ji will defect to Cao Pi's army. Then, defeat all enemy generals and sub-generals except Yuan Xi, and defeat 150 enemies. Or, do the opposite and stay inside the castle with Yuan Xi, and defeat every generals and sub-generals except Cao Pi, and defeat 150 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Dark Moon Flute",
