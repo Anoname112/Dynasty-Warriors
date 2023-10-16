@@ -390,15 +390,18 @@ const warriors = {
 			'Requirement': "Head for the valley where Pang Tong supposed to die. After that, defeat all the generals on the east area of the land. After you arrive at the castle, make sure you come face to face with Zhang Ren. Refuse his challenge for a duel and head for the bridge in the south. After you and he crosses over, destroy the bridge and defeat him."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Great Phoenix",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 14",
+				"Nanman Armor: 20",
+				"Cavalry Armor: 20",
+				"Seven Star Sash: 7"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Illusions of Pang Tong",
+			'Requirement': "Make sure all of Pang Tong's battle strategies succeed with high favor gained, and have at least 450 KOs or more after encounting Zhuge Liang for the unique message."
 		}, {
 			'Game': "DW5",
 			'Name': "Tornado Staff",
