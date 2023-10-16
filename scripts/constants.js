@@ -1630,15 +1630,18 @@ const warriors = {
 			'Requirement': "Head for the southern castle, and protect the battering ram until the castle wall falls."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Majesty",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 15",
+				"Wing Boots: 11",
+				"Cavalry Armor: 19",
+				"Herbal Remedy: 18"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Jie Qiao",
+			'Requirement': "Achieve an 100 K.O. count, and defeat each general as they appear, except Gongsun Zan."
 		}, {
 			'Game': "DW5",
 			'Name': "Sword of Kings",
