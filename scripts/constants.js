@@ -836,15 +836,18 @@ const warriors = {
 			'Requirement': "Defeat Guan Yu and Zhuge Liang in battle. Defeat Zhao Yun and Zhang Fei in a duel."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Twilight Flute",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 18",
+				"Nanman Armor: 10",
+				"Horned Helm: 13",
+				"Seven Star Sash: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Encounter at Yi Province",
+			'Requirement': "Go outside the castle into Cao Pi's army and Zhen Ji will defect to Cao Pi's army. Then, defeat all enemy generals and sub-generals except Yuan Xi, and achieve an 150 K.O. count. Or, do the opposite and stay inside the castle with Yuan Xi, and defeat every general and sub-general save for Cao Pi, and achieve an 150 K.O. count."
 		}, {
 			'Game': "DW5",
 			'Name': "Dark Moon Flute",
