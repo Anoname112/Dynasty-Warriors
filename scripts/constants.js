@@ -560,7 +560,7 @@ const warriors = {
 				"Cavalry Armor: 16"
 			],
 			'Stage': "Defense of Wan Castle",
-			'Requirement': "Defeat Hu Che Er and Jia Xu after they appear, then achieve a 200 K.O. count."
+			'Requirement': "Defeat Hu Che Er and Jia Xu after they appear, then defeat 200 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Mad Bull",
