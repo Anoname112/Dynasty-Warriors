@@ -508,15 +508,18 @@ const warriors = {
 			'Requirement': "Wait till the arrow cutscene happens, then defeat Diao Chan."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Kirin Blaze",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 15",
+				"Nanman Armor: 20",
+				"Seven Star Sash: 12",
+				"Elixir: 18"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Skirmish at Xia Pi",
+			'Requirement': "Defeat Cao Xing on the first encounter before he flees, re-encounter him afterwards for the unique dialogue message (without entering the top left of the castle map), and get 100 KOs."
 		}, {
 			'Game': "DW5",
 			'Name': "Kirin Fang",
