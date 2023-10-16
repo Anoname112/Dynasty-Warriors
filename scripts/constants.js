@@ -308,15 +308,18 @@ const warriors = {
 			'Requirement': "Ignore Zhuge Liang's strategy, and open both the gates of Ji Castle and Tian Shui Castle to trigger the ambush parties (either from the outside or inside), then defeat both Yin Shang and Liang Xu."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Prodigal",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Wing Boots: 20",
+				"Peacock Urn: 14",
+				"Horned Helm: 14",
+				"Herbal Remedy: 17"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Defense of Jian Ge",
+			'Requirement': "Defeat all enemy generals, all while making sure Liu Shan does not have his HP below half for around 8-to-9 minutes total within the stage."
 		}, {
 			'Game': "DW5",
 			'Name': "Blink",
