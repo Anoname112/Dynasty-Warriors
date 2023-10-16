@@ -795,15 +795,18 @@ const warriors = {
 			'Requirement': "Surround Ma Su's camp by defeating all his officers and Ma Su. Once that is done, wait for Shu reinforcements then defeat all the officers and generals on the field."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Infernal Talon",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Peacock Urn: 12",
+				"Speed Scroll: 20",
+				"Wing Boots: 20",
+				"Huang's Bow: 10"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Pursuit at Mt. Qi",
+			'Requirement': "Defeat Wei Yan while he's running away from you. Or, after Wei Yan stops retreating. Defeat Guan Xing and Zhang Bao. Then achieve a 100 KO count, not before."
 		}, {
 			'Game': "DW5",
 			'Name': "Phoenix Talon",
