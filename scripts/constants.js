@@ -360,7 +360,7 @@ const warriors = {
 				"Herbal Remedy: 19"
 			],
 			'Stage': "Encounter at Wu Zhang Plains",
-			'Requirement': "Before Zhuge Liang launches an attack on Wei Yan, defeat Xiahou He, Xiahou Wei and Xiahou Hui in any order. After Zhuge Liang launches an attack on Wei Yan, defeat all Shu officers with 200 K.O.s."
+			'Requirement': "Before Zhuge Liang launches an attack on Wei Yan, defeat Xiahou He, Xiahou Wei and Xiahou Hui in any order. After Zhuge Liang launches an attack on Wei Yan, defeat all Shu officers and 200 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Comet Strike",
