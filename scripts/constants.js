@@ -1507,15 +1507,18 @@ const warriors = {
 			'Requirement': "Do not defeat any general until the messenger delivers the message of Hua Xiong being defeated. Then defeat two of the three officers - Cao Cao, Sun Jian, and Liu Bei."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Muse",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 12",
+				"Seven Star Sash: 15",
+				"Elixir: 20",
+				"Herbal Remedy: 14"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Assassinate Dong Zhuo!",
+			'Requirement': "Defeat Hua Xiong in under 10 minutes."
 		}, {
 			'Game': "DW5",
 			'Name': "Diva",
