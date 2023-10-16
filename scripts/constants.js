@@ -625,15 +625,18 @@ const warriors = {
 			'Requirement': "Uncover and foil the three plots of the allied forces while playing as Cao Cao. To do so, Pang Tong, Zhuge Liang, and Huang Gai must all be eliminated. In addition, Lu Meng and Gan Ning must be eliminated before Huang Gai's arrival."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "King of Wei",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 18",
+				"Huang's Bow: 12",
+				"Cavalry Armor: 16",
+				"Seven Star Sash: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Escape from Chi Bi",
+			'Requirement': "Defeat Shu generals Zhao Yun, Guan Ping, Zhou Cang, and Zhang Fei before ally back-up troops appear. Initiate the cutscene between Cao Cao and Guan Yu before accomplishing a KO count of 200."
 		}, {
 			'Game': "DW5",
 			'Name': "Wrath of Heaven",
