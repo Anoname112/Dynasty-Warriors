@@ -349,15 +349,18 @@ const warriors = {
 			'Requirement': "Defeat the ambush general Xing Dao Rong, next defeat Liu Du and Liu Xian, make sure you do not defeat Jin Xuan, defeat Yang Ling, a sub-general of Han Xuan, now Huang Zhong should exit the castle, defeat him and wait for Wei Yan and Huang Zhong to defect."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Meteor Strike",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Peacock Urn: 18",
+				"Nanman Armor: 14",
+				"Cavalry Armor: 16",
+				"Herbal Remedy: 19"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Encounter at Wu Zhang Plains",
+			'Requirement': "Before Zhuge Liang launches an attack on Wei Yan, defeat Xiahou He, Xiahou Wei and Xiahou Hui in any order. After Zhuge Liang launches an attack on Wei Yan, defeat all Shu officers with 200 K.O.s."
 		}, {
 			'Game': "DW5",
 			'Name': "Comet Strike",
