@@ -401,7 +401,7 @@ const warriors = {
 				"Seven Star Sash: 7"
 			],
 			'Stage': "Illusions of Pang Tong",
-			'Requirement': "Make sure all of Pang Tong's battle strategies succeed with high favor gained, and have at least 450 KOs or more after encounting Zhuge Liang for the unique message."
+			'Requirement': "Make sure all of Pang Tong's battle strategies succeed with high favor gained, and defeat at least 450 enemies after encounting Zhuge Liang for the unique message."
 		}, {
 			'Game': "DW5",
 			'Name': "Tornado Staff",
