@@ -590,15 +590,18 @@ const warriors = {
 			'Requirement': "Get Han Sui to defect to your side by defeating the four generals in the southeast land and beating his officers. Next, defeat Pang De then eliminate Ma Dai after that. Finally, eliminate Chen Yi."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Earth Shaker",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Peacock Urn: 14",
+				"Speed Scroll: 20",
+				"Wing Boots: 19",
+				"Seven Star Sash: 16"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Village Encounter",
+			'Requirement': "Defeat all generals, including defeating Dian Wei twice, without having over 3 supply captains retreat and/or having the plundering cause heavy damage to the fields via the battle messages."
 		}, {
 			'Game': "DW5",
 			'Name': "Stone Crusher",
