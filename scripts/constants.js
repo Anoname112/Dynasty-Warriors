@@ -1466,15 +1466,18 @@ const warriors = {
 			'Requirement': "Defeat Ma Chao and Wei Yan."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Abyssal Feather",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 18",
+				"Nanman Armor: 15",
+				"Cavalry Armor: 16",
+				"Seven Star Sash: 11"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Mt. Qi",
+			'Requirement': "Trigger the rain event manually, instead of it activating automatically, and defeat nine of the ten enemy generals."
 		}, {
 			'Game': "DW5",
 			'Name': "Dark Feather",
