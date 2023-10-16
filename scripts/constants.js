@@ -765,7 +765,7 @@ const warriors = {
 				"Elixir: 19"
 			],
 			'Stage': "Defense of Fan Castle",
-			'Requirement': "Destroy all 4 siege vehicles before they set up and start attacking the castle. Defeat all enemy generals except Guan Yu, and achieve 200 K.O. Count."
+			'Requirement': "Destroy all 4 siege weapons before they set up and start attacking the castle. Defeat all enemy generals except Guan Yu, and defeat 200 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Marauder",
