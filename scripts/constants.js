@@ -1712,15 +1712,18 @@ const warriors = {
 			'Requirement': "Defeat Zhao Yun, Zhuge Liang, Yue Ying, Jiang Wei, Ma Chao, and Guan Yu. Ma Chao will appear as back-up for Liu Bei if Ma Su is defeated in combat."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "King of Nanman",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 17",
+				"Speed Scroll: 15",
+				"Wing Boots: 16",
+				"Herbal Remedy: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Nanman Warfare",
+			'Requirement': "Defeat Xiahou He, Xiahou Hui, Xiahou Wei, Zhong Hui and Deng Ai. All allies must be rescued."
 		}, {
 			'Game': "DW5",
 			'Name': "King of Beasts",
