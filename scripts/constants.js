@@ -267,15 +267,18 @@ const warriors = {
 			'Requirement': "Defeat Sun Ce, Sun Quan, and Sun Shang Xiang before they become commanders of the Wu Forces."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Venerable Master",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Peacock Urn: 8",
+				"Huang's Bow: 20",
+				"Nanman Armor: 20",
+				"Herbal Remedy: 17"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Chang Sha",
+			'Requirement': "Shoot Guan Yu off his horse before he begins taunting you in order to lower your morale. When Wei Yan kills Han Xuan, ignore Zhou Cang and run straight to Guan Yu. They will talk. Decrease his HP until Zhao Yun and Zhang Fei appear. Defeat Zhou Cang and Guan Ping. Zhang Fei will appear after you defeat one of them, and Zhao Yun will appear after you defeat the other one. Defeat Zhao Yun and Zhang Fei. Get 100 KOs. Defeat Guan Yu."
 		}, {
 			'Game': "DW5",
 			'Name': "Oracle Sword",
