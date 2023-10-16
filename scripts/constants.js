@@ -237,7 +237,7 @@ const warriors = {
 				"Elixir: 15"
 			],
 			'Stage': "Battle of Jia Meng Gate",
-			'Requirement': "Get 500 KOs and be constantly ahead of the competition."
+			'Requirement': "Defeat 500 enemies and be constantly ahead of the competition."
 		}, {
 			'Game': "DW5",
 			'Name': "Stallion Fury",
