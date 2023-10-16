@@ -683,7 +683,7 @@ const warriors = {
 				"Elixir: 17"
 			],
 			'Stage': "Reprisal at Mt. Ding Jun",
-			'Requirement': "Prevent the 'Ally base guard troop decreased' message, and achieve a 400 K.O. count. Do this all before Xiahou Dun's ally back-up troops appear, and before Huang Zhong appears."
+			'Requirement': "Prevent the 'Ally base guard troop decreased' message, and defeat 400 enemies. Do this all before Xiahou Dun's ally reinforcement troops appear, and before Huang Zhong appears."
 		}, {
 			'Game': "DW5",
 			'Name': "Enforcer Rod",
