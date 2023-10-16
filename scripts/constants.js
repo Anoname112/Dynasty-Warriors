@@ -196,7 +196,7 @@ const warriors = {
 				"Seven Star Sash: 20"
 			],
 			'Stage': "Skirmish at Cheng Du",
-			'Requirement': "Defeat all generals before they flee (missing one seems to be okay if one manages to flee), and kill fewer than 8 peasants (your bodyguards K.O.ing peasants doesn't count against the conditions)."
+			'Requirement': "Defeat all generals before they flee (missing one seems to be okay if one manages to flee), and kill fewer than 8 peasants (your bodyguards killing peasants doesn't count against the conditions)."
 		}, {
 			'Game': "DW5",
 			'Name': "Gold Moon Dragon",
