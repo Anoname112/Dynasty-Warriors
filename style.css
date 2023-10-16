@@ -135,7 +135,7 @@ svg {
 .tag {
 	position: absolute;
 	left: 4px;
-	padding: 2px 3px 1px 3px;
+	padding: 1px 3px 1px 3px;
 	border-radius: 2px;
 	background-color: #3D3D4D;
 	font-size: 11px;
