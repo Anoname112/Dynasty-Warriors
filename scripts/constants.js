@@ -888,7 +888,7 @@ const warriors = {
 				"Seven Star Sash: 12"
 			],
 			'Stage': "Encounter at Jiang Ling",
-			'Requirement': "Meet with Niu Jin only after his morale reaches 8 stars. Then defeat Han Dang and Gan Ning after meeting with Niu Jin. Defeat the two ambush troop generals, Zhou Tai and Zhou Yu, after they appear. While keeping Niu Jin's health as high as possible, achieve at least a 250 KO count."
+			'Requirement': "Meet with Niu Jin only after his morale reaches 8 stars. Then defeat Han Dang and Gan Ning after meeting with Niu Jin. Defeat the two ambush troop generals, Zhou Tai and Zhou Yu, after they appear. While keeping Niu Jin's health as high as possible, defeat at least 250 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Roc",
