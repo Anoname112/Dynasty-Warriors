@@ -549,15 +549,18 @@ const warriors = {
 			'Requirement': "Defeat Huche'er first before meeting up with Cao Cao. Afterwards, deplete Zhang Xiu's health in half to make him retreat. Once the castle gate closes, clear a path of enemies for Cao Cao to advance. When Xu Zhu breaks down the door, Dian Wei will receive the weapon."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Bull Rampage",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 18",
+				"Speed Scroll: 17",
+				"Nanman Armor: 20",
+				"Cavalry Armor: 16"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Defense of Wan Castle",
+			'Requirement': "Defeat Hu Che Er and Jia Xu after they appear, then achieve a 200 K.O. count."
 		}, {
 			'Game': "DW5",
 			'Name': "Mad Bull",
