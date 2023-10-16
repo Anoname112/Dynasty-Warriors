@@ -1559,7 +1559,7 @@ const warriors = {
 				"Herbal Remedy: 20"
 			],
 			'Stage': "Carnage at Hu Lao Gate",
-			'Requirement': "Get 2000 KOs."
+			'Requirement': "Defeat 2000 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Sky Scorcher",
