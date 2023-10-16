@@ -519,7 +519,7 @@ const warriors = {
 				"Elixir: 18"
 			],
 			'Stage': "Skirmish at Xia Pi",
-			'Requirement': "Defeat Cao Xing on the first encounter before he flees, re-encounter him afterwards for the unique dialogue message (without entering the top left of the castle map), and get 100 KOs."
+			'Requirement': "Defeat Cao Xing on the first encounter before he flees, re-encounter him afterwards for the unique dialogue message (without entering the top left of the castle map), and defeat 100 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Kirin Fang",
