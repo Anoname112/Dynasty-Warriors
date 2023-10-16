@@ -663,15 +663,18 @@ const warriors = {
 			'Requirement': "All you must do here is defeat Chen Shi before he can get back to the Shu army and defeat Huang Zhong before Cao Cao comes with reinforcements."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Ogre Rod",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 10",
+				"Huang's Bow: 19",
+				"Nanman Armor: 19",
+				"Elixir: 17"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Reprisal at Mt. Ding Jun",
+			'Requirement': "Prevent the 'Ally base guard troop decreased' message, and achieve a 400 K.O. count. Do this all before Xiahou Dun's ally back-up troops appear, and before Huang Zhong appears."
 		}, {
 			'Game': "DW5",
 			'Name': "Enforcer Rod",
