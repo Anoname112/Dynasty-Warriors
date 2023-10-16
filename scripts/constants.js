@@ -877,15 +877,18 @@ const warriors = {
 			'Requirement': "Defeat all four siege vehicles around the castle before either the castle falls or Lu Meng arrives. Defeat Lu Meng when he comes charging out from the Wu castle in the west. Do not defeat more than two generals near the castle or Lu Meng will appear and the 'all siege weapons destroyed' message will not appear."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Kai",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Peacock Urn: 18",
+				"Nanman Armor: 17",
+				"Cavalry Armor: 19",
+				"Seven Star Sash: 12"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Encounter at Jiang Ling",
+			'Requirement': "Meet with Niu Jin only after his morale reaches 8 stars. Then defeat Han Dang and Gan Ning after meeting with Niu Jin. Defeat the two ambush troop generals, Zhou Tai and Zhou Yu, after they appear. While keeping Niu Jin's health as high as possible, achieve at least a 250 KO count."
 		}, {
 			'Game': "DW5",
 			'Name': "Roc",
