@@ -442,7 +442,7 @@ const warriors = {
 				"Herbal Remedy: 18"
 			],
 			'Stage': "Ride of the Juggernauts",
-			'Requirement': "Defeat all enemy officers. It's okay to have the Juggernauts kill some. Protect all Juggernauts. It is okay to have one destroyed. Level 11 message after defeating Guan Yu, just before the stage ends."
+			'Requirement': "Defeat all enemy officers. It's okay to have the Juggernauts defeat some. Protect all Juggernauts. It is okay to have one destroyed."
 		}, {
 			'Game': "DW5",
 			'Name': "Oblivion",
