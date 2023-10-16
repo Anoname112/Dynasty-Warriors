@@ -431,15 +431,18 @@ const warriors = {
 			'Requirement': "Defeat Zhu Rong in a duel. Make Ahui Nan and Dong Tu defect by defeating Yong Kai and his officers. Trigger the fire attack against Wu Tugu. Defeat Meng Huo all six-to-seven times."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Nether Realm",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 18",
+				"Huang's Bow: 13",
+				"Horned Helm: 14",
+				"Herbal Remedy: 18"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Ride of the Juggernauts",
+			'Requirement': "Defeat all enemy officers. It's okay to have the Juggernauts kill some. Protect all Juggernauts. It is okay to have one destroyed. Level 11 message after defeating Guan Yu, just before the stage ends."
 		}, {
 			'Game': "DW5",
 			'Name': "Oblivion",
