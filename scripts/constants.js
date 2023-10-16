@@ -754,15 +754,18 @@ const warriors = {
 			'Requirement': "Allow Yuan Shao's rams to knock down the walls of Guan Du castle then see to it that Wu Chao is in flames."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Annihilator",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 16",
+				"Huang's Bow: 13",
+				"Horned Helm: 19",
+				"Elixir: 19"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Defense of Fan Castle",
+			'Requirement': "Destroy all 4 siege vehicles before they set up and start attacking the castle. Defeat all enemy generals except Guan Yu, and achieve 200 K.O. Count."
 		}, {
 			'Game': "DW5",
 			'Name': "Marauder",
