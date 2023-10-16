@@ -1753,15 +1753,18 @@ const warriors = {
 			'Requirement': "The siege ramp must survive. Defeat Cao Zhang, Cao Hong, Man Chong, and Xiahou Dun."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Fire Goddess",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 11",
+				"Huang's Bow: 20",
+				"Cavalry Armor: 15",
+				"Elixir: 17"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Rescue of Meng Huo",
+			'Requirement': "Get to Zhuge Liang without any soldiers noticing."
 		}, {
 			'Game': "DW5",
 			'Name': "Inferno",
