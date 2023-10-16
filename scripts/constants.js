@@ -1671,15 +1671,18 @@ const warriors = {
 			'Requirement': "Defeat all the officers and generals, saving He Jin for last. When Dong Zhuo appears, defeat Hua Xiong and make sure Zhang Liang and Zhang Bao are alive till the end."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Staff of Peace",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Peacock Urn: 15",
+				"Speed Scroll: 17",
+				"Nanman Armor: 10",
+				"Seven Star Sash: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Yellow Turbans' Last Stand",
+			'Requirement': "Eight minutes into the stage, achieve an 100 K.O. count and 6 of the 7 enemy gates are closed."
 		}, {
 			'Game': "DW5",
 			'Name': "Volcano Staff",
