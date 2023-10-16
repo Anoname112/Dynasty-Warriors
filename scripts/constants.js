@@ -713,15 +713,18 @@ const warriors = {
 			'Requirement': "In Musou mode, at the battle of Si Shui Gate of Lu Bu's forces, defeat Liu Bei, Cao Cao, and Sun Jian. Then, at the battle of Hu Lao Gate, do not kill any generals till after the fire attack on the city. Once that occurs, eliminate Liu Bei, Cao Cao, and Sun Jian."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Celestial Wyvern",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 17",
+				"Huang's Bow: 11",
+				"Horned Helm: 18",
+				"Elixir: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Ambush at He Fei",
+			'Requirement': "Keep all four top castle ally Guard Troop Captains alive until Zhou Tai appears. Achieve a 300 K.O. count."
 		}, {
 			'Game': "DW5",
 			'Name': "Gold Wyvern",
