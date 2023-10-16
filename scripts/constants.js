@@ -724,7 +724,7 @@ const warriors = {
 				"Elixir: 20"
 			],
 			'Stage': "Ambush at He Fei",
-			'Requirement': "Keep all four top castle ally Guard Troop Captains alive until Zhou Tai appears. Achieve a 300 K.O. count."
+			'Requirement': "Keep all four top castle ally Guard Troop Captains alive until Zhou Tai appears. Defeat 300 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Gold Wyvern",
