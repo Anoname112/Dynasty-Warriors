@@ -642,7 +642,7 @@ const warriors = {
 				"Seven Star Sash: 20"
 			],
 			'Stage': "Escape from Chi Bi",
-			'Requirement': "Defeat Shu generals Zhao Yun, Guan Ping, Zhou Cang, and Zhang Fei before ally back-up troops appear. Initiate the cutscene between Cao Cao and Guan Yu before accomplishing a KO count of 200."
+			'Requirement': "Defeat Shu generals Zhao Yun, Guan Ping, Zhou Cang, and Zhang Fei before ally reinforcement troops appear. Initiate the cutscene between Cao Cao and Guan Yu before defeating 200 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Wrath of Heaven",
