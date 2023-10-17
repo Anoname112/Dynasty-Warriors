@@ -954,15 +954,18 @@ const warriors = {
 			'Requirement': "After 10 minutes have passed in the battle, a supply team for Cao Ren will appear in the northeast and move towards the east gate. Defeat the supply team before they get inside the castle; defeat the guard just in case."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Scion Sword",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 16",
+				"Wing Boots: 18",
+				"Seven Star Sash: 13",
+				"Elixir: 17"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "The Chi Bi Gambit",
+			'Requirement': "Defeat all generals except Zhuge Liang, and achieve a 50 K.O. count."
 		}, {
 			'Game': "DW5",
 			'Name': "Ancients Sword",
