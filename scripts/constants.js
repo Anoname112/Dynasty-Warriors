@@ -1047,7 +1047,7 @@ const warriors = {
 				"Herbal Remedy: 19"
 			],
 			'Stage': "Campaign Against Liu Yong",
-			'Requirement': "Defeat Xue Li and Fan Neng. Gather at least 9 units before you encounter and rescue Hua Xin. Gather at least 12 units to join forces with, and achieve a 450 KO Count."
+			'Requirement': "Defeat Xue Li and Fan Neng. Gather at least 9 units before you encounter and rescue Hua Xin. Gather at least 12 units to join forces with, and defeat 450 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Tiger Slayer",
