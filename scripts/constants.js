@@ -1118,15 +1118,19 @@ const warriors = {
 			'Requirement': "Do not destroy more than 50 of the crates until Lu Bu appears, then defeat him once he appears. This means that Sun Jian will have to blow his cover and reveal his presence to Diao Chan, Li Jue, and Zhang Liao's scouts, forcing him to eliminate the officers themselves to cause Lu Bu to appear."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "King of Wu",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 20",
+				"Wing Boots: 10",
+				"Nanman Armor: 18",
+				"Herbal Remedy: 16"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Dong Zhuo and the Alliance",
+			'Requirement': "Defeat Hua Xiong, Hu Zhen, and Lu Bu after he appears, all before passing through the map center castle. Eliminate the top and right enemy entry points. Encounter Dong Zhuo before the map left ally castle is breached.
+"
 		}, {
 			'Game': "DW5",
 			'Name': "Savage Tiger",
