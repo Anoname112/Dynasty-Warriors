@@ -1036,15 +1036,18 @@ const warriors = {
 			'Requirement': "When Yu Mi retreats into the fortress, chase him down and defeat him. (Suggestion: Red Hare) After Yu Mi is defeated, eliminate Zhang Ying before he escapes."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Demon Slayer",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 20",
+				"Wing Boots: 11",
+				"Nanman Armor: 16",
+				"Herbal Remedy: 19"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Campaign Against Liu Yong",
+			'Requirement': "Defeat Xue Li and Fan Neng. Gather at least 9 units before you encounter and rescue Hua Xin. Gather at least 12 units to join forces with, and achieve a 450 KO Count."
 		}, {
 			'Game': "DW5",
 			'Name': "Tiger Slayer",
