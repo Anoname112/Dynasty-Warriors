@@ -1242,15 +1242,18 @@ const warriors = {
 			'Requirement': "Defeat Su Fei & Chen Sheng / the enemy Gan Ning (it is best to ignore the rest of Huang Zu's generals first), then wait For Zhou Yu's message about the gunpower on Huang Zu's northern ship and destroy it once it is discovered (to light his ships on fire). Then defeat all the rest of Huang Zu's generals (Zhang Hu, Chen Jiu, Deng Long & Cai Mao) before both of his ships collide. Both Ling Cao & Ling Tong must still be alive."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Leviathan",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Speed Scroll: 20",
+				"Horned Helm: 11",
+				"Seven Star Sash: 16",
+				"Herbal Remedy: 19"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Ru Xu Kou",
+			'Requirement': "Defeat Li Dian and Yue Jin before they regather their troops, and defeat either Cao Xiu or Zhang Liao after they appear. Achieve a 140 K.O. count."
 		}, {
 			'Game': "DW5",
 			'Name': "Sea Master",
