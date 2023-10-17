@@ -1129,8 +1129,7 @@ const warriors = {
 				"Herbal Remedy: 16"
 			],
 			'Stage': "Dong Zhuo and the Alliance",
-			'Requirement': "Defeat Hua Xiong, Hu Zhen, and Lu Bu after he appears, all before passing through the map center castle. Eliminate the top and right enemy entry points. Encounter Dong Zhuo before the map left ally castle is breached.
-"
+			'Requirement': "Defeat Hua Xiong, Hu Zhen, and Lu Bu after he appears, all before passing through the map center castle. Eliminate the top and right enemy entry points. Encounter Dong Zhuo before the map left ally castle is breached."
 		}, {
 			'Game': "DW5",
 			'Name': "Savage Tiger",
