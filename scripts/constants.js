@@ -1077,15 +1077,18 @@ const warriors = {
 			'Requirement': "Defeat Wang Lang and then go into the castle. After Zhou Yu gets hit by an arrow cutscene, defeat Cao Ren when he comes charging out."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Astral Chakram",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 14",
+				"Huang's Bow: 16",
+				"Speed Scroll: 19",
+				"Wing Boots: 12"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Liu Bei's Escape",
+			'Requirement': "Get 150 KOs around the first enemy gate captain. Rescue the female guards on the way. Defeat Cheng Pu and Pan Zhang. Should have 200 KOs by now. Run to the gate with Xu Sheng and Ding Feng. Ignore the soldiers and defeat the officers with 3 female bodyguards. Run to Zhou Tai and Jiang Qin and defeat them. Rescue the last bodyguard. Do not let Zhao Yun appear at any point of the stage. He'll appear if you don't get 200 KOs by the time enemy reinforcements appear. Level 11 message when you cross the bridge."
 		}, {
 			'Game': "DW5",
 			'Name': "Sol Chakram",
