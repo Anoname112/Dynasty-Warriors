@@ -995,15 +995,18 @@ const warriors = {
 			'Requirement': "Keep Zhu Ran alive till the fire attack is successful, then enter and pass through the stone maze in under 3 minutes."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Raptor",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tiger Amulet: 14",
+				"Speed Scroll: 20",
+				"Wing Boots: 17",
+				"Cavalry Armor: 11"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Yu Fu Bay",
+			'Requirement': "Go through the Stone Maze without getting lost, then defeat Zhao Yun and Guan Xing in under 11 minutes."
 		}, {
 			'Game': "DW5",
 			'Name': "Falcon",
