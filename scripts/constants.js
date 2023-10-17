@@ -1641,7 +1641,7 @@ const warriors = {
 				"Herbal Remedy: 18"
 			],
 			'Stage': "Battle of Jie Qiao",
-			'Requirement': "Achieve an 100 K.O. count, and defeat each general as they appear, except Gongsun Zan."
+			'Requirement': "Defeat 100 enemies, and defeat each general as they appear, except Gongsun Zan."
 		}, {
 			'Game': "DW5",
 			'Name': "Sword of Kings",
