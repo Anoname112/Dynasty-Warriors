@@ -1324,15 +1324,18 @@ const warriors = {
 			'Requirement': "Wait for the north food supply depot to fall and Zhou Yu to be routed. Defeat Liang Gang to gain access into Wan/Huan Castle, and defeat Yuan Shu to open the rest of its gates. Once that's done give chase to Liu Xun and wait till he meets with Ji Ling (or enters Mt. Xi Sai first). Once Liu Xun starts to head for the supply depot, ride ahead of him and defeat the all the generals (Li Feng, Yue Jiu and Chen Li) at the supply depot along with the gate captains."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Hierophant",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 19",
+				"Wing Boots: 10",
+				"Huang's Bow: 19",
+				"Elixir: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "The Shadow of Sun Ce",
+			'Requirement': "Clear the stage in under 1:50 minutes after defeating the real Yu Ji's appearance."
 		}, {
 			'Game': "DW5",
 			'Name': "Overlord",
