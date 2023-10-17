@@ -1682,7 +1682,7 @@ const warriors = {
 				"Seven Star Sash: 20"
 			],
 			'Stage': "Yellow Turbans' Last Stand",
-			'Requirement': "Eight minutes into the stage, achieve an 100 K.O. count and 6 of the 7 enemy gates are closed."
+			'Requirement': "Eight minutes into the stage, defeat 100 enemies and 6 of the 7 enemy gates are closed."
 		}, {
 			'Game': "DW5",
 			'Name': "Volcano Staff",
