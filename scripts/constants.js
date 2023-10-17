@@ -1406,15 +1406,18 @@ const warriors = {
 			'Requirement': "Before Ma Chao appears as reinforcements in Luo Castle, defeat Guan Ping and Guan Yu."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Fatal Grace",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 17",
+				"Speed Scroll: 14",
+				"Elixir: 19",
+				"Herbal Remedy: 10"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Escape From Tong Qiao Tai",
+			'Requirement': "Defeat Cao Cao 4 times in a row. Defeat Xiahou Dun, Xu Zhu, Dian Wei and Cao Ren. At this point, there must be more than 15 minutes remaining. When Cao Cao appears for the fifth time, Xiahou Yuan will bring Da Qiao with him. Move to the top of the tower to meet Da Qiao. There will be a cutscene. Defeat Xiahou Yuan. Get 100 KOs."
 		}, {
 			'Game': "DW5",
 			'Name': "Qiao Grace",
