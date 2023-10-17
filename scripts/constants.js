@@ -965,7 +965,7 @@ const warriors = {
 				"Elixir: 17"
 			],
 			'Stage': "The Chi Bi Gambit",
-			'Requirement': "Defeat all generals except Zhuge Liang, and achieve a 50 K.O. count."
+			'Requirement': "Defeat all generals except Zhuge Liang, and defeat 50 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Ancients Sword",
