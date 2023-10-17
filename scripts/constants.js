@@ -1365,15 +1365,18 @@ const warriors = {
 			'Requirement': "Defeat Dian Wei and his officers - Deng Ai and Hu Zhi."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Mortal Beauty",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Peacock Urn: 19",
+				"Nanman Armor: 15",
+				"Horned Helm: 11",
+				"Seven Star Sash: 15"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of the Wu Territory",
+			'Requirement': "Defeat the 3 loyalist generals prior to the rock slide attack, each of them within 1 minute of their appearance. Then achieve a 300 K.O. count."
 		}, {
 			'Game': "DW5",
 			'Name': "Qiao Beauty",
