@@ -1283,15 +1283,18 @@ const warriors = {
 			'Requirement': "Eliminate all the gate captains before the fire attack, then defeat Cao Ren, Cao Hong, and Cao Pi."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Shade",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Peacock Urn: 19",
+				"Speed Scroll: 17",
+				"Elixir: 14",
+				"Herbal Remedy: 16"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Skirmish at Chi Bi",
+			'Requirement': "Reach the Wei ship without being discovered by any Wu troops in under 3:30 minutes."
 		}, {
 			'Game': "DW5",
 			'Name': "Dark Shadow",
