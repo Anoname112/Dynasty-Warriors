@@ -1600,7 +1600,7 @@ const warriors = {
 				"Cavalry Armor: 16"
 			],
 			'Stage': "The Ten Eunuchs",
-			'Requirement': "Defeat the Ten Eunuchs with Yuan Shao alive. Achieve a 100 KO count."
+			'Requirement': "Defeat the Ten Eunuchs with Yuan Shao alive. Defeat 100 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Horror",
