@@ -1447,15 +1447,18 @@ const warriors = {
 			'Requirement': "Using Red Hare, quickly head towards Wu Tugu and defeat him. Then enter Meng Huo's base before Ahui Nan and Dong Tu Na defect to the Wu forces."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Setsuna",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Dragon Amulet: 14",
+				"Wing Boots: 13",
+				"Horned Helm: 18",
+				"Elixir: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Niu Zhu",
+			'Requirement': "Rescue Sun Quan in under 1 minute and 30 seconds, and his four sub-officers (no time limit). Then defeat Taishi Ci and Liu Yong with a 500 K.O. count."
 		}, {
 			'Game': "DW5",
 			'Name': "Dusk",
