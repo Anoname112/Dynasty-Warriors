@@ -1160,15 +1160,18 @@ const warriors = {
 			'Requirement': "Defeat Xiahou Dun and Xiahou Yuan, then defeat Zhang Liao when he reappears near the Wu camp."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Legacy",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 18",
+				"Cavalry Armor: 14",
+				"Seven Star Sash: 15",
+				"Elixir: 16"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Retreat From He Fei",
+			'Requirement': "Defeat Yue Jin, Li Dian, and Zhang Liao 3 times. Keep all ally generals alive and achieve a 500 K.O. Count."
 		}, {
 			'Game': "DW5",
 			'Name': "Master Wolf",
