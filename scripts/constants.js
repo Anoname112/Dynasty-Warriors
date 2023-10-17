@@ -1201,15 +1201,18 @@ const warriors = {
 			'Requirement': "Without letting Guan Yu retreat or escape, defeat all the generals and officers, including the ambushes and reinforcements."
 		}, {
 			'Game': "DW4",
-			'Name': "",
+			'Name': "Mystic Hunter",
 			'Rank': 5,
 			'Base': 60,
 			'Element': "-",
 			'Stats': [
-				
+				"Tortoise Amulet: 19",
+				"Speed Scroll: 15",
+				"Huang's Bow: 10",
+				"Herbal Remedy: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Siege of Mai Castle",
+			'Requirement': "With all allied officers alive, defeat Zhou Cang, Liao Hua, and Guan Ping, all while also sealing off both enemy entry points, getting the message that Guan Yu has been angered while also getting 50 KOs."
 		}, {
 			'Game': "DW5",
 			'Name': "White Tiger",
