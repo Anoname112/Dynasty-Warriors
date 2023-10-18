@@ -1252,7 +1252,7 @@ const warriors = {
 				"Herbal Remedy: 19"
 			],
 			'Stage': "Battle of Ru Xu Kou",
-			'Requirement': "Defeat Li Dian and Yue Jin before they regather their troops, and defeat either Cao Xiu or Zhang Liao after they appear. Achieve a 140 K.O. count."
+			'Requirement': "Defeat Li Dian and Yue Jin before they regather their troops, and defeat either Cao Xiu or Zhang Liao after they appear. Defeat 140 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Sea Master",
