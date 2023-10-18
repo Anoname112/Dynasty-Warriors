@@ -1211,7 +1211,7 @@ const warriors = {
 				"Herbal Remedy: 20"
 			],
 			'Stage': "Siege of Mai Castle",
-			'Requirement': "With all allied officers alive, defeat Zhou Cang, Liao Hua, and Guan Ping, all while also sealing off both enemy entry points, getting the message that Guan Yu has been angered while also getting 50 KOs."
+			'Requirement': "With all allied officers alive, defeat Zhou Cang, Liao Hua, and Guan Ping, all while also sealing off both enemy entry points, get the message that Guan Yu has been angered, and defeat 50 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "White Tiger",
