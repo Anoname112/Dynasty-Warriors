@@ -1170,7 +1170,7 @@ const warriors = {
 				"Elixir: 16"
 			],
 			'Stage': "Retreat From He Fei",
-			'Requirement': "Defeat Yue Jin, Li Dian, and Zhang Liao 3 times. Keep all ally generals alive and achieve a 500 K.O. Count."
+			'Requirement': "Defeat Yue Jin, Li Dian, and Zhang Liao 3 times. Keep all ally generals alive and defeat 500 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Master Wolf",
