@@ -1293,7 +1293,7 @@ const warriors = {
 				"Herbal Remedy: 16"
 			],
 			'Stage': "Skirmish at Chi Bi",
-			'Requirement': "Reach the Wei ship without being discovered by any Wu troops in under 3:30 minutes."
+			'Requirement': "Reach the Wei ship without being discovered in under 3:30 minutes."
 		}, {
 			'Game': "DW5",
 			'Name': "Dark Shadow",
