@@ -710,7 +710,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Battle of Hu Lao Gate",
-			'Requirement': "In Musou mode, at the battle of Si Shui Gate of Lu Bu's forces, defeat Liu Bei, Cao Cao, and Sun Jian. Then, at the battle of Hu Lao Gate, do not kill any generals till after the fire attack on the city. Once that occurs, eliminate Liu Bei, Cao Cao, and Sun Jian."
+			'Requirement': "In Musou mode, at the battle of Si Shui Gate of Lu Bu's forces, defeat Liu Bei, Cao Cao, and Sun Jian. Then, at the battle of Hu Lao Gate, do not defeat any generals until after the fire attack on the city. Once that occurs, defeat Liu Bei, Cao Cao, and Sun Jian."
 		}, {
 			'Game': "DW4",
 			'Name': "Celestial Wyvern",
