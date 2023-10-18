@@ -1416,7 +1416,7 @@ const warriors = {
 				"Herbal Remedy: 10"
 			],
 			'Stage': "Escape From Tong Qiao Tai",
-			'Requirement': "Defeat Cao Cao 4 times in a row. Defeat Xiahou Dun, Xu Zhu, Dian Wei and Cao Ren. At this point, there must be more than 15 minutes remaining. When Cao Cao appears for the fifth time, Xiahou Yuan will bring Da Qiao with him. Move to the top of the tower to meet Da Qiao. There will be a cutscene. Defeat Xiahou Yuan. Get 100 KOs."
+			'Requirement': "Defeat Cao Cao 4 times in a row. Defeat Xiahou Dun, Xu Zhu, Dian Wei and Cao Ren. At this point, there must be more than 15 minutes remaining. When Cao Cao appears for the fifth time, Xiahou Yuan will bring Da Qiao with him. Move to the top of the tower to meet Da Qiao. There will be a cutscene. Defeat Xiahou Yuan. Defeat 100 enemies."
 		}, {
 			'Game': "DW5",
 			'Name': "Qiao Grace",
