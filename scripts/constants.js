@@ -587,7 +587,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Battle of Tong Gate",
-			'Requirement': "Get Han Sui to defect to your side by defeating the four generals in the southeast land and beating his officers. Next, defeat Pang De then defeat Ma Dai. Finally, defeat Chen Yi."
+			'Requirement': "Defeat Ma Dai then Pang De in order, then wait for Cao Cao to meet with Han Sui. Defeat 2 sub-generals of Han Sui to get him to defect."
 		}, {
 			'Game': "DW4",
 			'Name': "Earth Shaker",
