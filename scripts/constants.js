@@ -628,7 +628,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Battle of Chi Bi (Wei)",
-			'Requirement': "Uncover and foil the three plots of the allied forces while playing as Cao Cao. To do so, Pang Tong, Zhuge Liang, and Huang Gai must all be eliminated. In addition, Lu Meng and Gan Ning must be eliminated before Huang Gai's arrival."
+			'Requirement': "Uncover and foil the three plots of the allied forces while playing as Cao Cao. To do so, Pang Tong, Zhuge Liang, and Huang Gai must all be defeated. In addition, Lu Meng and Gan Ning must be defeated before Huang Gai's arrival."
 		}, {
 			'Game': "DW4",
 			'Name': "King of Wei",
