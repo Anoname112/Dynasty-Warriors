@@ -1115,7 +1115,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "The Imperial Seal",
-			'Requirement': "Do not destroy more than 50 of the crates until Lu Bu appears, then defeat him once he appears. This means that Sun Jian will have to blow his cover and reveal his presence to Diao Chan, Li Jue, and Zhang Liao's scouts, forcing him to eliminate the officers themselves to cause Lu Bu to appear."
+			'Requirement': "Do not destroy more than 50 crates until Lu Bu appears, then defeat him once he appears. This means that Sun Jian will have to blow his cover and reveal his presence to Diao Chan, Li Jue, and Zhang Liao's scouts, forcing him to defeat them to cause Lu Bu to appear."
 		}, {
 			'Game': "DW4",
 			'Name': "King of Wu",
