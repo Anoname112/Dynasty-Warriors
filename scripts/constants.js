@@ -1279,7 +1279,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Battle of Chi Bi (Wu)",
-			'Requirement': "Eliminate all the gate captains before the fire attack, then defeat Cao Ren, Cao Hong, and Cao Pi."
+			'Requirement': "Defeat all the gate captains before the fire attack, then defeat Cao Ren, Cao Hong, and Cao Pi."
 		}, {
 			'Game': "DW4",
 			'Name': "Shade",
