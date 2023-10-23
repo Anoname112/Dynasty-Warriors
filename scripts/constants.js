@@ -1033,7 +1033,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Campaign for Wu Territory",
-			'Requirement': "When Yu Mi retreats into the fortress, chase him down and defeat him. (Suggestion: Red Hare) After Yu Mi is defeated, eliminate Zhang Ying before he escapes."
+			'Requirement': "When Yu Mi retreats into the fortress, chase him down and defeat him. (Suggestion: Red Hare) After Yu Mi is defeated, defeat Zhang Ying before he escapes."
 		}, {
 			'Game': "DW4",
 			'Name': "Demon Slayer",
