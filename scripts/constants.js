@@ -1572,7 +1572,7 @@ const warriors = {
 				"Musou: 18"
 			],
 			'Stage': "Battle of Xia Pi",
-			'Requirement': "Defeat all generals and sub-generals before Cao Cao arrives. The player must also prevent any allies from being defeated. Defeat the sub-generals in the west and Xiahou Dun and Xiahou Yuan will charge, so defeat them. Then defeat Liu Bei, Zhang Fei, and Guan Yu. Defeating the rest of the generals will trigger the Precious Item to appear in the southwest. Get the weapon and then defeat Cao Cao."
+			'Requirement': "Defeat all generals and sub-generals before Cao Cao arrives. The player must also prevent any allies from being defeated. Defeat the sub-generals in the west and Xiahou Dun and Xiahou Yuan will charge, so defeat them. Then defeat Liu Bei, Zhang Fei, and Guan Yu. Defeating the rest of the generals will trigger the Precious Item to appear in the southwest."
 		}
 	],
 	'Lu Bu': [
