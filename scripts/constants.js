@@ -293,26 +293,34 @@ const warriors = {
 	'Liu Bei': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Gold Moon Dragon",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
-			'Stats': [
-				
-			],
-			'Stage': "",
-			'Requirement': ""
-		}, {
-			'Game': "DW3",
-			'Name': "",
-			'Rank': 5,
-			'Base': 43,
+			'Base': 40,
 			'Element': "-",
 			'Stats': [
-				
+				"Speed: 20",
+				"Musou Max: 70",
+				"Mounted Attack: 44",
+				"Mounted Defense: 52",
+				"Luck: 22"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Yi Ling (Liu Bei’s Forces)",
+			'Requirement': "Defeat Sun Shang Xiang."
+		}, {
+			'Game': "DW3",
+			'Name': "Dragon Star",
+			'Rank': 5,
+			'Base': 40,
+			'Element': "Lightning",
+			'Stats': [
+				"Speed: 24",
+				"Musou Max: 65",
+				"Defense: 40",
+				"Mounted Attack: 44",
+				"Arrows: 27"
+			],
+			'Stage': "Battle of Jie Ting (Shu Forces)",
+			'Requirement': "When Ma Su is surrounded, defeat Du Xi to save him (south of the large open area on the western side of the map, below Zhang He’s initial position)."
 		}, {
 			'Game': "DW4",
 			'Name': "Gold Moon Dragon",
