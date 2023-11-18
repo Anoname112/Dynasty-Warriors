@@ -573,26 +573,33 @@ const warriors = {
 	'Wei Yan': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Double Comet",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
+			'Base': 46,
+			'Element': "Death",
 			'Stats': [
-				
+				"Jump: 23",
+				"Attack: 24",
+				"Defense: 56",
+				"Reach: 22"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Jie Ting (Zhuge Liang’s Forces)",
+			'Requirement': "After a little while Ma Su will charge the enemy but will instead be ambushed. When this happens find the enemy general attacking him (under Zhang He’s command) and defeat him to save Ma Su. Keep Ma Su safe. Defeat all enemy officers by Sima Yi and then enter his camp (the item report will occur)."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Twin Stars",
 			'Rank': 5,
-			'Base': 43,
+			'Base': 46,
 			'Element': "-",
 			'Stats': [
-				
+				"Way of the Musou",
+				"Musou Max: 82",
+				"HP Max: 82",
+				"Reach: 22",
+				"Musou Charge: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at Yi Ling (Shu Forces)",
+			'Requirement': "Defeat all enemy generals and gate captains (sub-generals not required)."
 		}, {
 			'Game': "DW4",
 			'Name': "Comet Strike",
