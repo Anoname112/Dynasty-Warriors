@@ -1,6 +1,7 @@
 const sprt = '-';
 
 const headers = {
+	'DW3': ['Level', 'Stats', '4th', '5th'],
 	'DW4': ['Level', 'Stats', '4th', '5th'],
 	'DW5': ['Level', 'Stats', '4th']
 };
@@ -11,6 +12,34 @@ const checkboxSvg = '<svg xmlns="http://www.w3.org/2000/svg" fill="#FFF" viewBox
 const warriors = {
 	'Zhao Yun': [
 		{
+			'Game': "DW3",
+			'Name': "Fierce Dragon",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "Fire",
+			'Stats': [
+				"HP Max: 74",
+				"Attack: 25",
+				"Defense: 52",
+				"Musou Max: 80"
+			],
+			'Stage': "Chang Ban (Liu Bei’s Forces)",
+			'Requirement': "Defeat Xiahou Dun, Zhang Liao, and Zhang He. In addition to this you must also wait for Cao Cao’s reinforcements to arrive (Cao Cao arrives at the 80 minute mark) and for Liu Bei to say, 'Cao Cao, so you want to end it here at Chang Ban?' (occurs at the 78 minute mark); after this happens fight anyone around Liu Bei with Zhao Yun, causing a cut scene in which Yun tells the enemy soldiers not to harm his lord. (This event can not be triggered by all characters, only Zhao Yun and some other Shu officers and cannot be triggered if Liu Bei has already reached his destination by Liu Qi’s ships). You must finish everything before Liu Qi arrives with reinforcements and the requirements may be fulfilled in any order (the supply team arrives after completion). It is suggested that you defeat Zhang He last (so you are close to the supply team)."
+		}, {
+			'Game': "DW3",
+			'Name': "War Dragon",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "Lightning",
+			'Stats': [
+				"Musou Max: 78",
+				"HP Max: 75",
+				"Reach: 25",
+				"Musou Charge: 20"
+			],
+			'Stage': "Nanman Campaign (Shu Forces)",
+			'Requirement': "Defeat all enemy generals (sub generals are not required, Meng Huo only needs to be defeated at the end of the stage)."
+		}, {
 			'Game': "DW4",
 			'Name': "Fierce Dragon",
 			'Rank': 4,
@@ -52,6 +81,35 @@ const warriors = {
 	],
 	'Guan Yu': [
 		{
+			'Game': "DW3",
+			'Name': "Blue Moon Dragon",
+			'Rank': 4,
+			'Base': 49,
+			'Element': "Lightning",
+			'Stats': [
+				"HP Max: 87",
+				"Attack: 28",
+				"Defense: 59",
+				"Musou Max: 25"
+			],
+			'Stage': "Guan Yu’s Escape (Guan Yu’s Forces)",
+			'Requirement': "Clear the 4th gate."
+		}, {
+			'Game': "DW3",
+			'Name': "Divine Dragon",
+			'Rank': 5,
+			'Base': 49,
+			'Element': "-",
+			'Stats': [
+				"Red Hare Saddle",
+				"Speed: 21",
+				"Musou Max: 82",
+				"Defense: 60",
+				"Musou Charge: 25"
+			],
+			'Stage': "Battle of Fan Castle (Guan Yu’s Forces)",
+			'Requirement': "Defeat the generals in this order:  Pang De, Lu Xun, Gan Ning, Lu Meng."
+		}, {
 			'Game': "DW4",
 			'Name': "Blue Moon Dragon",
 			'Rank': 4,
@@ -93,6 +151,35 @@ const warriors = {
 	],
 	'Zhang Fei': [
 		{
+			'Game': "DW3",
+			'Name': "Viper Blade",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				"Attack: 29",
+				"Defense: 58",
+				"Mounted Attack: 56",
+				"Mounted Defense: 57",
+				"Musou Max: 24"
+			],
+			'Stage': "Chang Ban (Liu Bei’s Forces)",
+			'Requirement': "Go to Chang Ban bridge (the detailed bridge North of Xu Zhu) and wait until an officer attacks you there. When you meet the officer on the bridge you will see the Zhang Fei shout event. It does not matter what officer you meet on the bridge, they can come from the North or the South. You can also initiate the event by getting an officer to chase you to the bridge. When you have done this defeat Xiahou Dun and Xiahou Yuan."
+		}, {
+			'Game': "DW3",
+			'Name': "Serpent Blade",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "Fire",
+			'Stats': [
+				"Musou Max: 83",
+				"HP Max: 81",
+				"Bow Defense: 58",
+				"Musou Charge: 24"
+			],
+			'Stage': "Battle of Mt. Ding Jun (Shu Forces)",
+			'Requirement': "Mount a horse, and from Huang Zhong’s starting position (the eastern trail) ride down the hill (north) and take the eastern turn when the trail forks. It is okay if you fall off the horse while moving down the hill. When you approach the bridge to the north a message will confirm your charge down the mountain. Defeat Cao Hong to prompt the item report."
+		}, {
 			'Game': "DW4",
 			'Name': "Viper Blade",
 			'Rank': 4,
@@ -134,6 +221,28 @@ const warriors = {
 	],
 	'Zhuge Liang': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Peacock Feather",
 			'Rank': 4,
@@ -175,6 +284,28 @@ const warriors = {
 	],
 	'Liu Bei': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Gold Moon Dragon",
 			'Rank': 4,
@@ -216,6 +347,28 @@ const warriors = {
 	],
 	'Ma Chao': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Stallion Fury",
 			'Rank': 4,
@@ -257,6 +410,28 @@ const warriors = {
 	],
 	'Huang Zhong': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Oracle Sword",
 			'Rank': 4,
@@ -298,6 +473,28 @@ const warriors = {
 	],
 	'Jiang Wei': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Blink",
 			'Rank': 4,
@@ -339,6 +536,28 @@ const warriors = {
 	],
 	'Wei Yan': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Comet Strike",
 			'Rank': 4,
@@ -380,6 +599,28 @@ const warriors = {
 	],
 	'Pang Tong': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Tornado Staff",
 			'Rank': 4,
@@ -498,6 +739,28 @@ const warriors = {
 	],
 	'Xiahou Dun': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Kirin Fang",
 			'Rank': 4,
@@ -539,6 +802,28 @@ const warriors = {
 	],
 	'Dian Wei': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Mad Bull",
 			'Rank': 4,
@@ -580,6 +865,28 @@ const warriors = {
 	],
 	'Xu Zhu': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Stone Crusher",
 			'Rank': 4,
@@ -621,6 +928,28 @@ const warriors = {
 	],
 	'Cao Cao': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Wrath of Heaven",
 			'Rank': 4,
@@ -662,6 +991,28 @@ const warriors = {
 	],
 	'Xiahou Yuan': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Enforcer Rod",
 			'Rank': 4,
@@ -703,6 +1054,28 @@ const warriors = {
 	],
 	'Zhang Liao': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Gold Wyvern",
 			'Rank': 4,
@@ -744,6 +1117,28 @@ const warriors = {
 	],
 	'Xu Huang': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Marauder",
 			'Rank': 4,
@@ -785,6 +1180,28 @@ const warriors = {
 	],
 	'Zhang He': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Phoenix Talon",
 			'Rank': 4,
@@ -826,6 +1243,28 @@ const warriors = {
 	],
 	'Zhen Ji': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Dark Moon Flute",
 			'Rank': 4,
@@ -944,6 +1383,28 @@ const warriors = {
 	],
 	'Zhou Yu': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Ancients Sword",
 			'Rank': 4,
@@ -985,6 +1446,28 @@ const warriors = {
 	],
 	'Lu Xun': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Falcon",
 			'Rank': 4,
@@ -1026,6 +1509,28 @@ const warriors = {
 	],
 	'Taishi Ci': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Tiger Slayer",
 			'Rank': 4,
@@ -1067,6 +1572,28 @@ const warriors = {
 	],
 	'Sun Shang Xiang': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Sol Chakram",
 			'Rank': 4,
@@ -1108,6 +1635,28 @@ const warriors = {
 	],
 	'Sun Jian': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Savage Tiger",
 			'Rank': 4,
@@ -1149,6 +1698,28 @@ const warriors = {
 	],
 	'Sun Quan': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Master Wolf",
 			'Rank': 4,
@@ -1190,6 +1761,28 @@ const warriors = {
 	],
 	'Lu Meng': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "White Tiger",
 			'Rank': 4,
@@ -1231,6 +1824,28 @@ const warriors = {
 	],
 	'Gan Ning': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Sea Master",
 			'Rank': 4,
@@ -1272,6 +1887,28 @@ const warriors = {
 	],
 	'Huang Gai': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Dark Shadow",
 			'Rank': 4,
@@ -1313,6 +1950,28 @@ const warriors = {
 	],
 	'Sun Ce': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Overlord",
 			'Rank': 4,
@@ -1354,6 +2013,28 @@ const warriors = {
 	],
 	'Da Qiao': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Qiao Beauty",
 			'Rank': 4,
@@ -1395,6 +2076,28 @@ const warriors = {
 	],
 	'Xiao Qiao': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Qiao Grace",
 			'Rank': 4,
@@ -1495,6 +2198,28 @@ const warriors = {
 	],
 	'Sima Yi': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Dark Feather",
 			'Rank': 4,
@@ -1536,6 +2261,28 @@ const warriors = {
 	],
 	'Diao Chan': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Diva",
 			'Rank': 4,
@@ -1577,6 +2324,28 @@ const warriors = {
 	],
 	'Lu Bu': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Sky Scorcher",
 			'Rank': 4,
@@ -1618,6 +2387,28 @@ const warriors = {
 	],
 	'Dong Zhuo': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Horror",
 			'Rank': 4,
@@ -1659,6 +2450,28 @@ const warriors = {
 	],
 	'Yuan Shao': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Sword of Kings",
 			'Rank': 4,
@@ -1700,6 +2513,28 @@ const warriors = {
 	],
 	'Zhang Jiao': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Volcano Staff",
 			'Rank': 4,
@@ -1741,6 +2576,28 @@ const warriors = {
 	],
 	'Meng Huo': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "King of Beasts",
 			'Rank': 4,
@@ -1782,6 +2639,28 @@ const warriors = {
 	],
 	'Zhu Rong': [
 		{
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 4,
+			'Base': 43,
+			'Element': "",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
+			'Game': "DW3",
+			'Name': "",
+			'Rank': 5,
+			'Base': 43,
+			'Element': "-",
+			'Stats': [
+				
+			],
+			'Stage': "",
+			'Requirement': ""
+		}, {
 			'Game': "DW4",
 			'Name': "Inferno",
 			'Rank': 4,
