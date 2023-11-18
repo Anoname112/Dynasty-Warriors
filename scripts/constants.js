@@ -504,26 +504,32 @@ const warriors = {
 	'Jiang Wei': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Blink",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
+			'Base': 41,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"Musou Max: 74",
+				"Attack: 23",
+				"Luck: 25"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Jie Ting (Zhuge Liang’s Forces)",
+			'Requirement': "Defeat Cao Zhen and Zhen Ji. Because there seems to be a time limit or some other requirement for this weapon it is suggested that you move North and defeat Zhen Ji as soon as the battle begins and then immediately continue North to defeat Cao Zhen. If you defeat them both at the beginning (you can beat other officers on the way) the weapon report will show immediately. Also note that you do not have to approach Sima Yi’s encampment at all."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Starlight Pike",
 			'Rank': 5,
-			'Base': 43,
+			'Base': 41,
 			'Element': "-",
 			'Stats': [
-				
+				"Defender",
+				"Musou Max: 79",
+				"Attack: 21",
+				"Defense: 58",
+				"Musou Charge: 20"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Yi Ling (Shu Forces)",
+			'Requirement': "After the fire attack wait for the enemy to trigger the Stone Warrior Formation ambush, and then defeat Zhu Huan."
 		}, {
 			'Game': "DW4",
 			'Name': "Blink",
