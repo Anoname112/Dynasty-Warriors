@@ -434,26 +434,33 @@ const warriors = {
 	'Huang Zhong': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Oracle Sword",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
-			'Stats': [
-				
-			],
-			'Stage': "",
-			'Requirement': ""
-		}, {
-			'Game': "DW3",
-			'Name': "",
-			'Rank': 5,
-			'Base': 43,
+			'Base': 44,
 			'Element': "-",
 			'Stats': [
-				
+				"Attack: 23",
+				"Defense: 45",
+				"Bow Attack: 60",
+				"Bow Defense: 58",
+				"Reach: 26"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Mt. Ding Jun",
+			'Requirement': "Travel down the central patch and defeat Xiahou Shang."
+		}, {
+			'Game': "DW3",
+			'Name': "Mystic Blade",
+			'Rank': 5,
+			'Base': 44,
+			'Element': "Wind",
+			'Stats': [
+				"Defense: 52",
+				"Bow Attack: 60",
+				"Reach: 28",
+				"Arrows: 47"
+			],
+			'Stage': "Battle of Yi Ling (Shu Forces)",
+			'Requirement': "Prevent fire attack by defeating Zhu Ran, and then defeat Lu Xun."
 		}, {
 			'Game': "DW4",
 			'Name': "Oracle Sword",
