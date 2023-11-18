@@ -643,26 +643,34 @@ const warriors = {
 	'Pang Tong': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Tornado Staff",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
-			'Stats': [
-				
-			],
-			'Stage': "",
-			'Requirement': ""
-		}, {
-			'Game': "DW3",
-			'Name': "",
-			'Rank': 5,
-			'Base': 43,
+			'Base': 38,
 			'Element': "-",
 			'Stats': [
-				
+				"HP Max: 66",
+				"Attack: 22",
+				"Bow Attack: 46",
+				"Reach: 28",
+				"Musou Max: 29"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Cheng Du (Liu Bei’s Forces)",
+			'Requirement': "Trigger Zhang Ren's ambush, and defeat Zhang Ren."
+		}, {
+			'Game': "DW3",
+			'Name': "Lightning Staff",
+			'Rank': 5,
+			'Base': 38,
+			'Element': "Lightning",
+			'Stats': [
+				"Musou Max: 80",
+				"Defense: 56",
+				"Bow Defense: 50",
+				"Musou Charge: 30",
+				"Charge: 5"
+			],
+			'Stage': "Battle at Chi Bi (Shu Forces)",
+			'Requirement': "Make sure fire attack succeeds, and then defeat Xiahou Dun when he arrives."
 		}, {
 			'Game': "DW4",
 			'Name': "Tornado Staff",
