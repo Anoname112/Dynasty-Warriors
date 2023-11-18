@@ -222,26 +222,34 @@ const warriors = {
 	'Zhuge Liang': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Peacock Feather",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
+			'Base': 40,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Speed: 22",
+				"Jump: 22",
+				"Defense: 55",
+				"Bow Defense: 55",
+				"Mounted Defense: 55"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Wu Zhang Plains (Zhuge Liang’s Forces)",
+			'Requirement': "Defeat Cao Xiu after he arrives with his reinforcement troops."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Griffin Feather",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 40,
+			'Element': "Wind",
 			'Stats': [
-				
+				"Speed: 22",
+				"HP Max: 80",
+				"Attack: 30",
+				"Luck: 22",
+				"Reach: 25"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at Chi Bi (Shu Forces)",
+			'Requirement': "Using first or second player, get 1,000 kills."
 		}, {
 			'Game': "DW4",
 			'Name': "Peacock Feather",
