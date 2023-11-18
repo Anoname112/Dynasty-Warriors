@@ -364,26 +364,33 @@ const warriors = {
 	'Ma Chao': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Steel Dragon",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
+			'Base': 42,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Jump: 21",
+				"Mounted Attack: 60",
+				"Mounted Defense: 60",
+				"Reach: 21"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Tong Gate (Allied Forces)",
+			'Requirement': "Playing as Ma Chao charge Cao Cao as soon as you get the chance. When you get near Cao Cao there will be a cut scene after which he travels West across the top of the map (to the bridge above Ma Chao’s camp). Ma Chao will tell Han Sui and some other officers to help against Cao Cao so they will travel North from the camp across the bridge to face him. Fight by Han Sui (keep him safe) and defeat as many officers and soldiers as possible until Cao Cao himself arrives. Cao Cao will meet with Han Sui causing his moral to drop (this happens when Cao Cao gets close to Han Sui). Continue fighting until you see the 'the allied forces are reeling from reports of Han Sui’s betrayal' message. Shortly after this message appears Han Sui will betray to Cao Cao’s side."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Lightning Spear",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 42,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"Jump: 21",
+				"Musou Max: 87",
+				"Luck: 15",
+				"Reach: 21",
+				"Charge: 8"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Assault on Cheng Du (Shu Forces)",
+			'Requirement': "Defeat Liu Xun or Liu Han before Pang Tong dies."
 		}, {
 			'Game': "DW4",
 			'Name': "Stallion Fury",
