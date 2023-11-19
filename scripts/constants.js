@@ -1279,26 +1279,33 @@ const warriors = {
 	'Zhang He': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Peacock Talon",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "-",
+			'Element': "Demon",
 			'Stats': [
-				
+				"Jump: 23",
+				"Attack: 24",
+				"Reach: 27",
+				"Musou Charge: 29"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Guan Du (Cao Cao’s Forces)",
+			'Requirement': "Find and burn the enemy supply depot with Yan Liang and Wen Chou alive. The supply depot itself changes location each game."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Phoenix Talon",
 			'Rank': 5,
 			'Base': 43,
 			'Element': "-",
 			'Stats': [
-				
+				"Survival Guide",
+				"HP Max: 73",
+				"Bow Defense: 58",
+				"Reach: 25",
+				"Musou Charge: 30"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Jie Ting (Xtreme) (Yuan Shao’s Forces)",
+			'Requirement': "In order, defeat Xu Zhu, Xiahou Yuan, Zhang Liao, Cao Zhen, Dian Wei, and then Xu Huang."
 		}, {
 			'Game': "DW4",
 			'Name': "Phoenix Talon",
