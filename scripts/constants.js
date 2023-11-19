@@ -1070,26 +1070,32 @@ const warriors = {
 	'Xiahou Yuan': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Demon Fang",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
+			'Base': 45,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Musou Max: 84",
+				"HP Max: 78",
+				"Bow Attack: 58",
+				"Bow Defense: 59"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Mt. Ding Jun (Sima Yi’s Forces)",
+			'Requirement': "Wait for Huang Zhong to charge downhill (there will be an event) and defeat him. This occurs early in the battle if you fight up the hill toward him."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Mystic Fang",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 45,
+			'Element': "Demon",
 			'Stats': [
-				
+				"Attack: 24",
+				"Bow Attack: 58",
+				"Mounted Attack: 58",
+				"Reach: 21"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at Tong Gate (Wei Forces)",
+			'Requirement': "Appears after the Han Sui defect event."
 		}, {
 			'Game': "DW4",
 			'Name': "Enforcer Rod",
