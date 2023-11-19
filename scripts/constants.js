@@ -1139,26 +1139,33 @@ const warriors = {
 	'Zhang Liao': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Dragon Breath",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
-			'Stats': [
-				
-			],
-			'Stage': "",
-			'Requirement': ""
-		}, {
-			'Game': "DW3",
-			'Name': "",
-			'Rank': 5,
-			'Base': 43,
+			'Base': 48,
 			'Element': "-",
 			'Stats': [
-				
+				"HP Max: 79",
+				"Attack: 25",
+				"Mounted Attack: 58",
+				"Mounted Defense: 58",
+				"Reach: 21"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "He Fei (Cao Cao’s Forces)",
+			'Requirement': "Defeat Zhou Tai."
+		}, {
+			'Game': "DW3",
+			'Name': "Dragon God",
+			'Rank': 5,
+			'Base': 48,
+			'Element': "Fire",
+			'Stats': [
+				"Attack: 27",
+				"Bow Defense: 53",
+				"Reach: 25",
+				"Musou Charge: 23"
+			],
+			'Stage': "Battle at Guan Du (Xtreme) (Dong Zhuo’s Forces)",
+			'Requirement': "Early in the battle archer towers will be set up. Defeat all archers in those towers before the castle wall falls, making sure you get the last kill."
 		}, {
 			'Game': "DW4",
 			'Name': "Gold Wyvern",
