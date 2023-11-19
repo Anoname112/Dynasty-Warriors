@@ -576,7 +576,7 @@ const warriors = {
 			'Name': "Double Comet",
 			'Rank': 4,
 			'Base': 46,
-			'Element': "Death",
+			'Element': "Demon",
 			'Stats': [
 				"Jump: 23",
 				"Attack: 24",
