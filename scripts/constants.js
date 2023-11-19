@@ -860,26 +860,32 @@ const warriors = {
 	'Dian Wei': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Mad Bull",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
+			'Base': 49,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"HP Max: 84",
+				"Attack: 27",
+				"Musou Max: 28"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Wan Castle (Cao Cao’s Forces)",
+			'Requirement': "Defeat Hu Che Er."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Beast Axe",
 			'Rank': 5,
-			'Base': 43,
+			'Base': 49,
 			'Element': "-",
 			'Stats': [
-				
+				"Hex Mark Saddle",
+				"HP Max: 90",
+				"Attack: 28",
+				"Defense: 52",
+				"Bow Defense: 50"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at He Fei (Wei Forces)",
+			'Requirement': "After the Taishi Ci Death Event, defeat Lu Xun. Later enemy backup troops will appear, defeat Gan Ning (south of Cao Cao’s camp)."
 		}, {
 			'Game': "DW4",
 			'Name': "Mad Bull",
@@ -923,26 +929,34 @@ const warriors = {
 	'Xu Zhu': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Stone Crusher",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
-			'Stats': [
-				
-			],
-			'Stage': "",
-			'Requirement': ""
-		}, {
-			'Game': "DW3",
-			'Name': "",
-			'Rank': 5,
-			'Base': 43,
+			'Base': 50,
 			'Element': "-",
 			'Stats': [
-				
+				"Musou Max: 88",
+				"HP Max: 86",
+				"Attack: 28",
+				"Defense: 58",
+				"Luck: 27"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Tong Gate (Cao Cao’s Forces)",
+			'Requirement': "After defeating Ma Dai and Pang De (Ma Chao’s officers) pass through Tong Gate to trigger the special item report. If you are playing with two players it is okay for the second player to kill Ma Dai and Pang De, but it must be the first player (Xu Zhu) who passes through the gate."
+		}, {
+			'Game': "DW3",
+			'Name': "Earthly Mace",
+			'Rank': 5,
+			'Base': 50,
+			'Element': "Fire",
+			'Stats': [
+				"Speed: 24",
+				"HP Max: 82",
+				"Defense: 55",
+				"Bow Defense: 50",
+				"Meat Bun Recovery: 14"
+			],
+			'Stage': "Siege at He Fei Castle (Wei Forces)",
+			'Requirement': "Defeat all playable enemy generals."
 		}, {
 			'Game': "DW4",
 			'Name': "Stone Crusher",
