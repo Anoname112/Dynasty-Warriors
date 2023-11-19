@@ -1000,26 +1000,33 @@ const warriors = {
 	'Cao Cao': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Wrath of Heaven",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
+			'Base': 45,
+			'Element': "Demon",
 			'Stats': [
-				
+				"Attack: 24",
+				"Bow Attack: 52",
+				"Mounted Attack: 48",
+				"Reach: 24"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Yellow Turban Rebellion (Allied Forces)",
+			'Requirement': "Defeat Zhang Bao and Zhang Liang (Zhang Jiao’s brothers) without killing any Gate Captains and without loosing any of your own."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Blue Steel",
 			'Rank': 5,
-			'Base': 43,
+			'Base': 45,
 			'Element': "-",
 			'Stats': [
-				
+				"Musou Armor",
+				"HP Max: 86",
+				"Defense: 51",
+				"Bow Defense: 58",
+				"Reach: 24"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Mt. Ding Jun (Wei Forces)",
+			'Requirement': "Defeat Huang Zhong within 5 minutes."
 		}, {
 			'Game': "DW4",
 			'Name': "Wrath of Heaven",
