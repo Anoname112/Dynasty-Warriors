@@ -1209,26 +1209,33 @@ const warriors = {
 	'Xu Huang': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Marauder",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
-			'Stats': [
-				
-			],
-			'Stage': "",
-			'Requirement': ""
-		}, {
-			'Game': "DW3",
-			'Name': "",
-			'Rank': 5,
-			'Base': 43,
+			'Base': 46,
 			'Element': "-",
 			'Stats': [
-				
+				"Speed: 21",
+				"Musou Max: 82",
+				"Attack: 24",
+				"Luck: 24",
+				"Reach: 22"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Fan Castle (Sima Yi’s Forces)",
+			'Requirement': "Defeat Guan Ping before the flood event (10 minutes). If you plan to do this in free mode unlock the Wei side at Fan Castle first (you can do this by beating it in musou mode with Sima Yi)."
+		}, {
+			'Game': "DW3",
+			'Name': "Tiger Fang",
+			'Rank': 5,
+			'Base': 46,
+			'Element': "Fire",
+			'Stats': [
+				"Speed: 23",
+				"HP Max: 81",
+				"Defense: 41",
+				"Reach: 28"
+			],
+			'Stage': "Battle at Tong Gate (Wei Forces)",
+			'Requirement': "Appears after the Han Sui defect event."
 		}, {
 			'Game': "DW4",
 			'Name': "Marauder",
@@ -1275,7 +1282,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1338,7 +1345,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1478,7 +1485,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1541,7 +1548,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1604,7 +1611,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1667,7 +1674,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1730,7 +1737,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1793,7 +1800,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1856,7 +1863,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1919,7 +1926,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -1982,7 +1989,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2045,7 +2052,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2108,7 +2115,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2171,7 +2178,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2293,7 +2300,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2356,7 +2363,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2419,7 +2426,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2482,7 +2489,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2545,7 +2552,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2608,7 +2615,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2671,7 +2678,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
@@ -2734,7 +2741,7 @@ const warriors = {
 			'Name': "",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "",
+			'Element': "-",
 			'Stats': [
 				
 			],
