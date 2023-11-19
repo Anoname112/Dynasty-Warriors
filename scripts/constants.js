@@ -791,26 +791,32 @@ const warriors = {
 	'Xiahou Dun': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Kirin Fang",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "",
+			'Base': 48,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Attack: 26",
+				"Bow Defense: 60",
+				"Mounted Defense: 56",
+				"Reach: 24"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Guan Yu’s Escape (Xiahou Dun’s Forces)",
+			'Requirement': "Defeat Zhou Cang, Chen Zhen, and Guan Ping."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Tempest Sword",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 48,
+			'Element': "Wind",
 			'Stats': [
-				
+				"HP Max: 82",
+				"Attack: 28",
+				"Mounted Attack: 55",
+				"Reach: 25"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Jie Ting (Wei Forces)",
+			'Requirement': "After Ma Su is surrounded, but before he starts to break through, defeat Wei Yan, Jiang Wei, and Ma Chao."
 		}, {
 			'Game': "DW4",
 			'Name': "Kirin Fang",
