@@ -1349,26 +1349,33 @@ const warriors = {
 	'Zhen Ji': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Dark Moon Flute",
 			'Rank': 4,
-			'Base': 43,
+			'Base': 37,
 			'Element': "-",
 			'Stats': [
-				
+				"Speed: 23",
+				"Defense: 52",
+				"Bow Attack: 50",
+				"Mounted Attack: 50",
+				"Reach: 25"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Jie Ting (Sima Yi’s Forces)",
+			'Requirement': "Defeat Jiang Wei."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Half Moon Flute",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 37,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Speed: 21",
+				"Musou Max: 68",
+				"Attack: 22",
+				"Reach: 28"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at Guan Du (Wei Forces)",
+			'Requirement': "Find the enemy supply depot on the fourth try, after entering the three incorrect camps first. Defeat Chun Yuqiong to burn the supplies and trigger the item report."
 		}, {
 			'Game': "DW4",
 			'Name': "Dark Moon Flute",
