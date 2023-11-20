@@ -1496,12 +1496,15 @@ const warriors = {
 	'Zhou Yu': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Ancient's Sword",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 46,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Attack: 23",
+				"Defense: 50",
+				"Reach: 25",
+				"Musou Charge: 27"
 			],
 			'Stage': "",
 			'Requirement': ""
