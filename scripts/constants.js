@@ -1510,12 +1510,15 @@ const warriors = {
 			'Requirement': ""
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Elder Moon",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 46,
+			'Element': "Wind",
 			'Stats': [
-				
+				"Speed: 23",
+				"HP Max: 82",
+				"Attack: 25",
+				"Reach: 28"
 			],
 			'Stage': "",
 			'Requirement': ""
