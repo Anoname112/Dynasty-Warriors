@@ -1520,8 +1520,8 @@ const warriors = {
 				"Attack: 25",
 				"Reach: 28"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Assault on the Wu Territory (Wu Forces)",
+			'Requirement': "Defeat Liu Yong before your forces divide, appears after Taishi Ci defects."
 		}, {
 			'Game': "DW4",
 			'Name': "Ancients Sword",
