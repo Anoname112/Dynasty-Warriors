@@ -1589,8 +1589,8 @@ const warriors = {
 				"Bow Defense: 55",
 				"Reach: 30"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at You Ting (Wu Forces)",
+			'Requirement': "Fail the plot to surround Cao Xiu, by waiting until the cutscene of Sima Yi discovering Zhou Fang is a spy."
 		}, {
 			'Game': "DW4",
 			'Name': "Falcon",
