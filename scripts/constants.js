@@ -1565,23 +1565,29 @@ const warriors = {
 	'Lu Xun': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Falcon",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 46,
+			'Element': "Demon",
 			'Stats': [
-				
+				"Speed: 22",
+				"Musou Max: 75",
+				"Defense: 43",
+				"Reach: 29"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Yi Ling (Sun Quan’s Forces)",
+			'Requirement': "With either Lu Meng or Gan Ning alive complete the stone warrior formation (a square area in the central South area of the map with four mounds) and defeat Zhuge Liang."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Flash Blade",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 46,
+			'Element': "Wind",
 			'Stats': [
-				
+				"HP Max: 80",
+				"Attack: 24",
+				"Bow Defense: 55",
+				"Reach: 30"
 			],
 			'Stage': "",
 			'Requirement': ""
