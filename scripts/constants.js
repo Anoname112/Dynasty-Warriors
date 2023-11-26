@@ -1634,26 +1634,33 @@ const warriors = {
 	'Taishi Ci': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Tiger Slayer",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 45,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"HP Max: 81",
+				"Attack: 26",
+				"Bow Attack: 55",
+				"Mounted Attack: 51"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Assault on the Wu Territory (Allied Forces)",
+			'Requirement': "Defeat all enemy officers but Sun Ce."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Tiger Wolf",
 			'Rank': 5,
-			'Base': 43,
+			'Base': 45,
 			'Element': "-",
 			'Stats': [
-				
+				"Divine Helm",
+				"Speed: 22",
+				"Defense: 46",
+				"Bow Defense: 55",
+				"Reach: 26"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at He Fei (Wu Forces)",
+			'Requirement': "Defeat Zhang Liao after he ambushes the Wu headquarters."
 		}, {
 			'Game': "DW4",
 			'Name': "Tiger Slayer",
