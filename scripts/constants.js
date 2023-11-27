@@ -1775,26 +1775,33 @@ const warriors = {
 	'Sun Jian': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Savage Wolf",
 			'Rank': 4,
 			'Base': 43,
-			'Element': "-",
+			'Element': "Fire",
 			'Stats': [
-				
+				"Musou Max: 76",
+				"HP Max: 68",
+				"Attack: 22",
+				"Defense: 49"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Surprise Attack on Liu Biao (Sun Jian’s Forces)",
+			'Requirement': "Defeat Lu Gong."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Wolf Blade",
 			'Rank': 5,
 			'Base': 43,
 			'Element': "-",
 			'Stats': [
-				
+				"Buckler",
+				"Musou Max: 82",
+				"Defense: 42",
+				"Bow Attack: 55",
+				"Reach: 26"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Siege of He Fei Castle (Wu Forces)",
+			'Requirement': "Lead your troops into the northwest entrance to He Fei, through the arrow trap, past the wind trap room, and to Zhang He and Xu Huang (by killing soldiers, gate captains, and officers that get in their way). Once you defeat Zhang He and Xu Huang, all gates will open. Run to the southwest and defeat Man Chong and Cao Rui (remove their gate captain first), then head north to Xu Zhu. Once you defeat him, the item report will occur."
 		}, {
 			'Game': "DW4",
 			'Name': "Savage Tiger",
