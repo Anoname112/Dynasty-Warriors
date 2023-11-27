@@ -1704,26 +1704,34 @@ const warriors = {
 	'Sun Shang Xiang': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Sol Chakram",
 			'Rank': 4,
-			'Base': 43,
+			'Base': 40,
 			'Element': "-",
 			'Stats': [
-				
+				"Speed: 23",
+				"Jump: 22",
+				"HP Max: 66",
+				"Luck: 23",
+				"Reach: 30"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of You Ting (Wu Forces)",
+			'Requirement': "Defeat Cao Xiu."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Dragon Chakram",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 40,
+			'Element': "Fire",
 			'Stats': [
-				
+				"HP Max: 75",
+				"Attack: 20",
+				"Luck: 28",
+				"Reach: 30",
+				"Arrows: 30"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at Fan Castle (Wu Forces)",
+			'Requirement': "Defeat Guan Ping before the flood event."
 		}, {
 			'Game': "DW4",
 			'Name': "Sol Chakram",
