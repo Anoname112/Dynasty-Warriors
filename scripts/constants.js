@@ -1845,26 +1845,33 @@ const warriors = {
 	'Sun Quan': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Master Wolf",
 			'Rank': 4,
-			'Base': 43,
+			'Base': 42,
 			'Element': "-",
 			'Stats': [
-				
+				"Musou Max: 68",
+				"Attack: 22",
+				"Bow Attack: 49",
+				"Bow Defense: 50",
+				"Musou Charge: 26"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Siege of He Fei Castle (Sun Quan’s Forces)",
+			'Requirement': "Defeat Zhang He."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Heavenly Wolf",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 42,
+			'Element': "Demon",
 			'Stats': [
-				
+				"Musou Max: 68",
+				"HP Max: 70",
+				"Bow Attack: 52",
+				"Mounted Attack: 55"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at He Fei (Wu Forces)",
+			'Requirement': "Northwest from your starting position you will find Zhang Liao. Defeat him before he can get near Taishi Ci to prevent his death by arrows. From there, clear out all officers that threaten the central area, move north and to the east to clear out the northeastern area, then head west to Cao Cao’s camp. Avoid Cao Cao, but go around, find, and defeat Xu Zhu. Also take a moment to kill his gate captains. Run south to finish off a few remaining enemy officers and get the weapon, then return north to finish Cao Cao."
 		}, {
 			'Game': "DW4",
 			'Name': "Master Wolf",
