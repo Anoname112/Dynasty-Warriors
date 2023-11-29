@@ -2264,26 +2264,33 @@ const warriors = {
 	'Xiao Qiao': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "True Grace",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 38,
+			'Element': "Demon",
 			'Stats': [
-				
+				"Speed: 24",
+				"Defense: 47",
+				"Luck: 28",
+				"Musou Charge: 30"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Nanman Campaign (Sun Quan’s Forces)",
+			'Requirement': "Defeat Zhu Rong."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Blue Grace",
 			'Rank': 5,
-			'Base': 43,
+			'Base': 38,
 			'Element': "-",
 			'Stats': [
-				
+				"Survival Guide",
+				"Musou Max: 85",
+				"Attack: 28",
+				"Bow Defense: 54",
+				"Reach: 22"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Assault on the Wu Territory (Wu Forces)",
+			'Requirement': "Defeat Yan Bai Hu and Wang Lang."
 		}, {
 			'Game': "DW4",
 			'Name': "Qiao Grace",
