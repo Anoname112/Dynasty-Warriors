@@ -2055,26 +2055,33 @@ const warriors = {
 	'Huang Gai': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Black Shadow",
 			'Rank': 4,
-			'Base': 43,
+			'Base': 44,
 			'Element': "-",
 			'Stats': [
-				
+				"HP Max: 82",
+				"Defense: 57",
+				"Mounted Attack: 52",
+				"Reach: 23",
+				"Musou Charge: 27"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Chi Bi (Sun Quan’s Forces)",
+			'Requirement': "Defeat Zhang Liao."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Spiked Mace",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 44,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"Musou Max: 85",
+				"Attack: 26",
+				"Mounted Attack: 50",
+				"Reach: 28"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Yellow Turban Rebellion (Han Forces)",
+			'Requirement': "Defeat He Yi and then Zhang Bao, in order, before any other officers."
 		}, {
 			'Game': "DW4",
 			'Name': "Dark Shadow",
