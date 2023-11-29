@@ -2884,26 +2884,32 @@ const warriors = {
 	'Zhu Rong': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Magma Wheel",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 42,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Musou Max: 72",
+				"Defense: 52",
+				"Bow Defense: 52",
+				"Reach: 26"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Nanman Campaign (Nanman Forces)",
+			'Requirement': "Keep Dong Tu Na and Ahui Nan alive for 15 minutes so they can trigger an event together. After the escape event the item will appear."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Tri Blade",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 42,
+			'Element': "Wind",
 			'Stats': [
-				
+				"HP Max: 78",
+				"Attack: 25",
+				"Reach: 26",
+				"Arrows: 47"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Siege of He Fei Castle (Xtreme) (Nanman Forces)",
+			'Requirement': "Defeat Xiao Qiao, Zhou Yu, Zhen Ji, Cao Pi, and Diao Chan. A cut scene will activate between Meng Huo and Zhu Rong, which will be followed by the precious item report."
 		}, {
 			'Game': "DW4",
 			'Name': "Inferno",
