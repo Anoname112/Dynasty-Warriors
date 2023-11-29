@@ -2535,26 +2535,34 @@ const warriors = {
 	'Lu Bu': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Sky Scorcher",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 50,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"Jump: 24",
+				"Musou: 90",
+				"HP Max: 90",
+				"Attack: 30",
+				"Defense: 60"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Hu Lao Gate (Dong Zhuo’s Forces)",
+			'Requirement': "Defeat Guan Yu, Zhang Fei, and Liu Bei. Don’t defeat Liu Bei first or Guan Yu and Zhang Fei will retreat."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Demon Slayer",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 50,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Red Hare Saddle",
+				"Musou Max: 90",
+				"HP Max: 90",
+				"Attack: 30",
+				"Reach: 30"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at Chi Bi (Xtreme) (Lü Bu’s Forces)",
+			'Requirement': "Defeat Lü Meng, Huang Gai, Taishi Ci, and Gan Ning."
 		}, {
 			'Game': "DW4",
 			'Name': "Sky Scorcher",
