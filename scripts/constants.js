@@ -1915,26 +1915,33 @@ const warriors = {
 	'Lu Meng': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "White Tiger",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 45,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"Defense: 53",
+				"Bow Defense: 54",
+				"Mounted Defense: 54",
+				"Musou Charge: 25"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Fan Castle (Sima Yi’s Forces)",
+			'Requirement': "Defeat Guan Ping."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Fighting Tiger",
 			'Rank': 5,
-			'Base': 43,
+			'Base': 45,
 			'Element': "-",
 			'Stats': [
-				
+				"Musou Armor",
+				"HP Max: 82",
+				"Attack: 25",
+				"Mounted Attack: 50",
+				"Reach: 25"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Siege of He Fei Castle (Wu Forces)",
+			'Requirement': "Defeat Zhang He and Xu Huang, trigger the archer ambush event (by walking near the walkway across the center river), defeat Xu Zhu, and then defeat Man Chong who arrives with Cao Rui as reinforcements."
 		}, {
 			'Game': "DW4",
 			'Name': "White Tiger",
