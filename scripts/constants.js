@@ -2464,26 +2464,34 @@ const warriors = {
 	'Diao Chan': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Gold Globe",
 			'Rank': 4,
-			'Base': 43,
+			'Base': 40,
 			'Element': "-",
 			'Stats': [
-				
+				"Musou Max: 65",
+				"Defense: 48",
+				"Luck: 30",
+				"Reach: 28",
+				"Musou Charge: 30"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Hu Lao Gate (Dong Zhuo’s Forces)",
+			'Requirement': "Defeat Yuan Shu (he starts in the Southeastern area of the map)."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Imperial Mace",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 40,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Jump: 21",
+				"HP Max: 72",
+				"Attack: 25",
+				"Reach: 30",
+				"Musou Charge: 10"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Diao Chan’s Escape (Xtreme) (Diao Chan’s Forces)",
+			'Requirement': "Defeat Lü Bu, and he will drop it."
 		}, {
 			'Game': "DW4",
 			'Name': "Diva",
