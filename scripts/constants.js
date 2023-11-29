@@ -2675,26 +2675,33 @@ const warriors = {
 	'Yuan Shao': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Grand Master",
 			'Rank': 4,
-			'Base': 43,
+			'Base': 44,
 			'Element': "-",
 			'Stats': [
-				
+				"Jump: 20",
+				"Musou Max: 78",
+				"Defense: 54",
+				"Bow Attack: 51",
+				"Mounted Attack: 46"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Guan Du (Yuan Shao’s Forces)",
+			'Requirement': "Keep Wen Chou alive for 10 minutes. Go to his aid at the beginning of the battle, he will be in trouble quickly. As soon as he is safe, find and defeat Guan Yu (if Guan Yu gets near Wen Chou he will automatically kill him). After defeating Guan Yu return to Wen Chou and start killing the closest officers."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Imperial Saber",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 44,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Speed: 21",
+				"Attack: 27",
+				"Defense: 54",
+				"Bow Defense: 49"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle at Hu Lao Gate (Xtreme) (Yuan Shao’s Forces)",
+			'Requirement': "With Liu Bei, Cao Cao, Sun Jian, and Lü Bu still alive, and before the Dong Zhuo ambush event, defeat Diao Chan."
 		}, {
 			'Game': "DW4",
 			'Name': "Sword of Kings",
