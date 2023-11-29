@@ -2393,26 +2393,34 @@ const warriors = {
 	'Sima Yi': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Dark Feather",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 40,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"Attack: 28",
+				"Bow Attack: 50",
+				"Mounted Attack: 55",
+				"Reach: 29",
+				"Musou Charge: 26"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Wu Zhang Plains (Sima Yi’s Forces)",
+			'Requirement': "Defeat Zhang Bao and at the 70 minute mark a Supply Team will appear by Zhang Bao’s starting position (make sure you defeat Zhang Bao before the 70 minute mark)."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Raven Feather",
 			'Rank': 5,
-			'Base': 43,
+			'Base': 40,
 			'Element': "-",
 			'Stats': [
-				
+				"Defender",
+				"HP Max: 71",
+				"Bow Defense: 55",
+				"Reach: 30",
+				"Musou Charge: 25"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Siege of He Fei Castle (Wei Forces)",
+			'Requirement': "In order, defeat Lu Xun, Lü Meng, Sun Shang Xiang, and Gan Ning before the full attack message (9:00.00)."
 		}, {
 			'Game': "DW4",
 			'Name': "Dark Feather",
