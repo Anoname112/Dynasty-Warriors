@@ -1985,26 +1985,33 @@ const warriors = {
 	'Gan Ning': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Sea Master",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 46,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"Speed: 22",
+				"Jump: 21",
+				"Attack: 25",
+				"Luck: 26",
+				"Musou Charge: 28"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "The Battle at He Fei (Sun Quan’s Forces)",
+			'Requirement': "Wait for Taishi Ci’s death event. This event occurs when he meets Zhang Liao, which will be early in the battle. Do not kill Zhang Liao before this event."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Seven Seas Blade",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 46,
+			'Element': "Wind",
 			'Stats': [
-				
+				"Speed: 24",
+				"Defense: 45",
+				"Reach: 28",
+				"Meat Bun Recovery: 12"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Battle of Yi Ling (Wu Forces)",
+			'Requirement': "Successfully navigate the stone soldier maze, and then defeat Zhuge Liang."
 		}, {
 			'Game': "DW4",
 			'Name': "Sea Master",
