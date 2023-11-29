@@ -2194,26 +2194,33 @@ const warriors = {
 	'Da Qiao': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "True Beauty",
 			'Rank': 4,
-			'Base': 43,
+			'Base': 37,
 			'Element': "-",
 			'Stats': [
-				
+				"Musou Max: 64",
+				"HP Max: 65",
+				"Attack: 22",
+				"Defense: 48",
+				"Luck: 29"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "You Ting (Wu; Sun Quan’s forces)",
+			'Requirement': "Defeat Zhang He. You will not be able to get this weapon in Musou Mode."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Yellow Beauty",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 37,
+			'Element': "Fire",
 			'Stats': [
-				
+				"HP Max: 65",
+				"Attack: 26",
+				"Reach: 22",
+				"Meat Bun Recovery: 10"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Surprise Attack on Liu Biao (Wu Forces)",
+			'Requirement': "After Sun Jian is killed, defeat Kuai Ling (east from Liu Biao)."
 		}, {
 			'Game': "DW4",
 			'Name': "Qiao Beauty",
