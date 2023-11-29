@@ -2125,26 +2125,32 @@ const warriors = {
 	'Sun Ce': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Overlord",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 42,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Speed: 21",
+				"Jump: 20",
+				"Musou Max: 80",
+				"HP Max: 72"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Assault on Wu Territory (Sun Ce’s Forces)",
+			'Requirement': "Defeat Liu Yong (the lord in the Southeast area of the map) before you defeat Taishi Ci. Taishi Ci will betray to your side and the special item report will occur."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "God of War",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 42,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"Speed: 22",
+				"Bow Defense: 50",
+				"Reach: 30",
+				"Musou Charge: 23"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Surprise attack on Liu Biao (Wu Forces)",
+			'Requirement': "After Sun Jian is killed, defeat Cai Mao (southeast from Liu Biao)."
 		}, {
 			'Game': "DW4",
 			'Name': "Overlord",
