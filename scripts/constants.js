@@ -2814,26 +2814,33 @@ const warriors = {
 	'Meng Huo': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "King of Beasts",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 48,
+			'Element': "Fire",
 			'Stats': [
-				
+				"HP Max: 88",
+				"Attack: 27",
+				"Mounted Attack: 54",
+				"Mounted Defense: 54"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Nanman Campaign (Nanman Forces)",
+			'Requirement': "Defeat Ma Chao, Zhang Yi and Ma Dai or defeat Zhang Fei, Zhang Bao, and Guan Xing."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Shadow Beast",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 48,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"Speed: 24",
+				"Attack: 30",
+				"Mounted Attack: 54",
+				"Luck: 13",
+				"Musou Charge: 8"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Assault on the Wu Territory (Xtreme) (Nanman Forces)",
+			'Requirement': "In order, defeat Lu Xun, Taishi Ci, Gan Ning, and then Lü Meng."
 		}, {
 			'Game': "DW4",
 			'Name': "King of Beasts",
