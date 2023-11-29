@@ -2745,26 +2745,32 @@ const warriors = {
 	'Zhang Jiao': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Volcano Staff",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 37,
+			'Element': "Fire",
 			'Stats': [
-				
+				"Musou Max: 72",
+				"Attack: 43",
+				"Reach: 27"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Yellow Turban Rebellion (Zhang Jiao’s Forces)",
+			'Requirement': "Defeat all three of Liu Bei’s officers, all five of Cao Cao’s officers, or all four of Sun Jian’s officers."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Thunder Staff",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 37,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"HP Max: 68",
+				"Defense: 43",
+				"Mounted Defense: 55",
+				"Luck: 18",
+				"Meat Bun Recovery: 13"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Nanman Campaign (Xtreme) (Zhang Jiao’s Forces)",
+			'Requirement': "All 4 peasant units escape through southern central troop entry point."
 		}, {
 			'Game': "DW4",
 			'Name': "Volcano Staff",
