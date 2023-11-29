@@ -2606,26 +2606,32 @@ const warriors = {
 	'Dong Zhuo': [
 		{
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Grand Star",
 			'Rank': 4,
-			'Base': 43,
-			'Element': "-",
+			'Base': 41,
+			'Element': "Lightning",
 			'Stats': [
-				
+				"HP Max: 70",
+				"Defense: 45",
+				"Reach: 25"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Hu Lao Gate (Dong Zhuo’s Forces)",
+			'Requirement': "Wait until the allied force has defeat all your generals but Lu Bu and Diao Chan. Diao Chan will betray to the allied forces’ side. Defeat Diao Chan. You will want to go out and keep Diao Chan safe while your officers are being defeated, but try not to kill to many soldiers of the allied force. Try not to kill any generals at all."
 		}, {
 			'Game': "DW3",
-			'Name': "",
+			'Name': "Black Steel",
 			'Rank': 5,
-			'Base': 43,
-			'Element': "-",
+			'Base': 41,
+			'Element': "Demon",
 			'Stats': [
-				
+				"Musou Max: 74",
+				"Defense: 45",
+				"Mounted Defense: 53",
+				"Reach: 29",
+				"Arrows: 30"
 			],
-			'Stage': "",
-			'Requirement': ""
+			'Stage': "Wu Zhang Plain (Xtreme) (Dong Zhuo’s Forces)",
+			'Requirement': "Prevent bombardment of allied headquarters by defeating Pang Tong while Fen Chou is still alive then wait for allied reinforcements."
 		}, {
 			'Game': "DW4",
 			'Name': "Horror",
