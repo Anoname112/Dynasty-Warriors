@@ -163,7 +163,7 @@ const warriors = {
 				"Mounted Defense: 57",
 				"Musou Max: 24"
 			],
-			'Stage': "Chang Ban (Liu Bei’s Forces)",
+			'Stage': "Battle of Chang Ban (Liu Bei’s Forces)",
 			'Requirement': "Go to Chang Ban bridge (the detailed bridge North of Xu Zhu) and wait until an officer attacks you there. When you meet the officer on the bridge you will see the Zhang Fei shout event. It does not matter what officer you meet on the bridge, they can come from the North or the South. You can also initiate the event by getting an officer to chase you to the bridge. When you have done this defeat Xiahou Dun and Xiahou Yuan."
 		}, {
 			'Game': "DW3",
