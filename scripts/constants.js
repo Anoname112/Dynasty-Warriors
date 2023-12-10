@@ -445,7 +445,7 @@ const warriors = {
 				"Bow Defense: 58",
 				"Reach: 26"
 			],
-			'Stage': "Battle of Mt. Ding Jun",
+			'Stage': "Battle of Mt. Ding Jun (Shu Forces)",
 			'Requirement': "Travel down the central patch and defeat Xiahou Shang."
 		}, {
 			'Game': "DW3",
