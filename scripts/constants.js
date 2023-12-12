@@ -459,7 +459,7 @@ const warriors = {
 				"Reach: 28",
 				"Arrows: 47"
 			],
-			'Stage': "Battle of Yi Ling (Shu Forces)",
+			'Stage': "Battle at Yi Ling (Shu Forces)",
 			'Requirement': "Prevent fire attack by defeating Zhu Ran, and then defeat Lu Xun."
 		}, {
 			'Game': "DW4",
