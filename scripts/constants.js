@@ -1506,7 +1506,7 @@ const warriors = {
 				"Reach: 25",
 				"Musou Charge: 27"
 			],
-			'Stage': "Chi Bi (Sun Quan’s Forces)",
+			'Stage': "Battle at Chi Bi (Sun Quan’s Forces)",
 			'Requirement': "Defeat Xiahou Dun and Xu Huang or Xiahou Dun and Zhang He."
 		}, {
 			'Game': "DW3",
