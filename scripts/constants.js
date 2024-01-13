@@ -1011,7 +1011,7 @@ const warriors = {
 				"Reach: 24"
 			],
 			'Stage': "Yellow Turban Rebellion (Allied Forces)",
-			'Requirement': "Defeat Zhang Bao and Zhang Liang without killing any Gate Captains and without loosing any of your own."
+			'Requirement': "Defeat Zhang Bao and Zhang Liang without defeating any Gate Captain and without losing any of your own."
 		}, {
 			'Game': "DW3",
 			'Name': "Blue Steel",
