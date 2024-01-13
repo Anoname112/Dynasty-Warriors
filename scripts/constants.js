@@ -1150,7 +1150,7 @@ const warriors = {
 				"Mounted Defense: 58",
 				"Reach: 21"
 			],
-			'Stage': "Battle of He Fei (Cao Cao’s Forces)",
+			'Stage': "Battle at He Fei (Cao Cao’s Forces)",
 			'Requirement': "Defeat Zhou Tai."
 		}, {
 			'Game': "DW3",
