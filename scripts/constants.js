@@ -1997,7 +1997,7 @@ const warriors = {
 				"Musou Charge: 28"
 			],
 			'Stage': "The Battle at He Fei (Sun Quan’s Forces)",
-			'Requirement': "Wait for Taishi Ci’s death event. This event occurs when he meets Zhang Liao, which will be early in the battle. Do not kill Zhang Liao before this event."
+			'Requirement': "Wait for Taishi Ci’s death event. This event occurs when he meets Zhang Liao, which will be early in the battle. Do not defeat Zhang Liao before this event."
 		}, {
 			'Game': "DW3",
 			'Name': "Seven Seas Blade",
