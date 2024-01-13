@@ -249,7 +249,7 @@ const warriors = {
 				"Reach: 25"
 			],
 			'Stage': "Battle at Chi Bi (Shu Forces)",
-			'Requirement': "Using first or second player, get 1,000 kills."
+			'Requirement': "Using first or second player, defeat 1,000 enemies."
 		}, {
 			'Game': "DW4",
 			'Name': "Peacock Feather",
