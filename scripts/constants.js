@@ -941,7 +941,7 @@ const warriors = {
 				"Luck: 27"
 			],
 			'Stage': "Tong Gate (Cao Cao’s Forces)",
-			'Requirement': "After defeating Ma Dai and Pang De (Ma Chao’s officers) pass through Tong Gate to trigger the special item report. If you are playing with two players it is okay for the second player to kill Ma Dai and Pang De, but it must be the first player (Xu Zhu) who passes through the gate."
+			'Requirement': "After defeating Ma Dai and Pang De (Ma Chao’s officers) pass through Tong Gate to trigger the special item report. If you are playing with two players it is okay for the second player to defeat Ma Dai and Pang De, but it must be the first player (Xu Zhu) who passes through the gate."
 		}, {
 			'Game': "DW3",
 			'Name': "Earthly Mace",
