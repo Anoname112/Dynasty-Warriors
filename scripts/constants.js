@@ -1754,7 +1754,7 @@ const warriors = {
 				"Wing Boots: 12"
 			],
 			'Stage': "Liu Bei's Escape",
-			'Requirement': "Defeat 150 enemies around the first enemy gate captain. Rescue the female guards on the way. Defeat Cheng Pu and Pan Zhang. Should defeat 200 enemies by now. Run to the gate with Xu Sheng and Ding Feng. Ignore the soldiers and defeat the officers with 3 female bodyguards. Run to Zhou Tai and Jiang Qin and defeat them. Rescue the last bodyguard. Do not let Zhao Yun appear at any point of the stage. He'll appear if you don't defeat 200 enemies by the time enemy reinforcements appear. Level 11 message when you cross the bridge."
+			'Requirement': "Defeat 150 enemies around the first enemy Gate Captain. Rescue the female guards on the way. Defeat Cheng Pu and Pan Zhang. Should defeat 200 enemies by now. Run to the gate with Xu Sheng and Ding Feng. Ignore the soldiers and defeat the officers with 3 female bodyguards. Run to Zhou Tai and Jiang Qin and defeat them. Rescue the last bodyguard. Do not let Zhao Yun appear at any point of the stage. He'll appear if you don't defeat 200 enemies by the time enemy reinforcements appear. Level 11 message when you cross the bridge."
 		}, {
 			'Game': "DW5",
 			'Name': "Sol Chakram",
