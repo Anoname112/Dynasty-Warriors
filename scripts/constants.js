@@ -178,7 +178,7 @@ const warriors = {
 				"Musou Charge: 24"
 			],
 			'Stage': "Battle of Mt. Ding Jun (Shu Forces)",
-			'Requirement': "Mount a horse, and from Huang Zhong’s starting position (the eastern trail) ride down the hill (north) and take the eastern turn when the trail forks. It is okay if you fall off the horse while moving down the hill. When you approach the bridge to the north a message will confirm your charge down the mountain. Defeat Cao Hong to prompt the item report."
+			'Requirement': "Mount a horse, and from Huang Zhong's starting position (the eastern trail) ride down the hill (north) and take the eastern turn when the trail forks. It is okay if you fall off the horse while moving down the hill. When you approach the bridge to the north a message will confirm your charge down the mountain. Defeat Cao Hong to prompt the item report."
 		}, {
 			'Game': "DW4",
 			'Name': "Viper Blade",
