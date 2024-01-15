@@ -92,7 +92,7 @@ const warriors = {
 				"Defense: 59",
 				"Musou Max: 25"
 			],
-			'Stage': "Guan Yu’s Escape (Guan Yu’s Forces)",
+			'Stage': "Guan Yu's Escape (Guan Yu's Forces)",
 			'Requirement': "Clear the 4th gate."
 		}, {
 			'Game': "DW3",
