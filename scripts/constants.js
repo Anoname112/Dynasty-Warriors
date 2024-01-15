@@ -320,7 +320,7 @@ const warriors = {
 				"Arrows: 27"
 			],
 			'Stage': "Battle of Jie Ting (Shu Forces)",
-			'Requirement': "When Ma Su is surrounded, defeat Du Xi to save him (south of the large open area on the western side of the map, below Zhang He’s initial position)."
+			'Requirement': "When Ma Su is surrounded, defeat Du Xi to save him (south of the large open area on the western side of the map, below Zhang He's initial position)."
 		}, {
 			'Game': "DW4",
 			'Name': "Gold Moon Dragon",
