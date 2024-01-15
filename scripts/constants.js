@@ -233,7 +233,7 @@ const warriors = {
 				"Bow Defense: 55",
 				"Mounted Defense: 55"
 			],
-			'Stage': "Battle at Wu Zhang Plains (Zhuge Liang’s Forces)",
+			'Stage': "Battle at Wu Zhang Plains (Zhuge Liang's Forces)",
 			'Requirement': "Defeat Cao Xiu after he arrives with his reinforcement troops."
 		}, {
 			'Game': "DW3",
