@@ -304,7 +304,7 @@ const warriors = {
 				"Mounted Defense: 52",
 				"Luck: 22"
 			],
-			'Stage': "Battle at Yi Ling (Liu Bei’s Forces)",
+			'Stage': "Battle at Yi Ling (Liu Bei's Forces)",
 			'Requirement': "Defeat Sun Shang Xiang."
 		}, {
 			'Game': "DW3",
