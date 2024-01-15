@@ -584,7 +584,7 @@ const warriors = {
 				"Reach: 22"
 			],
 			'Stage': "Battle of Jie Ting (Zhuge Liang's Forces)",
-			'Requirement': "After a little while Ma Su will charge the enemy but will instead be ambushed. When this happens find the enemy general attacking him (under Zhang He’s command) and defeat him to save Ma Su. Keep Ma Su safe. Defeat all enemy officers by Sima Yi and then enter his camp (the item report will occur)."
+			'Requirement': "After a little while, Ma Su will charge the enemy but will instead be ambushed. When this happens find the enemy general attacking him (under Zhang He's command) and defeat him to save Ma Su. Keep Ma Su safe. Defeat all enemy officers by Sima Yi and then enter his camp (the item report will occur)."
 		}, {
 			'Game': "DW3",
 			'Name': "Twin Stars",
