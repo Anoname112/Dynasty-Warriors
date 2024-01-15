@@ -514,7 +514,7 @@ const warriors = {
 				"Luck: 25"
 			],
 			'Stage': "Battle of Jie Ting (Zhuge Liang's Forces)",
-			'Requirement': "Defeat Cao Zhen and Zhen Ji. Because there seems to be a time limit or some other requirement for this weapon it is suggested that you move North and defeat Zhen Ji as soon as the battle begins and then immediately continue North to defeat Cao Zhen. If you defeat them both at the beginning (you can beat other officers on the way) the weapon report will show immediately. Also note that you do not have to approach Sima Yi’s encampment at all."
+			'Requirement': "Defeat Cao Zhen and Zhen Ji. Because there seems to be a time limit or some other requirement for this weapon it is suggested that you move North and defeat Zhen Ji as soon as the battle begins and then immediately continue North to defeat Cao Zhen. If you defeat them both at the beginning (you can beat other officers on the way) the weapon report will show immediately. Also note that you do not have to approach Sima Yi's encampment at all."
 		}, {
 			'Game': "DW3",
 			'Name': "Starlight Pike",
