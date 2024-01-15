@@ -654,7 +654,7 @@ const warriors = {
 				"Reach: 28",
 				"Musou Max: 29"
 			],
-			'Stage': "Battle of Cheng Du (Liu Bei’s Forces)",
+			'Stage': "Battle of Cheng Du (Liu Bei's Forces)",
 			'Requirement': "Trigger Zhang Ren's ambush, and defeat Zhang Ren."
 		}, {
 			'Game': "DW3",
