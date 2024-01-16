@@ -885,7 +885,7 @@ const warriors = {
 				"Bow Defense: 50"
 			],
 			'Stage': "Battle at He Fei (Wei Forces)",
-			'Requirement': "After the Taishi Ci Death Event, defeat Lu Xun. Later enemy backup troops will appear, defeat Gan Ning (south of Cao Cao’s camp)."
+			'Requirement': "After the Taishi Ci Death Event, defeat Lu Xun. Later enemy backup troops will appear, defeat Gan Ning (south of Cao Cao's camp)."
 		}, {
 			'Game': "DW4",
 			'Name': "Mad Bull",
