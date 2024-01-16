@@ -869,7 +869,7 @@ const warriors = {
 				"Attack: 27",
 				"Musou Max: 28"
 			],
-			'Stage': "Wan Castle (Cao Cao’s Forces)",
+			'Stage': "Wan Castle (Cao Cao's Forces)",
 			'Requirement': "Defeat Hu Che Er."
 		}, {
 			'Game': "DW3",
