@@ -801,7 +801,7 @@ const warriors = {
 				"Mounted Defense: 56",
 				"Reach: 24"
 			],
-			'Stage': "Guan Yu’s Escape (Xiahou Dun’s Forces)",
+			'Stage': "Guan Yu's Escape (Xiahou Dun's Forces)",
 			'Requirement': "Defeat Zhou Cang, Chen Zhen, and Guan Ping."
 		}, {
 			'Game': "DW3",
