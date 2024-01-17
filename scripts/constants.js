@@ -1220,7 +1220,7 @@ const warriors = {
 				"Luck: 24",
 				"Reach: 22"
 			],
-			'Stage': "Fan Castle (Sima Yi’s Forces)",
+			'Stage': "Fan Castle (Sima Yi's Forces)",
 			'Requirement': "Defeat Guan Ping before the flood event (10 minutes). If you plan to do this in free mode unlock the Wei side at Fan Castle first (you can do this by beating it in musou mode with Sima Yi)."
 		}, {
 			'Game': "DW3",
