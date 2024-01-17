@@ -1289,7 +1289,7 @@ const warriors = {
 				"Reach: 27",
 				"Musou Charge: 29"
 			],
-			'Stage': "Guan Du (Cao Cao’s Forces)",
+			'Stage': "Guan Du (Cao Cao's Forces)",
 			'Requirement': "Find and burn the enemy supply depot with Yan Liang and Wen Chou alive. The supply depot itself changes location each game."
 		}, {
 			'Game': "DW3",
