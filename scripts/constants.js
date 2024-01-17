@@ -1080,7 +1080,7 @@ const warriors = {
 				"Bow Attack: 58",
 				"Bow Defense: 59"
 			],
-			'Stage': "Battle of Mt. Ding Jun (Sima Yi’s Forces)",
+			'Stage': "Battle of Mt. Ding Jun (Sima Yi's Forces)",
 			'Requirement': "Wait for Huang Zhong to charge downhill (there will be an event) and defeat him. This occurs early in the battle if you fight up the hill toward him."
 		}, {
 			'Game': "DW3",
