@@ -1164,7 +1164,7 @@ const warriors = {
 				"Reach: 25",
 				"Musou Charge: 23"
 			],
-			'Stage': "Battle at Guan Du (Xtreme) (Dong Zhuo’s Forces)",
+			'Stage': "Battle at Guan Du (Xtreme) (Dong Zhuo's Forces)",
 			'Requirement': "Early in the battle archer towers will be set up. Defeat all archers in those towers before the castle wall falls, making sure you get the last kill."
 		}, {
 			'Game': "DW4",
