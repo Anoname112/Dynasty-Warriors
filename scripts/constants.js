@@ -1575,7 +1575,7 @@ const warriors = {
 				"Defense: 43",
 				"Reach: 29"
 			],
-			'Stage': "Battle at Yi Ling (Sun Quan’s Forces)",
+			'Stage': "Battle at Yi Ling (Sun Quan's Forces)",
 			'Requirement': "With either Lu Meng or Gan Ning alive complete the stone warrior formation (a square area in the central South area of the map with four mounds) and defeat Zhuge Liang."
 		}, {
 			'Game': "DW3",
