@@ -2205,7 +2205,7 @@ const warriors = {
 				"Defense: 48",
 				"Luck: 29"
 			],
-			'Stage': "You Ting (Wu; Sun Quan’s forces)",
+			'Stage': "Battle at You Ting (Wu Forces)",
 			'Requirement': "Defeat Zhang He. You will not be able to get this weapon in Musou Mode."
 		}, {
 			'Game': "DW3",
