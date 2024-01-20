@@ -1360,7 +1360,7 @@ const warriors = {
 				"Mounted Attack: 50",
 				"Reach: 25"
 			],
-			'Stage': "Jie Ting (Sima Yi’s Forces)",
+			'Stage': "Jie Ting (Sima Yi's Forces)",
 			'Requirement': "Defeat Jiang Wei."
 		}, {
 			'Game': "DW3",
