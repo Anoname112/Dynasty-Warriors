@@ -1871,7 +1871,7 @@ const warriors = {
 				"Mounted Attack: 55"
 			],
 			'Stage': "Battle at He Fei (Wu Forces)",
-			'Requirement': "Northwest from your starting position you will find Zhang Liao. Defeat him before he can get near Taishi Ci to prevent his death by arrows. From there, clear out all officers that threaten the central area, move north and to the east to clear out the northeastern area, then head west to Cao Cao’s camp. Avoid Cao Cao, but go around, find, and defeat Xu Zhu. Also take a moment to kill his gate captains. Run south to finish off a few remaining enemy officers and get the weapon, then return north to finish Cao Cao."
+			'Requirement': "Northwest from your starting position you will find Zhang Liao. Defeat him before he can get near Taishi Ci to prevent his death by arrows. From there, clear out all officers that threaten the central area, move north and to the east to clear out the northeastern area, then head west to Cao Cao's camp. Avoid Cao Cao, but go around, find, and defeat Xu Zhu. Also take a moment to kill his gate captains. Run south to finish off a few remaining enemy officers and get the weapon, then return north to finish Cao Cao."
 		}, {
 			'Game': "DW4",
 			'Name': "Master Wolf",
