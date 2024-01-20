@@ -1304,7 +1304,7 @@ const warriors = {
 				"Reach: 25",
 				"Musou Charge: 30"
 			],
-			'Stage': "Battle of Jie Ting (Xtreme) (Yuan Shao’s Forces)",
+			'Stage': "Battle of Jie Ting (Xtreme) (Yuan Shao's Forces)",
 			'Requirement': "In order, defeat Xu Zhu, Xiahou Yuan, Zhang Liao, Cao Zhen, Dian Wei, and then Xu Huang."
 		}, {
 			'Game': "DW4",
