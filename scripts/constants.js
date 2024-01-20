@@ -2274,7 +2274,7 @@ const warriors = {
 				"Luck: 28",
 				"Musou Charge: 30"
 			],
-			'Stage': "Nanman Campaign (Sun Quan’s Forces)",
+			'Stage': "Nanman Campaign (Sun Quan's Forces)",
 			'Requirement': "Defeat Zhu Rong."
 		}, {
 			'Game': "DW3",
