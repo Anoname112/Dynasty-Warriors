@@ -2066,7 +2066,7 @@ const warriors = {
 				"Reach: 23",
 				"Musou Charge: 27"
 			],
-			'Stage': "Chi Bi (Sun Quan’s Forces)",
+			'Stage': "Chi Bi (Sun Quan's Forces)",
 			'Requirement': "Defeat Zhang Liao."
 		}, {
 			'Game': "DW3",
