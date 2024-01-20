@@ -1925,7 +1925,7 @@ const warriors = {
 				"Mounted Defense: 54",
 				"Musou Charge: 25"
 			],
-			'Stage': "Fan Castle (Sima Yi’s Forces)",
+			'Stage': "Fan Castle (Sima Yi's Forces)",
 			'Requirement': "Defeat Guan Ping."
 		}, {
 			'Game': "DW3",
