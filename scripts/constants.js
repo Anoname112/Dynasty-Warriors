@@ -1856,7 +1856,7 @@ const warriors = {
 				"Bow Defense: 50",
 				"Musou Charge: 26"
 			],
-			'Stage': "Siege of He Fei Castle (Sun Quan’s Forces)",
+			'Stage': "Siege of He Fei Castle (Sun Quan's Forces)",
 			'Requirement': "Defeat Zhang He."
 		}, {
 			'Game': "DW3",
