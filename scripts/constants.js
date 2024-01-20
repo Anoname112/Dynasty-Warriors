@@ -2135,7 +2135,7 @@ const warriors = {
 				"Musou Max: 80",
 				"HP Max: 72"
 			],
-			'Stage': "Assault on Wu Territory (Sun Ce’s Forces)",
+			'Stage': "Assault on Wu Territory (Sun Ce's Forces)",
 			'Requirement': "Defeat Liu Yong (the lord in the Southeast area of the map) before you defeat Taishi Ci. Taishi Ci will betray to your side and the special item report will occur."
 		}, {
 			'Game': "DW3",
