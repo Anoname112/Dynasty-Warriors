@@ -1715,7 +1715,7 @@ const warriors = {
 				"Luck: 23",
 				"Reach: 30"
 			],
-			'Stage': "Battle of You Ting (Wu Forces)",
+			'Stage': "Battle at You Ting (Wu Forces)",
 			'Requirement': "Defeat Cao Xiu."
 		}, {
 			'Game': "DW3",
