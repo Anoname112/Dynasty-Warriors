@@ -1785,7 +1785,7 @@ const warriors = {
 				"Attack: 22",
 				"Defense: 49"
 			],
-			'Stage': "Surprise Attack on Liu Biao (Sun Jian’s Forces)",
+			'Stage': "Surprise Attack on Liu Biao (Sun Jian's Forces)",
 			'Requirement': "Defeat Lu Gong."
 		}, {
 			'Game': "DW3",
