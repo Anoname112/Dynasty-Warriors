@@ -2405,7 +2405,7 @@ const warriors = {
 				"Musou Charge: 26"
 			],
 			'Stage': "Battle at Wu Zhang Plains (Sima Yi's Forces)",
-			'Requirement': "Defeat Zhang Bao and at the 70 minute mark a Supply Team will appear by Zhang Bao’s starting position (make sure you defeat Zhang Bao before the 70 minute mark)."
+			'Requirement': "Defeat Zhang Bao and at the 70 minute mark a Supply Team will appear by Zhang Bao's starting position (make sure you defeat Zhang Bao before the 70 minute mark)."
 		}, {
 			'Game': "DW3",
 			'Name': "Raven Feather",
