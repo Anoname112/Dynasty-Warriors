@@ -2490,7 +2490,7 @@ const warriors = {
 				"Reach: 30",
 				"Musou Charge: 10"
 			],
-			'Stage': "Diao Chan’s Escape (Xtreme) (Diao Chan’s Forces)",
+			'Stage': "Diao Chan's Escape (Xtreme) (Diao Chan's Forces)",
 			'Requirement': "Defeat Lü Bu, and he will drop it."
 		}, {
 			'Game': "DW4",
