@@ -2475,7 +2475,7 @@ const warriors = {
 				"Reach: 28",
 				"Musou Charge: 30"
 			],
-			'Stage': "Hu Lao Gate (Dong Zhuo’s Forces)",
+			'Stage': "Battle of Hu Lao Gate (Dong Zhuo's Forces)",
 			'Requirement': "Defeat Yuan Shu (he starts in the Southeastern area of the map)."
 		}, {
 			'Game': "DW3",
