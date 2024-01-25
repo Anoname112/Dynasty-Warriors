@@ -2755,7 +2755,7 @@ const warriors = {
 				"Reach: 27"
 			],
 			'Stage': "Yellow Turban Rebellion (Zhang Jiao's Forces)",
-			'Requirement': "Defeat all three of Liu Bei’s officers, all five of Cao Cao’s officers, or all four of Sun Jian’s officers."
+			'Requirement': "Defeat all three of Liu Bei's officers, all five of Cao Cao's officers, or all four of Sun Jian's officers."
 		}, {
 			'Game': "DW3",
 			'Name': "Thunder Staff",
