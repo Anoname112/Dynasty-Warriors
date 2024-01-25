@@ -2546,7 +2546,7 @@ const warriors = {
 				"Attack: 30",
 				"Defense: 60"
 			],
-			'Stage': "Hu Lao Gate (Dong Zhuo’s Forces)",
+			'Stage': "Hu Lao Gate (Dong Zhuo's Forces)",
 			'Requirement': "Defeat Guan Yu, Zhang Fei, and Liu Bei. Don’t defeat Liu Bei first or Guan Yu and Zhang Fei will retreat."
 		}, {
 			'Game': "DW3",
