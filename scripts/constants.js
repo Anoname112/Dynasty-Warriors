@@ -2420,7 +2420,7 @@ const warriors = {
 				"Musou Charge: 25"
 			],
 			'Stage': "Siege of He Fei Castle (Wei Forces)",
-			'Requirement': "In order, defeat Lu Xun, Lü Meng, Sun Shang Xiang, and Gan Ning before the full attack message (9:00.00)."
+			'Requirement': "In order, defeat Lu Xun, Lu Meng, Sun Shang Xiang, and Gan Ning before the full attack message (9:00.00)."
 		}, {
 			'Game': "DW4",
 			'Name': "Dark Feather",
