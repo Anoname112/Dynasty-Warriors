@@ -2686,7 +2686,7 @@ const warriors = {
 				"Bow Attack: 51",
 				"Mounted Attack: 46"
 			],
-			'Stage': "Guan Du (Yuan Shao’s Forces)",
+			'Stage': "Guan Du (Yuan Shao's Forces)",
 			'Requirement': "Keep Wen Chou alive for 10 minutes. Go to his aid at the beginning of the battle, he will be in trouble quickly. As soon as he is safe, find and defeat Guan Yu (if Guan Yu gets near Wen Chou, Guan Yu will automatically kill Wen Chou). After defeating Guan Yu, return to Wen Chou and continue to protect him."
 		}, {
 			'Game': "DW3",
