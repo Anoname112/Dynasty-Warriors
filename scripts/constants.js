@@ -2547,7 +2547,7 @@ const warriors = {
 				"Defense: 60"
 			],
 			'Stage': "Hu Lao Gate (Dong Zhuo's Forces)",
-			'Requirement': "Defeat Guan Yu, Zhang Fei, and Liu Bei. Don’t defeat Liu Bei first or Guan Yu and Zhang Fei will retreat."
+			'Requirement': "Defeat Guan Yu, Zhang Fei, and Liu Bei. Don't defeat Liu Bei first or Guan Yu and Zhang Fei will retreat."
 		}, {
 			'Game': "DW3",
 			'Name': "Demon Slayer",
