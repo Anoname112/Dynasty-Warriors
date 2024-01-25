@@ -2769,7 +2769,7 @@ const warriors = {
 				"Luck: 18",
 				"Meat Bun Recovery: 13"
 			],
-			'Stage': "Nanman Campaign (Xtreme) (Zhang Jiao’s Forces)",
+			'Stage': "Nanman Campaign (Xtreme) (Zhang Jiao's Forces)",
 			'Requirement': "All 4 peasant units escape through southern central troop entry point."
 		}, {
 			'Game': "DW4",
