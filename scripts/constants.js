@@ -2630,7 +2630,7 @@ const warriors = {
 				"Reach: 29",
 				"Arrows: 30"
 			],
-			'Stage': "Battle at Wu Zhang Plains (Xtreme) (Dong Zhuo’s Forces)",
+			'Stage': "Battle at Wu Zhang Plains (Xtreme) (Dong Zhuo's Forces)",
 			'Requirement': "Prevent bombardment of allied headquarters by defeating Pang Tong while Fen Chou is still alive then wait for allied reinforcements."
 		}, {
 			'Game': "DW4",
