@@ -2840,7 +2840,7 @@ const warriors = {
 				"Musou Charge: 8"
 			],
 			'Stage': "Assault on the Wu Territory (Xtreme) (Nanman Forces)",
-			'Requirement': "In order, defeat Lu Xun, Taishi Ci, Gan Ning, and then Lü Meng."
+			'Requirement': "In order, defeat Lu Xun, Taishi Ci, Gan Ning, and then Lu Meng."
 		}, {
 			'Game': "DW4",
 			'Name': "King of Beasts",
