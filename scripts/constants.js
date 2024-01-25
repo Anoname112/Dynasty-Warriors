@@ -2616,7 +2616,7 @@ const warriors = {
 				"Reach: 25"
 			],
 			'Stage': "Hu Lao Gate (Dong Zhuo's Forces)",
-			'Requirement': "Wait until the allied force has defeat all your generals but Lu Bu and Diao Chan. Diao Chan will betray to the allied forces’ side. Defeat Diao Chan. You will want to go out and keep Diao Chan safe while your officers are being defeated, but try not to kill to many soldiers of the allied force. Try not to kill any generals at all."
+			'Requirement': "Wait until the allied force has defeat all your generals but Lu Bu and Diao Chan. Diao Chan will betray to the allied forces side. Defeat Diao Chan. You will want to go out and keep Diao Chan safe while your officers are being defeated, but try not to kill to many soldiers of the allied force. Try not to kill any generals at all."
 		}, {
 			'Game': "DW3",
 			'Name': "Black Steel",
