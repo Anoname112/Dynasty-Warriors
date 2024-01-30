@@ -2701,7 +2701,7 @@ const warriors = {
 				"Bow Defense: 49"
 			],
 			'Stage': "Battle at Hu Lao Gate (Xtreme) (Yuan Shao's Forces)",
-			'Requirement': "With Liu Bei, Cao Cao, Sun Jian, and Lü Bu still alive, and before the Dong Zhuo ambush event, defeat Diao Chan."
+			'Requirement': "With Liu Bei, Cao Cao, Sun Jian, and Lu Bu still alive, and before the Dong Zhuo ambush event, defeat Diao Chan."
 		}, {
 			'Game': "DW4",
 			'Name': "Sword of Kings",
