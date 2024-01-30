@@ -2561,7 +2561,7 @@ const warriors = {
 				"Attack: 30",
 				"Reach: 30"
 			],
-			'Stage': "Battle at Chi Bi (Xtreme) (Lü Bu's Forces)",
+			'Stage': "Battle at Chi Bi (Xtreme) (Lu Bu's Forces)",
 			'Requirement': "Defeat Lu Meng, Huang Gai, Taishi Ci, and Gan Ning."
 		}, {
 			'Game': "DW4",
