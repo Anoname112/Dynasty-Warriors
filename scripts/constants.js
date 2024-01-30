@@ -2491,7 +2491,7 @@ const warriors = {
 				"Musou Charge: 10"
 			],
 			'Stage': "Diao Chan's Escape (Xtreme) (Diao Chan's Forces)",
-			'Requirement': "Defeat Lü Bu, and he will drop it."
+			'Requirement': "Defeat Lu Bu, and he will drop it."
 		}, {
 			'Game': "DW4",
 			'Name': "Diva",
