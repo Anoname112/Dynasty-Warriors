@@ -567,7 +567,7 @@ const warriors = {
 				"Life: 17",
 			],
 			'Stage': "Battle of Tian Shui (Wei)",
-			'Requirement': "Defeat the reinforcement general, Gao Xiong."
+			'Requirement': "Do nothing until your commander starts to run away. Then defeat the reinforcement general, Gao Xiong."
 		}
 	],
 	'Wei Yan': [
