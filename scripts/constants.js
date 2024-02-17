@@ -47,7 +47,7 @@ const warriors = {
 			'Element': "-",
 			'Stats': [],
 			'Stage': "Battle of Bo Wan Po",
-			'Requirement': "First lead Xiahou Dun into the fire attack spot, then defeat Xiahou Dun. Next lead Han Hao into the ambush location, then defeat him after Guan Ping appears. Then lead Yu Jin into the next ambush spot, when Guan Yu's ambush arrives defeat Yu Jin. After Zhang Fei appears in the castle and burns the supply depot, lead Zhuge Liang into the castle to meet Cao Cao."
+			'Requirement': "First lead Xiahou Dun into the fire attack spot, then defeat Xiahou Dun. Next lead Han Hao into the ambush location, then defeat him after Guan Ping appears. Next lead Yu Jin into the next ambush spot, when Guan Yu's ambush arrives defeat Yu Jin. After Zhang Fei appears in the castle and burns the supply depot, lead Zhuge Liang into the castle to meet Cao Cao."
 		}, {
 			'Game': "DW4",
 			'Name': "Raging Dragon",
