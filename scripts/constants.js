@@ -76,7 +76,7 @@ const warriors = {
 				"Defense: 17"
 			],
 			'Stage': "Battle of Cheng Du",
-			'Requirement': "Defeat Liu Xun's three sub-generals then defeat Liu Xun himself, and capture Luo Castle."
+			'Requirement': "Defeat Liu Xun's three sub-generals, then defeat Liu Xun himself and capture Luo Castle."
 		}
 	],
 	'Guan Yu': [
