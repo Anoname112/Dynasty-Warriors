@@ -108,7 +108,7 @@ const warriors = {
 				"Musou Charge: 25"
 			],
 			'Stage': "Battle of Fan Castle (Guan Yu's Forces)",
-			'Requirement': "Defeat the generals in this order:  Pang De, Lu Xun, Gan Ning, Lu Meng."
+			'Requirement': "Defeat these generals in this order: Pang De, Lu Xun, Gan Ning, Lu Meng."
 		}, {
 			'Game': "DW4",
 			'Name': "Blue Moon Dragon",
